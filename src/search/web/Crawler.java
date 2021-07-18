@@ -22,8 +22,6 @@ public class Crawler {
 
 	private static void crawlWeb(int depth, String url, ArrayList<String> visitedURL) {
 		if (!isEmpty(url) && depth <= MAX_DEPTH) {
-			System.out.println("Level: " + depth);
-			//System.out.println("URL: " + url);
 			Document doc = getDocument(url, visitedURL);
 			if (doc != null) {
 				Elements elements = doc.select("a[href]");
@@ -39,8 +37,6 @@ public class Crawler {
 	}
 
 	private static boolean isEmpty(String url) {
-		//Pattern pattern = Pattern.compile(URL_PATTERN);
-		
 		if (url != null && url != "" && Pattern.matches(URL_PATTERN, url))
 			return false;
 		return true;
