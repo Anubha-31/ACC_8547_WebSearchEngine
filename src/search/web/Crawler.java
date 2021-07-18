@@ -10,17 +10,18 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class Crawler {
-	
+
 	private static final int MAX_DEPTH = 2;
 
 	public static void main(String[] args) {
-		 crawlWeb(1, "https://en.wikipedia.org/", new ArrayList<String>());
+		crawlWeb(1, "https://www.shiksha.com/", new ArrayList<String>());
 
 	}
 
 	private static void crawlWeb(int depth, String url, ArrayList<String> visitedURL) {
-		if (/* !visitedURL.contains(url) && */ depth <= MAX_DEPTH) {
-			System.out.println("Level: "+ depth);
+		if (!isEmpty(url) && depth <= MAX_DEPTH) {
+			System.out.println("Level: " + depth);
+			//System.out.println("URL: " + url);
 			Document doc = getDocument(url, visitedURL);
 			if (doc != null) {
 				Elements elements = doc.select("a[href]");
@@ -32,7 +33,13 @@ public class Crawler {
 				}
 			}
 		}
-		//System.out.println("Anubha");
+
+	}
+
+	private static boolean isEmpty(String url) {
+		if (url != null && url != "")
+			return false;
+		return true;
 	}
 
 	private static Document getDocument(String url, ArrayList<String> visitedURL) {
@@ -46,6 +53,7 @@ public class Crawler {
 				return doc;
 			}
 		} catch (IOException e) {
+
 			e.printStackTrace();
 		}
 
