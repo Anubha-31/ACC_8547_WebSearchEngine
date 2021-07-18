@@ -2,6 +2,7 @@ package search.web;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.regex.Pattern;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
@@ -12,6 +13,7 @@ import org.jsoup.select.Elements;
 public class Crawler {
 
 	private static final int MAX_DEPTH = 2;
+	private static final String URL_PATTERN = "((http|https)://)(www.)?[a-zA-Z0-9@:%._\\+~#?&//=]{2,256}\\.[a-z]{2,6}([-a-zA-Z0-9@:%._\\+~#?&//=]*)";
 
 	public static void main(String[] args) {
 		crawlWeb(1, "https://www.shiksha.com/", new ArrayList<String>());
@@ -37,7 +39,9 @@ public class Crawler {
 	}
 
 	private static boolean isEmpty(String url) {
-		if (url != null && url != "")
+		//Pattern pattern = Pattern.compile(URL_PATTERN);
+		
+		if (url != null && url != "" && Pattern.matches(URL_PATTERN, url))
 			return false;
 		return true;
 	}
