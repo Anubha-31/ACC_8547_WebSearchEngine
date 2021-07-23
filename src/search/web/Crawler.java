@@ -43,12 +43,13 @@ public class Crawler {
 	}
 
 	private static Document getDocument(String url, ArrayList<String> visitedURL) {
-
+		TextToHTML html = new TextToHTML();
 		Connection conn = Jsoup.connect(url);
 		try {
 			Document doc = conn.ignoreContentType(true).get();
 			if (conn.response().statusCode() == 200) {
 				System.out.println("Link " + url);
+				html.testfiles(url);
 				visitedURL.add(url);
 				return doc;
 			}
