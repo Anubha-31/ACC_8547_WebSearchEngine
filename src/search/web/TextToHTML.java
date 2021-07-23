@@ -23,27 +23,14 @@ public class TextToHTML {
     
 		Document doc = Jsoup.connect(url).get();
 		String location=null;
-//		if (doc.title()!=null)
-//		{
-//			
-//		 location ="TextFiles//"+doc.title()+".htm";
-//		}
-//		else
-//		{
-//		 location ="TextFiles//"+url+".htm";
-//		}
+
 		long name = System.currentTimeMillis();
         String loc =String.valueOf(name);
         
-		location ="TextFiles//"+loc+".htm";
+		location ="TextFiles//"+loc+".txt";
 				
-		//System.out.println("location "+location);
 		File file3 = new File(location);
-		
-
-	//	System.out.println("file3 "+file3.toString());
-		
-		if(!file3.exists())
+        if(!file3.exists())
 		file3.createNewFile();
 		Elements element = doc.select("*");
 

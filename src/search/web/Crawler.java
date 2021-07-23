@@ -1,5 +1,6 @@
 package search.web;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.regex.Pattern;
@@ -15,8 +16,18 @@ public class Crawler {
 	private static final int MAX_DEPTH = 2;
 	private static final String URL_PATTERN = "((http|https)://)(www.)?[a-zA-Z0-9@:%._\\+~#?&//=]{2,256}\\.[a-z]{2,6}([-a-zA-Z0-9@:%._\\+~#?&//=]*)";
 
-	public static void main(String[] args) {
-		crawlWeb(1, "https://www.shiksha.com/", new ArrayList<String>());
+	public static void main(String[] args) throws IOException {
+		
+		String url="https://www.shiksha.com/";
+		Boolean flag=Cache.isAvailable(url);
+		if (flag==false) {
+		Cache.Addcache(url);
+		crawlWeb(1, url, new ArrayList<String>());
+		
+		}
+		else {
+		System.out.println("This URL has already been crawled.");
+		}
 
 	}
 
@@ -45,6 +56,7 @@ public class Crawler {
 	private static Document getDocument(String url, ArrayList<String> visitedURL) {
 		TextToHTML html = new TextToHTML();
 		Connection conn = Jsoup.connect(url);
+		
 		try {
 			Document doc = conn.ignoreContentType(true).get();
 			if (conn.response().statusCode() == 200) {
@@ -61,5 +73,6 @@ public class Crawler {
 		return null;
 
 	}
+
 
 }
