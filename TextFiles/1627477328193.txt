@@ -1,0 +1,74 @@
+
+
+
+SWAYAM-NPTEL LocalChapter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+Home
+
+About us
+
+Quick Reference Links
+
+Events
+
+Contact Us
+
+
+
+
+SPOC LOGIN
+
+(Use Google Chrome or IExplorer for sign in. If you are using Firefox, please Refresh your screen after clicking on the Sign in button)
+
+
+
+
+
+Please read the below Instructions carefully before login.
+
+
+
+If your email id is not a gmail id, please follow the steps given here to create a google account using your email id (which can be hotmail, yahoo or any institute id also).
+Please go to the url
+https://accounts.google.com/SignUp
+Enter your name.
+In the field "Choose your user name" - select the option below the box given as
+"I prefer to use my current email address"
+Fill in the other details requested for in the page.
+Enter the verification code.
+Agree to the terms and conditions and click on "Next step"
+
+
+
+

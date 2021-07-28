@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+Swayam Central
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | |
+About Swayam
+All Courses
+National Coordinators
+Local Chapters
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+COURSE CATALOG
+
+
+
+
+All
+
+Annual Refresher Programme in Teaching (ARPIT)
+
+Architecture and Planning
+
+Engineering and Technology
+
+
+
+
+All
+
+Aerospace Engineering
+
+Agricultural and Food Engineering
+
+Biological Sciences & Bioengineering
+
+Chemical Engineering
+
+Civil Engineering
+
+Computer Science and Engineering
+
+Design Engineering
+
+Electrical, Electronics and Communications Engineering
+
+Mechanical Engineering
+
+Metallurgy and Material science & Mining Engineering
+
+Multidisciplinary
+
+Ocean Engineering
+
+Textile Engineering
+
+Humanities & Arts
+
+
+
+
+All
+
+Anthropology
+
+Arts
+
+Communications
+
+Economics
+
+English
+
+Geography
+
+History
+
+Humanities and Social Sciences
+
+Journalism (mass media)
+
+Language
+
+Linguistics
+
+Philosophy
+
+Political Science
+
+Sociology
+
+Law
+
+
+
+
+All
+
+Constitutional Law
+
+Corporate Law
+
+Criminal Law
+
+Cyber Law
+
+Human Rights
+
+Intellectual Property Rights
+
+Labour Law
+
+Law
+
+Management & Commerce
+
+
+
+
+All
+
+Accountancy
+
+Analytics and Decision Sciences
+
+Banking and Insurance
+
+Business Administration
+
+Commerce
+
+Computer Applications
+
+Economics & Social Sciences
+
+Entrepreneurship
+
+Finance
+
+HRM and Organizational Behaviour
+
+Information Systems
+
+Management Communication
+
+Management Studies
+
+Marketing
+
+Production and Operations
+
+Public Policy
+
+Strategy
+
+Taxation
+
+Maths & Sciences
+
+
+
+
+All
+
+Applied Sciences
+
+Biotechnology
+
+Botany
+
+Chemistry
+
+Computer Applications
+
+Computer Science
+
+Earth Sciences
+
+Environmental Sciences
+
+Information Technology
+
+Library and Information Sciences
+
+Mathematics
+
+Microbiology
+
+Physics
+
+Zoology
+
+NPTEL Domain
+
+
+
+
+All
+
+Advanced Dynamics and Vibration
+
+Advanced Mechanics
+
+Artificial Intelligence
+
+Bioengineering
+
+Bioprocesses
+
+Biosciences
+
+Communication and Signal Processing
+
+Computational Biology
+
+Computational Chemical Engineering
+
+Computational Engineering
+
+Computational Mechanics
+
+Computational Thermo Fluids
+
+Construction Materials Technology
+
+Control and Instrumentation
+
+Data Science
+
+Electronic Materials
+
+Energy Systems
+
+Energy and Environment
+
+Environment
+
+Faculty Domain for Experienced
+
+Faculty Domain for Newly Joined
+
+Flight Mechanics
+
+Foundations of Computing
+
+Manufacturing Processes and Technology
+
+Marketing
+
+Materials Joining
+
+Minor 1 in Chemical
+
+Minor 2 in Chemical
+
+Minor 3 in Chemical
+
+Minor in Management
+
+Operations
+
+Patents and Intellectual Property Rights
+
+Photonics
+
+Power Systems and Power Electronics
+
+Product Design
+
+Programming
+
+Propulsion
+
+Structural Analysis
+
+Structural Design
+
+Systems
+
+VLSI design
+
+School
+
+Teacher Education
+
+
+
+
+All
+
+Teacher Education
+
+
+
+
+
+
+
+
+Sign-In / Register
+
+
+
+>
+Home
+About Swayam
+
+
+About SWAYAM
+SWAYAM is a programme initiated by Government of India and designed to achieve the three cardinal principles of Education Policy viz., access, equity and quality. The objective of this effort is to take the best teaching learning resources to all, including the most disadvantaged. SWAYAM seeks to bridge the digital divide for students who have hitherto remained untouched by the digital revolution and have not been able to join the mainstream of the knowledge economy.
+
+
+
+
+This is done through a platform that facilitates hosting of all the courses, taught in classrooms from Class 9 till post-graduation to be accessed by anyone, anywhere at any time. All the courses are interactive, prepared by the best teachers in the country and are available, free of cost to any learner. More than 1,000 specially chosen faculty and teachers from across the country have participated in preparing these courses.
+The courses hosted on SWAYAM are in 4 quadrants – (1) video lecture, (2) specially prepared reading material that can be downloaded/printed (3) self-assessment tests through tests and quizzes and (4) an online discussion forum for clearing the doubts. Steps have been taken to enrich the learning experience by using audio-video and multi-media and state of the art pedagogy / technology.
+In order to ensure that best quality content is produced and delivered, nine National Coordinators have been appointed. They are:
+
+(All India Council for Technical Education) for self-paced and international courses
+AICTE
+(National Programme on Technology Enhanced Learning) for Engineering
+NPTEL
+(University Grants Commission) for non technical post-graduation education
+UGC
+(Consortium for Educational Communication) for under-graduate education
+CEC
+(National Council of Educational Research and Training) for school education
+NCERT
+(National Institute of Open Schooling) for school education
+NIOS
+(Indira Gandhi National Open University) for out-of-school students
+IGNOU
+(Indian Institute of Management, Bangalore) for management studies
+IIMB
+(National Institute of Technical Teachers Training and Research) for Teacher Training programme
+NITTTR
+
+
+Courses delivered through SWAYAM are available free of cost to the learners, however learners wanting a SWAYAM certificate should register for the final proctored exams that come at a fee and attend in-person at designated centres on specified dates. Eligibility for the certificate will be announced on the course page and learners will get certificates only if this criteria is matched. Universities/colleges approving credit transfer for these courses can use the marks/certificate obtained in these courses for the same.
+
+
+
+School Education
+
+NIOS
+NCERT
+
+
+
+Out-of-School Education
+
+IGNOU
+NITTTR
+
+
+
+Under-Graduate Education
+
+NPTEL
+AICTE
+CEC
+IIMB
+
+
+
+Post-Graduate Education
+
+NPTEL
+AICTE
+IIMB
+UGC
+
+Credit Transfer
+UGC has already issued the UGC (Credit Framework for online learning courses through SWAYAM) Regulation 2016 advising the Universities to identify courses where credits can be transferred on to the academic record of the students for courses done on SWAYAM. AICTE has also put out gazette notification in 2016 and subsequently for adoption of these courses for credit transfer.
+The current SWAYAM platform is developed by Ministry of Education and NPTEL, IIT Madras with the help of Google Inc. and Persistent Systems Ltd.
+
+
+
+
+Guideline for Developing Online Courses for SWAYAM
+
+
+
+
+
+
+
+
+University Grants Commission Gazette: Credit Framework for Online Learning Courses through SWAYAM
+
+
+
+
+
+
+
+
+
+All India Council for Technical Education Gazette: Credit Framework for Online Learning Courses through SWAYAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOWNLOAD APP
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+|
+Terms of Use
+|
+Honor Code
+|
+FAQs
+
+SWAYAM Helpline / Support
+
+
+
+© 2021 SWAYAM. All rights reserved.
+
+Initiative by : Ministry of Education (Govt of India)
+
+
+
+
+
+×
+SWAYAM SUPPORT
+
+
+Please choose the SWAYAM National Coordinator for support. :
+*
+
+select
+CEC
+IIMB
+IGNOU
+NCERT
+NITTTR
+NIOS
+AICTE
+NPTEL
+
+
+
+
+
+
+
+
+
+

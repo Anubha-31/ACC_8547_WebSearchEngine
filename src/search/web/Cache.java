@@ -11,27 +11,25 @@ import search.utility.In;
 
 public class Cache {
 
-	public static void Addcache(String Url) throws IOException
-	{
+	public static void addcache(String Url) throws IOException {
 		FileWriter fstream = new FileWriter("Cache.txt");
 		BufferedWriter out = new BufferedWriter(fstream);
 		out.append(Url);
 		out.newLine();
 		out.flush();
 		fstream.flush();
-			
+
 	}
-	
-	public static void deleteCache(String Url) throws IOException
-	{
+
+	public static void deleteCache(String Url) throws IOException {
 		File fstream = new File("CacheTemp.txt");
 		BufferedWriter out = new BufferedWriter(new FileWriter(fstream));
 		try {
 			In in = new In("Cache.txt");
-			//System.out.println(in.toString());
+			// System.out.println(in.toString());
 			while (!in.isEmpty()) {
 				String s = in.readLine();
-			//	System.out.println(s);
+				// System.out.println(s);
 				if (!s.equals(Url)) {
 					out.append(Url);
 					out.newLine();
@@ -43,18 +41,18 @@ public class Cache {
 
 		out.flush();
 		out.close();
-		
+
 		FileWriter fstream1 = new FileWriter("Cache.txt");
 		BufferedWriter out1 = new BufferedWriter(fstream1);
-		
+
 		try {
 			In in = new In("CacheTemp.txt");
-		//	System.out.println(in.toString());
+			// System.out.println(in.toString());
 			while (!in.isEmpty()) {
 				String s = in.readLine();
-		
-					out1.write(Url);
-				
+
+				out1.write(Url);
+
 			}
 		} catch (Exception e) {
 			System.out.println(e.getStackTrace());
@@ -62,29 +60,28 @@ public class Cache {
 		out1.flush();
 		fstream1.flush();
 		out1.close();
-		
+
 		File f = new File("TextFiles//");
 		FileUtils.cleanDirectory(f);
 		f.delete();
 		System.out.println("Cache has been sucesfully deleted");
-	}   
-	
-	public static Boolean isAvailable(String Url)
-	{
-	    Boolean flag =false;
+	}
+
+	public static Boolean isAvailable(String Url) {
+		Boolean flag = false;
 		try {
 			In in = new In("Cache.txt");
 
 			while (!in.isEmpty()) {
 				String s = in.readLine();
 				if (s.equals(Url))
-					flag =true;
+					flag = true;
 			}
-		//	System.out.println();
+			// System.out.println();
 		} catch (Exception e) {
 			System.out.println(e);
 		}
 		return flag;
 	}
-	
+
 }

@@ -1,0 +1,1607 @@
+
+
+
+
+
+
+
+Jan 2021 Semester- Revised Exam date(August 8,2021) - Google Drive
+
+
+
+
+
+
+
+
+
+
+Jan 2021 Semester- Revised Exam date(August 8,2021) : Sheet1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+Course id
+Discipline
+Course Name
+SME Name
+Institute
+Duration
+Exam Date
+
+
+2
+noc21-ae02
+Aerospace Engineering
+Computational Science in Engineering
+Prof. Ashoke De
+IITK
+8 Weeks
+August 8, 2021
+
+
+3
+noc21-ae03
+Aerospace Engineering
+Gasdynamics: Fundamentals and Applications
+Prof. Srisha Rao M V
+IISc
+12 Weeks
+August 8, 2021
+
+
+4
+noc21-me02
+Applied mechanics
+Experimental Stress Analysis
+Prof. K. Ramesh
+IITM
+12 Weeks
+August 8, 2021
+
+
+5
+noc21-bt03
+
+Biotechnology and Bioengineering
+Thermodynamics for Biological Systems: Classical and Statistical Aspect
+Prof. Suraishkumar G K Prof. Sanjib Senapati
+
+IITM
+12 Weeks
+August 8, 2021
+
+
+6
+noc21-bt04
+
+Biotechnology and Bioengineering
+Material and Energy Balances
+Prof. Vignesh Muthuvijayan
+IITM
+12 Weeks
+August 8, 2021
+
+
+7
+noc21-bt09
+
+Biotechnology and Bioengineering
+Introductory Mathematical Methods for Biologists
+Prof. Ranjit Padinhateeri
+IITB
+8 Weeks
+August 8, 2021
+
+
+8
+noc21-bt10
+
+Biotechnology and Bioengineering
+Interactomics : Basics & Applications
+Prof. Sanjeeva Srivastava
+IITB
+12 Weeks
+August 8, 2021
+
+
+9
+noc21-bt15
+
+Biotechnology and Bioengineering
+Optical Spectroscopy and Microscopy : Fundamentals of optical measurements and instrumentation
+Prof. Balaji Jayaprakash
+IISc
+12 Weeks
+August 8, 2021
+
+
+10
+noc21-bt16
+
+Biotechnology and Bioengineering
+Computational Systems Biology
+Prof. Karthik Raman
+IITM
+12 Weeks
+August 8, 2021
+
+
+11
+noc21-bt17
+
+Biotechnology and Bioengineering
+Aspects Of Biochemical Engineering
+Prof. Debabrata Das
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+12
+noc21-ch01
+Chemical Engineering
+Transport phenomena
+Prof. Sunando DasGupta
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+13
+noc21-ch02
+Chemical Engineering
+Optimization in Chemical Engineering
+Prof. Debasis Sarkar
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+14
+noc21-ch03
+Chemical Engineering
+Transport Processes I: Heat and Mass Transfer
+Prof. V. Kumaran
+IISc
+12 Weeks
+August 8, 2021
+
+
+15
+noc21-ch04
+Chemical Engineering
+Process Control - Design, Analysis and Assessment
+Prof. Ragunathan Rengasamy
+IITM
+12 Weeks
+August 8, 2021
+
+
+16
+noc21-ch05
+Chemical Engineering
+Computational Fluid Dynamics
+Prof. Sreenivas Jayanti
+IITM
+12 Weeks
+August 8, 2021
+
+
+17
+noc21-ch06
+Chemical Engineering
+Mass Transfer Operations -I
+Prof. Bishnupada Mandal
+IITG
+12 Weeks
+August 8, 2021
+
+
+18
+noc21-ch07
+Chemical Engineering
+Heat Transfer
+Prof. Ganesh Viswanathan
+IITB
+12 Weeks
+August 8, 2021
+
+
+19
+noc21-ch08
+Chemical Engineering
+Chemical Reaction Engineering II
+Prof. Ganesh Vishwanathan
+IITB
+12 Weeks
+August 8, 2021
+
+
+20
+noc21-ch12
+Chemical Engineering
+Polymer Reaction Engineering
+Prof. Shishir Sinha
+IITR
+12 Weeks
+August 8, 2021
+
+
+21
+noc21-ch17
+Chemical Engineering
+Chemical Engineering Thermodynamics
+Prof. Sasidhar Gumma
+IIT Tirupati
+12 Weeks
+August 8, 2021
+
+
+22
+noc21-ge01
+
+Chemical Engineering/Multidisciplinary
+Model Predictive Control: Theory and Applications
+Prof. Niket Kaisare
+IITM
+12 Weeks
+August 8, 2021
+
+
+23
+noc21-ch18
+Chemical Engineering
+Process Equipment Design
+Prof. Shabina Khanam
+IITR
+12 Weeks
+August 8, 2021
+
+
+24
+noc21-ch19
+Chemical Engineering
+Advanced Thermodynamics and Molecular Simulations
+Prof. Prateek Kumar Jha
+IITR
+12 Weeks
+August 8, 2021
+
+
+25
+noc21-ch20
+Chemical Engineering
+Basic Principles and Calculations in Chemical Engineering
+Prof. Subrata Kumar Majumder
+IITG
+12 Weeks
+August 8, 2021
+
+
+26
+noc21-ch21
+Chemical Engineering
+Fluid Flow Operations
+Prof. Subrata Kumar Majumder
+IITG
+12 Weeks
+August 8, 2021
+
+
+27
+noc21-ch22
+Chemical Engineering
+Computer Aided Applied Single Objective Optimization
+Prof. Prakash Kotecha
+IITG
+8 Weeks + 4 weeks new
+August 8, 2021
+
+
+28
+noc21-ch23
+Chemical Engineering
+Advanced Thermodynamics
+Prof. Nanda Kishore
+IITG
+12 Weeks
+August 8, 2021
+
+
+29
+noc21-ch28
+Chemical Engineering
+Applied Time-Series Analysis
+Prof. Arun K. Tangirala
+IITM
+12 Weeks
+August 8, 2021
+
+
+30
+noc21-cy01
+Chemistry
+Basic thermodynamics: Classical and Statistical Approaches
+Prof. Arnab Mukherjee
+IISER Pune
+12 Weeks
+August 8, 2021
+
+
+31
+noc21-cy03
+Chemistry
+Reactive Intermediates Carbene and Nitrene
+Prof. Rajarshi Samanta
+IIT KGP
+4 Weeks
+August 8, 2021
+
+
+32
+noc21-cy04
+Chemistry
+Pericyclic Reactions and Organic Photochemistry
+Prof. Sankararaman
+IITM
+8 Weeks
+August 8, 2021
+
+
+33
+noc21-cy07
+Chemistry
+Symmetry, Stereochemistry and Applications
+Prof. Angshuman Roy Choudhury
+IISER Mohali
+12 Weeks
+August 8, 2021
+
+
+34
+noc21-cy08
+Chemistry
+Essentials of Oxidation, Reduction and C-C Bond Formation. Application in Organic Synthesis
+Prof. Yashwant D Vankar
+IITB
+12 Weeks
+August 8, 2021
+
+
+35
+noc21-cy09
+Chemistry
+Fundamentals of Spectroscopy
+Prof. Sayan Bagchi Prof. Anirban Hazra
+
+
+NCL Pune, IISER Pune
+
+12 Weeks
+August 8, 2021
+
+
+36
+noc21-cy11
+Chemistry
+Transition Metal Organometallics in Catalysis and Biology
+Prof. P. Ghosh
+IITB
+12 Weeks
+August 8, 2021
+
+
+37
+noc21-cy12
+Chemistry
+Advanced Transition Metal Organometallic Chemistry
+Prof. P. Ghosh
+IITB
+12 Weeks
+August 8, 2021
+
+
+38
+noc21-cy13
+Chemistry
+Molecular Spectroscopy: A Physical Chemist's Perspective
+Prof. Anindya Datta
+IITB
+12 Weeks
+August 8, 2021
+
+
+39
+noc21-cy14
+Chemistry
+Ultrafast laser spectroscopy
+Prof. Anindya Datta
+IITB
+12 Weeks
+August 8, 2021
+
+
+40
+noc21-cy16
+Chemistry
+Symmetry and Group Theory
+Prof. Jeetender Chugh
+IISER PUNE
+12 Weeks
+August 8, 2021
+
+
+41
+noc21-cy23
+Chemistry
+Advanced Chemical Thermodynamics and Kinetics
+Prof. Arijit Kumar De
+IISER Mohali
+12 Weeks
+August 8, 2021
+
+
+42
+noc21-cy27
+Chemistry
+Quantitative Methods in Chemistry
+Prof. Aasheesh Srivastava Prof. Bharathwaj Sathyamoorthy
+
+IISER Bhopal
+
+8 Weeks (12- 4 weeks)
+August 8, 2021
+
+
+43
+noc21-ce23
+Civil Engineering
+Advanced Soil Mechanics
+Prof. Sreedeep S
+IITG
+12 Weeks
+August 8, 2021
+
+
+44
+noc21-ce32
+Civil Engineering
+Structural Dynamics
+
+Prof. Ramancharala Pradeep Kumar
+
+IIIT Hyderabad
+12 Weeks
+August 8, 2021
+
+
+45
+noc21-ce33
+Civil Engineering
+Advanced Foundation Engineering
+Prof. Kousik Deb
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+46
+noc21-ce37
+Earth Sciences
+Structural Geology
+Prof. Santanu Misra
+IITK
+12 Weeks
+August 8, 2021
+
+
+47
+noc21-cs29
+
+Computer Science and Engineering
+Foundations to Computer Systems Design
+Prof. Kamakoti Veezhinathan
+IITM
+12 Weeks
+August 8, 2021
+
+
+48
+noc21-cs36
+
+Computer Science and Engineering
+Discrete Mathematics - IIITB
+Prof. Ashish Choudhury
+
+IIIT Bangalore
+12 Weeks
+August 8, 2021
+
+
+49
+noc21-cs40
+Computer Science and Engineering
+Computational Geometry
+Prof. Amit Kumar
+IITD
+12 Weeks
+August 8, 2021
+
+
+50
+noc21-cs43
+Computer Science and Engineering
+Foundations of Cryptography
+Prof. Ashish Choudhury
+
+IIIT Bangalore
+12 Weeks
+August 8, 2021
+
+
+51
+noc21-cs49
+Computer Science and Engineering
+Computational Complexity Theory
+Prof. Raghunath Tewari
+IITK
+12 Weeks
+August 8, 2021
+
+
+52
+noc21-cs53
+/Mathematics
+Computer Science and Engineering
+Randomized Methods in Complexity
+Prof. Nitin Saxena
+IITK
+12 Weeks
+August 8, 2021
+
+
+53
+noc21-hs01
+Economics
+Introduction to Econometrics
+Prof. Sabuj Kumar Mandal
+IITM
+12 Weeks
+August 8, 2021
+
+
+54
+noc21-ee04
+
+Electrical and Electronics Engineering
+Mathematical Methods and Techniques in Signal Processing
+Prof. Shayan Srinivasa Garani
+IISc
+12 Weeks
+August 8, 2021
+
+
+55
+noc21-ee06
+
+Electrical and Electronics Engineering
+Nonlinear System Analysis
+
+Prof. Ramkrishna Pasumarthy Prof. Arunkumar D Mahindrakar
+
+IITM
+12 Weeks
+August 8, 2021
+
+
+56
+noc21-ee16
+
+Electrical and Electronics Engineering
+Power System Dynamics, Control and Monitoring
+Prof. Debapriya Das
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+57
+noc21-ee20
+
+Electrical and Electronics Engineering
+Digital Signal Processing and its Applications
+Prof. V. M. Gadre
+IITB
+12 Weeks
+August 8, 2021
+
+
+58
+noc21-ee21
+Electrical and Electronics Engineering
+Introduction to Time - Varying Electrical Networks
+Prof. Shanthi Pavan
+IITM
+12 Weeks
+August 8, 2021
+
+
+59
+noc21-ee35
+Electrical and Electronics Engineering
+Photonic integrated circuit
+Prof. Shankar Kumar Selvaraja
+IISc
+12 Weeks
+August 8, 2021
+
+
+60
+noc21-ee36
+Electrical and Electronics Engineering
+Multirate DSP
+Prof. R. David Koilpillai
+IITM
+12 Weeks
+August 8, 2021
+
+
+61
+noc21-ee37
+Electrical and Electronics Engineering
+Probability Foundations for Electrical engineers
+Prof. Andrew Thangaraj Prof. Aravind R
+
+IITM
+8 Weeks + 4 weeks new
+August 8, 2021
+
+
+62
+noc21-ee40
+
+Electrical and Electronics Engineering
+Optical Fiber Sensors
+Prof Balaji Srinivasan
+IITM
+12 Weeks
+August 8, 2021
+
+
+63
+noc21-ee42
+
+Electrical and Electronics Engineering
+Optical Communications
+Prof. Pradeep Kumar K
+IITK
+12 Weeks
+August 8, 2021
+
+
+64
+noc21-ee44
+
+Electrical and Electronics Engineering
+Statistical Signal Processing
+Prof. Prabin Kumar Bora
+IITG
+12 Weeks
+August 8, 2021
+
+
+65
+noc21-ee46
+
+Electrical and Electronics Engineering
+Electronics Enclosures Thermal issues
+Prof. N. V. Chalapathi Rao
+IISc
+8 Weeks
+August 8, 2021
+
+
+66
+noc21-ee47
+
+Electrical and Electronics Engineering
+Spread Spectrum Communications And Jamming
+Prof. Debarati Sen
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+67
+noc21-ee52
+
+Electrical and Electronics Engineering
+Architectural Design of Digital Integrated Circuits
+Prof. Indranil Hatai
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+68
+noc21-ee53
+
+Electrical and Electronics Engineering
+Transmission lines and electromagnetic waves
+Prof. Ananth Krishnan
+IITM
+12 Weeks
+August 8, 2021
+
+
+69
+noc21-hs25
+
+Humanities and Social Sciences
+Literary Criticism (From Plato to Leavis)
+Prof. Merin Simi Raj
+IITM
+12 Weeks
+August 8, 2021
+
+
+70
+noc21-hs27
+
+Humanities and Social Sciences
+Modern Indian Writing in Translation
+Prof. A. Divya
+IITM
+12 Weeks
+August 8, 2021
+
+
+71
+noc21-hs28
+
+Humanities and Social Sciences
+The Nineteenth - Century English Novel
+Prof. A. Divya
+IITM
+12 Weeks
+August 8, 2021
+
+
+72
+noc21-hs31
+
+Humanities and Social Sciences
+German - II
+Prof. Milind Brahme
+IITM
+12 Weeks
+August 8, 2021
+
+
+73
+noc21-hs36
+
+Humanities and Social Sciences
+Twentieth Century Fiction
+Prof. Avishek Parui
+IITM
+12 Weeks
+August 8, 2021
+
+
+74
+noc21-hs39
+
+Humanities and Social Sciences
+Applied Statistics and Econometrics
+Prof. Deep Mukherjee
+IITK
+12 Weeks
+August 8, 2021
+
+
+75
+noc21-hs43
+
+Humanities and Social Sciences
+Globalization: Theoretical Perspectives
+Prof. R. Santhosh
+IITM
+12 Weeks
+August 8, 2021
+
+
+76
+noc21-hs46
+
+Humanities and Social Sciences
+International Trade - Theory and Empirics
+Prof. Pratap C. Mohanty
+IITR
+8 Weeks + 4 weeks new
+August 8, 2021
+
+
+77
+noc21-mg02
+Management
+Data Analysis and Decision Making - I
+Prof. Raghu Nandan Sengupta
+IITK
+12 Weeks
+August 8, 2021
+
+
+78
+noc21-mg09
+Management
+MCDM Techniques using R
+Prof. Gaurav Dixit
+IITR
+4 Weeks
+August 8, 2021
+
+
+79
+noc21-mg11
+Management
+Marketing Research and Analysis-II
+Prof. J. K. Nayak
+IITR
+12 Weeks
+August 8, 2021
+
+
+80
+noc21-mg17
+Management
+Engineering Econometrics
+Prof. Rudra P Pradhan
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+81
+noc21-mg23
+Management
+Management of Inventory Systems
+Prof. Pradip Kumar Ray
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+82
+noc21-mg41
+Management
+Introduction to Stochastic Processes
+Prof. Manjesh hanawal
+IITB
+12 Weeks
+August 8, 2021
+
+
+83
+noc21-mg42
+Management
+Microeconomics: Theory & Applications
+Prof. Deep Mukherjee
+IITK
+12 Weeks
+August 8, 2021
+
+
+84
+noc21-mg47
+Management
+Quality Control and Improvement with MINITAB
+Prof. Indrajit Mukherjee
+IITB
+8 Weeks
+August 8, 2021
+
+
+85
+noc21-mg48
+Management
+Design and Analysis of Experiments
+Prof. Jhareswar Maiti
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+86
+noc21-ma04
+Mathematics
+Basic Real Analysis
+Prof. I. K. Rana
+IITB
+12 Weeks
+August 8, 2021
+
+
+87
+noc21-ma05
+Mathematics
+Linear Algebra
+Prof. Pranav Haridas
+Kerala School of Mathematics
+12 Weeks
+August 8, 2021
+
+
+88
+noc21-ma08
+Mathematics
+Numerical Linear Algebra
+Prof. P. N. Agrawal Prof. D. N. Pandey
+
+IITR
+12 Weeks
+August 8, 2021
+
+
+89
+noc21-ma09
+Mathematics
+Ordinary and Partial Differential Equations and Applications
+Prof. P. N. Agrawal Prof. D. N. Pandey
+
+IITR
+12 Weeks
+August 8, 2021
+
+
+90
+noc21-ma11
+Mathematics
+Engineering Mathematics II
+Prof. Jitendra Kumar
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+91
+noc21-ma12
+Mathematics
+Transform Calculus and its applications in Differential Equations
+Prof. Adrijit Goswami
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+92
+noc21-ma13
+Mathematics
+Integral and Vector Calculus
+Prof. Hari Shankar Mahato
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+93
+noc21-ma17
+Mathematics
+Probabilistic Methods in PDE
+Prof. Anindya Goswami
+IISER Pune
+12 Weeks
+August 8, 2021
+
+
+94
+noc21-ma19
+Mathematics
+An Introduction to smooth Manifolds
+Prof. Harish Seshadri
+IISc
+12 Weeks
+August 8, 2021
+
+
+95
+noc21-ma21
+Mathematics
+Measure Theory
+Prof. E. K. Narayanan
+IISc
+12 Weeks
+August 8, 2021
+
+
+96
+noc21-ma22
+Mathematics
+Introduction to Algebraic Geometry and Commutative Algebra
+Prof. Dilip Patil
+IISc
+12 Weeks
+August 8, 2021
+
+
+97
+noc21-ma24
+Mathematics
+Advanced Probability Theory
+Prof. Niladri Chatterjee
+IITD
+12 Weeks
+August 8, 2021
+
+
+98
+noc21-ma25
+Mathematics
+Functional Analysis
+Prof. Kesavan
+IMSc
+12 Weeks
+August 8, 2021
+
+
+99
+noc21-ma26
+Mathematics
+Introduction to Commutative Algebra
+Prof. A. V. Jayanthan
+IITM
+12 Weeks
+August 8, 2021
+
+
+100
+noc21-ma28
+Mathematics
+Introduction to Algebraic Topology (Part-I)
+Prof. Anant R. Shastri
+IITB
+12 Weeks
+August 8, 2021
+
+
+101
+noc21-ma31
+Mathematics
+Introduction to Probability (with examples using R)
+Prof. Siva Athreya
+ISI Bangalore
+12 Weeks
+August 8, 2021
+
+
+102
+noc21-ma32
+Mathematics
+Algebra - II
+
+Prof. S. Viswanath Prof. Amritanshu Prasad
+
+IMSc
+12 Weeks
+August 8, 2021
+
+
+103
+noc21-ma33
+Mathematics
+Advanced Partial Differential Equations
+Prof. Kaushik Bal
+IITK
+12 Weeks
+August 8, 2021
+
+
+104
+noc21-ma34
+Mathematics
+Applied Multivariate Statistical Modeling
+Prof. Jhareswar Maiti
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+105
+noc21-me10
+Mechanical Engineering
+Optimization from fundamentals
+Prof. Ankur A. Kulkarni
+IITB
+12 Weeks
+August 8, 2021
+
+
+106
+noc21-me11
+Mechanical Engineering
+Conduction and Convection Heat Transfer
+Prof. Suman Chakraborty Prof. Sankar Kumar Som
+
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+107
+noc21-me33
+Mechanical Engineering
+Muffler Acoustics – Application to Automotive Exhaust Noise Control
+Prof. Akhilesh Mimani
+IITK
+12 Weeks
+August 8, 2021
+
+
+108
+noc21-me35
+Mechanical Engineering
+Thermodynamics
+Prof. S. R. Kale
+IITD
+12 Weeks
+August 8, 2021
+
+
+109
+noc21-me36
+Mechanical Engineering
+Finite element modeling of welding processes
+Prof. Swarup Bag
+IITG
+12 Weeks
+August 8, 2021
+
+
+110
+noc21-me37
+Mechanical Engineering
+Robotics: Basics and Selected Advanced Concepts
+Prof. Ashitava Ghosal
+IISc
+12 Weeks
+August 8, 2021
+
+
+111
+noc21-me38
+Mechanical Engineering
+Introduction to soft matter
+Prof. Aloke Kumar
+IISc
+8 Weeks
+August 8, 2021
+
+
+112
+noc21-me41
+Mechanical Engineering
+Nonlinear Vibration
+Prof. S. K. Dwivedy
+IITG
+12 Weeks
+August 8, 2021
+
+
+113
+noc21-me42
+Mechanical Engineering
+Vibrations of Structures
+Prof. Anirvan DasGupta
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+114
+noc21-me45
+Mechanical Engineering
+Viscous Fluid Flow
+Prof. Amaresh Dalal
+IITG
+12 Weeks
+August 8, 2021
+
+
+115
+noc21-me46
+Mechanical Engineering
+Computational Fluid Dynamics for Incompressible Flows
+Prof. Amaresh Dalal
+IITG
+12 Weeks
+August 8, 2021
+
+
+116
+noc21-me47
+Mechanical Engineering
+Fundamentals of Combustion
+Prof. V. Raghavan
+IITM
+12 Weeks
+August 8, 2021
+
+
+117
+noc21-me50
+Mechanical Engineering
+Turbulent Combustion: Theory and Modelling
+Prof. Ashoke De
+IITK
+12 Weeks
+August 8, 2021
+
+
+118
+noc21-me51
+Mechanical Engineering
+Oil Hydraulics and Pneumatics
+Prof. Somashekhar S
+IITM
+12 Weeks
+August 8, 2021
+
+
+119
+noc21-me52
+Mechanical Engineering
+Mechanics of Human Movement
+Prof. Sujatha Srinivasan
+IITM
+12 Weeks
+August 8, 2021
+
+
+120
+noc21-me55
+Mechanical Engineering
+Principles of Mechanical Measurement
+Prof. Dipankar N. Basu
+IITG
+12 Weeks
+August 8, 2021
+
+
+121
+noc21-me62
+Mechanical Engineering
+Experimental Methods in Fluid Mechanics
+Prof. Pranab K. Mondal
+IITG
+12 Weeks
+August 8, 2021
+
+
+122
+noc21-me64
+Mechanical Engineering
+Computational Fluid Dynamics and Heat Transfer
+Prof. Gautam Biswas
+IITK
+12 Weeks
+August 8, 2021
+
+
+123
+
+noc21-mm06
+
+Metallurgical and Materials Engineering
+Steel Quality: Role of Secondary Refining & Continuous Casting
+Prof. Santanu Kr. Ray
+IITM
+12 Weeks
+August 8, 2021
+
+
+124
+
+noc21-mm07
+
+Metallurgical and Materials Engineering
+Material Characterization
+Prof. Sankaran.S
+IITM
+12 Weeks
+August 8, 2021
+
+
+125
+
+noc21-mm08
+
+Metallurgical and Materials Engineering
+Carbon Materials and Manufacturing
+Prof. Swati Sharma
+IIT Mandi
+12 Weeks
+August 8, 2021
+
+
+126
+
+noc21-mm09
+
+Metallurgical and Materials Engineering
+Dealing with materials data : collection, analysis and interpretation
+Prof. M P Gururajan Prof. Hina Gokhale
+
+IITB
+12 Weeks
+August 8, 2021
+
+
+127
+
+noc21-mm11
+
+Metallurgical and Materials Engineering
+Properties of Materials (Nature and Properties of Materials : III)
+Prof. Ashish Garg
+IITK
+8 Weeks
+August 8, 2021
+
+
+128
+
+noc21-mm13
+
+Metallurgical and Materials Engineering
+Diffusion in Multicomponent Solids
+Prof. Kaustubh Kulkarni
+IITK
+12 Weeks
+August 8, 2021
+
+
+129
+
+noc21-mm14
+
+Metallurgical and Materials Engineering
+Non - Metallic Materials
+Prof. Subhasish Basu Majumder
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+130
+
+noc21-mm15
+
+Metallurgical and Materials Engineering
+Fundamentals of Material Processing - Part 2
+Prof. Shashank Shekhar Prof. Anshu Gaur
+
+IITK
+8 Weeks
+August 8, 2021
+
+
+131
+
+noc21-mm16
+
+Metallurgical and Materials Engineering
+Scanning Electron / Ion / Probe Microscopy in Materials Characterization
+Prof. Debabrata Pradhan
+IIT KGP
+8 Weeks
+August 8, 2021
+
+
+132
+
+noc21-mm17
+Mining Engineering
+Mining Machinery
+Prof. Khanindra Pathak
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+133
+noc21-ge09
+Multidisciplinary
+Fundamental of Fluid Mechanics for Chemical and Biomedical Engineers
+Prof. Raghvendra Gupta
+IITG
+12 Weeks
+August 8, 2021
+
+
+134
+noc21-oe01
+Ocean Engineering
+
+Offshore Structures Under Special Environmental Loads Including Fire Resistance
+
+Prof. Srinivasan Chandrasekaran
+IITM
+12 Weeks
+August 8, 2021
+
+
+135
+noc21-ph02
+Physics
+Physics through Computational Thinking
+
+Prof. Auditya Sharma Prof. Ambar Jain
+
+IISER Bhopal
+8 Weeks
+August 8, 2021
+
+
+136
+noc21-ph03
+Physics
+Group Theory methods in Physics
+Prof. P. Ramadevi
+IITB
+12 Weeks
+August 8, 2021
+
+
+137
+noc21-ph05
+Physics
+Electromagnetism
+Prof. Nirmal Ganguli
+IISER Bhopal
+12 Weeks
+August 8, 2021
+
+
+138
+noc21-ph06
+Physics
+Fluid Dynamics for Astrophysics
+Prof. Prasad Subramanian
+IISER Pune
+12 Weeks
+August 8, 2021
+
+
+139
+noc21-ph07
+Physics
+Introduction to Astrophysical Fluids
+Prof. Supratik Banerjee
+IITK
+12 Weeks
+August 8, 2021
+
+
+140
+noc21-ph08
+Physics
+Quantum Transport
+Prof. Madhu Thalakulam
+IISER Thiruvananthapuram
+12 Weeks
+August 8, 2021
+
+
+141
+noc21-ph09
+Physics
+Statistical Mechanics
+
+Prof. Dipanjan Chakraborty
+IISER Mohali
+12 Weeks
+August 8, 2021
+
+
+142
+noc21-ph10
+Physics
+Electronic Theory Of Solids
+Prof. Arghya Taraphder
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+143
+noc21-ph12
+Physics
+Experimental Physics III
+Prof. Amal Kumar Das
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+144
+noc21-ph13
+Physics
+Physics of Biological Systems
+Prof. Mithun Mitra
+IITB
+12 Weeks
+August 8, 2021
+
+
+145
+noc21-ph18
+Physics
+
+Physics of linear and nonlinear optical waveguides
+Prof. Samudra Roy
+IIT KGP
+12 Weeks
+August 8, 2021
+
+
+146
+noc21-te01
+Textile Engineering
+Evaluation of Textiles Materials
+Prof. Apurba Das
+IITD
+12 Weeks
+August 8, 2021
+
+
+147
+noc21-te02
+Textile Engineering
+Testing of Functional and Technical Textiles
+Prof. Apurba Das
+IITD
+8 Weeks
+August 8, 2021
+
+
+148
+noc21-te03
+Textile Engineering
+Theory of Yarn Structure
+Prof. Dipayan Das
+IITD
+12 Weeks
+August 8, 2021
+
+
+149
+noc21-te05
+Textile Engineering
+Textured Yarn Technology
+Prof. Kushal Sen
+IITD
+12 Weeks
+August 8, 2021
+
+Published by
+Google Sheets
+–
+Report Abuse
+–
+Updated automatically every 5 minutes
+

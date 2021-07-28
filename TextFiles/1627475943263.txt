@@ -1,0 +1,1297 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GeeksforGeeks | A computer science portal for geeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gblog
+First Step to DSA – Scholarship Test For 9 to 12 Class Students
+“Start Early even if your destination is quite far away” – this success mantra always works for everyone whether it be a student, a sportsperson,…
+
+Read More
+
+
+
+
+7 Best Automation Testing Tools to Consider in 2021
+
+Automation Testing can be defined as a set of software testing activities in which test cases are executed and produced results are compared with the…
+
+Read More
+
+
+
+
+
+GBlog
+
+
+
+7 Reasons Why Programmers Should Use Linux
+
+Medium
+Linux is an operating system just like Mac or Windows OS. A few years ago, it was primarily used for servers and wasn’t considered a…
+
+Read More
+
+
+
+
+
+GBlog
+
+
+Linux-Unix
+
+
+
+Count numbers from a given range that can be visited moving any number of steps from the range [L, R]
+
+Given two integers X, Y and a range [L, R], the task is to count the number of integers from the range X and Y…
+
+Read More
+
+
+
+
+
+Mathematical
+
+
+
+Count K-length subarrays whose average exceeds the median of the given array
+
+Given an array arr[] consisting of N integers and a positive integer K, the task is to find the number of subarrays of size K…
+
+Read More
+
+
+
+
+
+median-finding
+
+
+subarray
+
+
+Advanced Data Structure
+
+
+Arrays
+
+
+Data Structures
+
+
+Mathematical
+
+
+Sorting
+
+
+
+Multiply a single digit number in place to a number represented as a Linked List
+
+Given a linked list of N nodes where each node represents digits of a number and a single-digit number M, the task is to multiply…
+
+Read More
+
+
+
+
+
+Linked List
+
+
+Mathematical
+
+
+
+Corona Virus | TCS Codevita 2020
+
+Problem Description: A city is represented as a two-dimensional rectangular matrix. The outer wall of the given matrix denotes the boundaries of the city. Citizens…
+
+Read More
+
+
+
+
+
+TCS
+
+
+Graph
+
+
+
+Sort the given Array in Spiral manner starting from the center
+
+Given an array arr[] of size N, the task is to sort the array in descending order starting from the mid of the array having…
+
+Read More
+
+
+
+
+
+Arrays
+
+
+Sorting
+
+
+
+Rearrange Array to find K using Binary Search algorithm without sorting
+
+Given an array, arr[] of N distinct integers and an integer K, the task is to rearrange the given array in such a way, that…
+
+Read More
+
+
+
+
+
+array-rearrange
+
+
+Binary Search
+
+
+Arrays
+
+
+Searching
+
+
+
+Project Idea | Government School Welfare Platform
+
+India is a diverse country with people from all sections of society. Some afford to provide quality education to their children, but some are not…
+
+Read More
+
+
+
+
+
+ProGeek 2021
+
+
+ProGeek
+
+
+Web Technologies
+
+
+
+
+Quick Links
+
+
+
+
+
+
+Events at GeeksforGeeks
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Internships at GeeksforGeeks
+
+
+
+
+Coding Practice
+
+
+
+
+Project Idea | Webents
+
+In the world of ever-enhancing technology, it has become possible to learn anything from the comfort of one’s home. A college student receives hundreds of…
+
+Read More
+
+
+
+
+
+ProGeek 2021
+
+
+ProGeek
+
+
+Web Technologies
+
+
+
+Project Idea | Hire At Ease
+
+Introduction: Talent acquisition is an important, complex, and time-consuming function within Human Resources (HR). According to statista.com, not only is there a staggering one million…
+
+Read More
+
+
+
+
+
+ProGeek 2021
+
+
+ProGeek
+
+
+Web Technologies
+
+
+
+Project Idea | Virtual Health Assistant
+
+Easy
+Introduction: One of the most common problems faced by today’s people is a lack of knowledge of diseases and a lack of immediate first aid…
+
+Read More
+
+
+
+
+
+ProGeek 2021
+
+
+ProGeek
+
+
+Web Technologies
+
+
+
+Project Idea | Animal Welfare and Wellness Web Application
+
+Easy
+Abstract — Drawing the idea from the influence of social networking sites on our day-to-day life and Web Application for the betterment of pets that…
+
+Read More
+
+
+
+
+
+ProGeek 2021
+
+
+ProGeek
+
+
+Web Technologies
+
+
+
+Project Idea | Web app that facilitates easy discovery of crucial medicines in nearby pharmacy
+
+Project Title : Sehath Introduction : Domain: Healthcare Purpose: Sehath is meant to be a web app that provides people with the help of finding…
+
+Read More
+
+
+
+
+
+ProGeek 2021
+
+
+ProGeek
+
+
+Project
+
+
+Web Technologies
+
+
+
+Zscaler Interview Experience | On-Campus 2021
+
+Hi all, Zscaler came for On-Campus Hiring in our College with two roles: DEV and DEVTEST. I was given the role of DEV JAVA API.…
+
+Read More
+
+
+
+
+
+Marketing
+
+
+On-Campus
+
+
+ZScaler
+
+
+Interview Experiences
+
+
+
+Media.net Interview Experience for Associate Web Application Developer
+
+Media.net Interview Experience | Associate Web Application Developer ( Fresher) I recently interviewed at media.net for the role of Associate Web Application Developer. Since it…
+
+Read More
+
+
+
+
+
+Marketing
+
+
+media.net
+
+
+Interview Experiences
+
+
+
+Lowe’s Interview Experience | Off-Campus 2021 (Virtual)
+
+Easy
+Lowe’s India hired this year through Codeathon on HackerEarth platform. Round 1: The first round comprised of 28 MCQ questions including aptitude, logical, and 2…
+
+Read More
+
+
+
+
+
+Lowe's
+
+
+Marketing
+
+
+Off-Campus
+
+
+Interview Experiences
+
+
+
+Page 1 of 6,514
+1
+2
+3
+4
+5
+...
+10
+20
+30
+...
+»
+Last »
+
+
+
+
+
+Quick Links
+
+
+
+
+
+
+Events at GeeksforGeeks
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Internships at GeeksforGeeks
+
+
+
+
+Coding Practice
+
+
+
+
+
+Featured Articles
+
+View All
+
+
+
+
+
+Must Do Coding Questions for Product Based Companies
+May 16, 2021
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …
+May 16, 2021
+
+ProGeek Cup 2021 – A Project Competition By GeeksforGeeks
+May 11, 2021
+
+Recently Asked Interview Questions in Product Based Companies
+May 11, 2021
+
+Bridge the Gap Between Engineering and Your Dream Job – Complete Interview Preparation
+May 1, 2021
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+
+Recommended
+
+
+
+
+
+
+Guest Blogs
+
+
+
+Must Do Coding Questions Company-wise
+
+
+
+Practice for cracking any coding interview
+
+
+
+Placements
+
+
+
+Complete Interview Preparation With Doubt Assistance
+
+
+
+GATE Computer Science Notes
+
+
+
+Machine Learning
+
+
+
+Django Tutorial
+
+
+
+Computer Science Projects
+
+
+
+Amazon SDE Test Series
+
+
+
+Company Interview Corner
+
+
+
+The C++ Standard Template Library (STL)
+
+
+
+Software Design Patterns
+
+
+
+SQL Tutorial
+
+
+
+Advanced Data Structures
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
