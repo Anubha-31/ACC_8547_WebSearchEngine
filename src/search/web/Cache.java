@@ -15,7 +15,9 @@ public class Cache {
 
 		File fstream = new File("Cache.txt");
 		if(!fstream.exists())
+		{
 		fstream.createNewFile();
+		}
 		BufferedWriter out = new BufferedWriter(new FileWriter(fstream, true));
 		out.append(cache);
 		out.newLine();
@@ -27,14 +29,18 @@ public class Cache {
 	public static void deleteCache() throws IOException {
 		File fstream = new File("Cache.txt");
 		
-		if (fstream.delete()) {
+		if (fstream.exists()) {
+			fstream.delete();
 			System.out.println("Deleted the file: ");
 		} else {
 			System.out.println("Failed to delete the file.");
 		}
 		File f = new File("TextFiles//");
+		if(f.exists())
+		{
 		FileUtils.cleanDirectory(f);
 		f.delete();
+		}
 		System.out.println("Cache has been sucesfully deleted");
 	}
 
