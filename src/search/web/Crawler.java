@@ -15,20 +15,6 @@ public class Crawler {
 	public static final int MAX_DEPTH = 2;
 	public static final String URL_PATTERN = "((http|https)://)(www.)?[a-zA-Z0-9@:%._\\+~#?&//=]{2,256}\\.[a-z]{2,6}([-a-zA-Z0-9@:%._\\+~#?&//=]*)";
 
-	public static void main(String[] args) throws IOException {
-
-		String url = "https://www.shiksha.com/";
-		Boolean flag = Cache.isAvailable(url);
-		if (flag == false) {
-			Cache.addcache(url);
-			crawlWeb(1, url, new ArrayList<String>());
-
-		} else {
-			System.out.println("This URL has already been crawled.");
-		}
-
-	}
-
 	public static void crawlWeb(int depth, String url, ArrayList<String> visitedURL) throws IOException {
 		if (!isEmpty(url) && depth <= MAX_DEPTH) {
 			Document doc = getDocument(url, visitedURL);
@@ -38,7 +24,7 @@ public class Crawler {
 					String linkonPage = element.absUrl("href");
 					if (!visitedURL.contains(linkonPage)) {
 						crawlWeb(depth++, linkonPage, visitedURL);
-						Cache.addcache(linkonPage);
+						
 					}
 				}
 			}

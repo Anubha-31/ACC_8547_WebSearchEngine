@@ -11,12 +11,13 @@ import search.utility.In;
 
 public class Cache {
 
-	public static void addcache(String Url) throws IOException {
+	public static void addcache(String cache) throws IOException {
 
 		File fstream = new File("Cache.txt");
+		if(!fstream.exists())
 		fstream.createNewFile();
-		BufferedWriter out = new BufferedWriter(new FileWriter(fstream));
-		out.append(Url);
+		BufferedWriter out = new BufferedWriter(new FileWriter(fstream, true));
+		out.append(cache);
 		out.newLine();
 		out.flush();
 		out.close();
@@ -44,7 +45,8 @@ public class Cache {
 
 			while (!in.isEmpty()) {
 				String s = in.readLine();
-				if (s.equals(Url))
+				String stringArray[]= s.split(" ");
+				if (stringArray[0].equals(Url))
 					flag = true;
 			}
 			// System.out.println();
