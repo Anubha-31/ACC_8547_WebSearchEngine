@@ -9,17 +9,23 @@ public class Application {
 
 	public static void main(String[] args) throws IOException {
 
+		while(true)
+		{
 		System.out.println("Please choose an option from the list below");
 		System.out.println("Choose 1 : Search a url");
-		System.out.println("Choose 2 : Delete a url from cache");
-		System.out.println("Choose 3 : Delete cache");
-		System.out.println("Choose 4 : Rank the web pages according to the occurance of a word");
+		System.out.println("Choose 2 : Delete cache");
+		System.out.println("Choose 3 : Rank the web pages according to the occurance of a word");
+		System.out.println("Choose 4 : Exit from program");
 
 //		String url = "https://www.shiksha.com/";
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please enter your choice");
 		int choice = sc.nextInt();
 		sc = new Scanner(System.in);
+		if(choice==4)
+		{
+			break;
+		}
 
 		switch (choice) {
 		case 0:
@@ -45,27 +51,26 @@ public class Application {
 			break;  
 
 		case 2:
-			System.out.println("Please enter a url to be deleted");
-			url = sc.nextLine();
-			if (isValidUrl(url)) {
-				if (Cache.isAvailable(url)) {
-					Cache.deleteCache(url);
-					if (!Cache.isAvailable(url)) {
-						System.out.println("URL successfully deleted from Cache");
-					}
-				} else {
-					System.out.println("URL is not cached");
-				}
-			} else {
-				System.out.println("Please enter a valid URL");
-			}
+			Cache.deleteCache();
 			break;
+//			System.out.println("Please enter a url to be deleted");
+//			url = sc.nextLine();
+//			if (isValidUrl(url)) {
+//				if (Cache.isAvailable(url)) {
+//					Cache.deleteCache(url);
+//					if (!Cache.isAvailable(url)) {
+//						System.out.println("URL successfully deleted from Cache");
+//					}
+//				} else {
+//					System.out.println("URL is not cached");
+//				}
+//			} else {
+//				System.out.println("Please enter a valid URL");
+//			}
+//			break;
 
+	
 		case 3:
-			System.out.println("Write code..");
-			break;
-
-		case 4:
 			System.out.println("Please enter a word to be searched");
 			FindWord.readAllFiles();
 			break;
@@ -73,6 +78,7 @@ public class Application {
 		default:
 			System.out.println("Please select a valid number");
 			break;
+		}
 		}
 
 	}

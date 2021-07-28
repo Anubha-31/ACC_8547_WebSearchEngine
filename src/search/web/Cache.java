@@ -12,55 +12,25 @@ import search.utility.In;
 public class Cache {
 
 	public static void addcache(String Url) throws IOException {
-		FileWriter fstream = new FileWriter("Cache.txt");
-		BufferedWriter out = new BufferedWriter(fstream);
+
+		File fstream = new File("Cache.txt");
+		fstream.createNewFile();
+		BufferedWriter out = new BufferedWriter(new FileWriter(fstream));
 		out.append(Url);
 		out.newLine();
 		out.flush();
-		fstream.flush();
+		out.close();
 
 	}
 
-	public static void deleteCache(String Url) throws IOException {
-		File fstream = new File("CacheTemp.txt");
-		BufferedWriter out = new BufferedWriter(new FileWriter(fstream));
-		try {
-			In in = new In("Cache.txt");
-			// System.out.println(in.toString());
-			while (!in.isEmpty()) {
-				String s = in.readLine();
-				// System.out.println(s);
-				if (!s.equals(Url)) {
-					out.append(Url);
-					out.newLine();
-				}
-			}
-		} catch (Exception e) {
-			System.out.println(e.getStackTrace());
+	public static void deleteCache() throws IOException {
+		File fstream = new File("Cache.txt");
+		
+		if (fstream.delete()) {
+			System.out.println("Deleted the file: ");
+		} else {
+			System.out.println("Failed to delete the file.");
 		}
-
-		out.flush();
-		out.close();
-
-		FileWriter fstream1 = new FileWriter("Cache.txt");
-		BufferedWriter out1 = new BufferedWriter(fstream1);
-
-		try {
-			In in = new In("CacheTemp.txt");
-			// System.out.println(in.toString());
-			while (!in.isEmpty()) {
-				String s = in.readLine();
-
-				out1.write(Url);
-
-			}
-		} catch (Exception e) {
-			System.out.println(e.getStackTrace());
-		}
-		out1.flush();
-		fstream1.flush();
-		out1.close();
-
 		File f = new File("TextFiles//");
 		FileUtils.cleanDirectory(f);
 		f.delete();
