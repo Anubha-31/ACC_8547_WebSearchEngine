@@ -73,6 +73,8 @@ public class Application {
 				else
 					System.out.println("Suggestion: " + suggestion);
 
+				break;
+
 			case 5:
 				System.out.println("Please enter a word to Autocomplete");
 				String sSearch1 = sc.nextLine();
@@ -82,11 +84,8 @@ public class Application {
 				ArrayList suggestion1 = corrector.autocomplete(sSearch1);
 				System.out.println(suggestion1.toString());
 
-//				if (!suggestion.isEmpty()) 
-//				    System.out.println("There are no similar words. Please enter the valid word to search");
-//				else
-//					System.out.println("Suggestion: " + suggestion);
-//				
+				break;
+
 			default:
 				System.out.println("Please select a valid number");
 				break;

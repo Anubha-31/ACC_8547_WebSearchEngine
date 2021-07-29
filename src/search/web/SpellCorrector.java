@@ -138,7 +138,7 @@ public class SpellCorrector {
 
 		if (node == null) {
 			for (String word : dictWordCount.keySet()) {
-				System.out.println(" word is"+word+"");
+			//	System.out.println(" word is"+word+"");
 				if(!word.isEmpty())
 				{
 				if(word.startsWith(sLowerInput))
