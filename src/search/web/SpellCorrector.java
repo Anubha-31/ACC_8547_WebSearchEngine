@@ -1,15 +1,12 @@
 package search.web;
 
-import java.awt.List;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
-import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
@@ -52,31 +49,30 @@ public class SpellCorrector {
 
 			while ((line = bufferReader.readLine()) != null) {
 				String word = line.toLowerCase();
+				
+				//System.out.println(word);
 
 				if (!line.contains(" ")) {
 					word=word.toLowerCase();
-					//System.out.println("finding exception11");
 					if(isAlpha(word))
 					{
-					dictWordCount.put(word, dictWordCount.getOrDefault(word, 0) + 1);
-					trie.addWord(word);
+						dictWordCount.put(word, dictWordCount.getOrDefault(word, 0) + 1);
+						trie.addWord(word);
 					}
 				} else {
 					String[] sWords = line.split("\\s");
+					
 					for (String sWord : sWords) {
 						sWord=sWord.toLowerCase();
-						//System.out.println("finding exception22");
-						if(isAlpha(word))
+						if(isAlpha(sWord))
 						{
-						dictWordCount.put(sWord, dictWordCount.getOrDefault(sWord, 0) + 1);
-						trie.addWord(sWord);
+							dictWordCount.put(sWord, dictWordCount.getOrDefault(sWord, 0) + 1);
+							trie.addWord(sWord);
 						}
 					}
 				}
 			}
 			
-		//	System.out.println("dictWordCount count is"+dictWordCount.size()+fileName);
-
 			fileReader.close();
 			bufferReader.close();
 		} catch (Exception e) {
@@ -86,9 +82,13 @@ public class SpellCorrector {
 		}
 	}
 
-	 public static boolean isAlpha(String s) {
-	        return s != null && s.matches("^[a-zA-Z]*$");
-	    }
+	 public static boolean isAlpha(String sWord) 
+	 {
+		 
+		 return ((sWord != null)
+	                && (!sWord.equals(""))
+	                && (sWord.matches("^[a-zA-Z]*$")));
+	 }
 	 
 	public String findSimilarWord(String sInput) 
 	{
