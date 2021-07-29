@@ -1,0 +1,1222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RD Sharma Class-9 Archives - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Tag Archives:
+RD Sharma Class-9
+
+
+
+
+
+
+
+
+RD Sharma Class 9 Solutions
+
+RD Sharma Solutions for class 9 provides vast knowledge about the concepts through the chapter-wise solutions. These solutions help to solve problems of higher difficulty…
+
+Read More
+
+
+
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 17 Constructions- Exercise 17.2
+
+Question 1. Draw an angle and label it as ?BAC. Construct another angle, equal to ?BAC Solution: Steps of construction: 1. Draw any ?BAC…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 17 Constructions- Exercise 17.3
+
+Question 1. Construct a ? ABC in which BC = 3.6 cm, AB + AC = 4.8 cm and ?B = 60°. Solution: Steps of…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 3 Rationalisation- Exercise 3.2 | Set 1
+
+Question 1. Rationalise the denominator of each of the following (i-vii): (i) (ii) (iii) (iv) (v) (vi) (vii) Solution: (i) We know that rationalisation factor…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 3 Rationalisation- Exercise 3.2 | Set 2
+
+Question 6. In each of the following determine rational numbers a and b: (i) (ii) (iii) (iv) (v) (vi) Solution: (i) We know that rationalisation…
+
+Read More
+
+
+
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+
+
+Class 9 RD Sharma Solutions – Chapter 16 Circles- Exercise 16.2
+
+Question 1. The radius of a circle is 8 cm and the length of one of its chords is 12 cm. Find the distance of…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 17 Constructions- Exercise 17.1
+
+Question 1. Draw a line segment of length 8.6cm. Bisect it and measure the length of each part. Solution: Steps of construction: Step 1: Draw…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 16 Circles- Exercise 16.4
+
+Question 1. In Fig., O is the centre of the circle. If ?APB?APB= 50°, find ?AOB and ?OAB. Solution: ?APB=50° By degree measure theorem ?AOB=2APB…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 2 Exponents of Real Numbers- Exercise 2.1
+
+Question 1 (i). Simplify 3(a4b3)10 × 5(a2b2)3 Solution: Given 3(a4b3)10 × 5(a2b2)3 = 3 × a40 × b30 × 5 × a6 × b6 = 3…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 8 Introduction to Lines and Angles- Exercise 8.2 | Set 2
+
+Question 11. In Figure, ACB is a line such that ?DCA = 5x and ?DCB = 4x. Find the value of x. Solution: It is given that ACB is a line…
+
+Read More
+
+
+
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 2 Exponents of Real Numbers- Exercise 2.2 | Set 2
+
+Question 12. Determine (8x)x, if 9x+2 = 240 + 9x. Solution: We have, => 9x+2 = 240 + 9x => 9x+2 ? 9x = 240…
+
+Read More
+
+
+
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 8 Introduction to Lines and Angles- Exercise 8.2 | Set 1
+
+Question 1: In the below Fig. OA and OB are opposite rays: (i) If x = 25°, what is the value of y? (ii) If…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 2 Exponents of Real Numbers- Exercise 2.2 | Set 1
+
+Question 1. Assuming that x, y, z are positive real numbers, simplify each of the following: (i) Solution: We have, = = = = (ii) …
+
+Read More
+
+
+
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 8 Introduction to Lines and Angles- Exercise 8.4 | Set 3
+
+Question 21. In the given figure, transversal l intersects two linesmandn, ?4 = 110° and ?7 = 65°. Ism||n? Solution: The figure is given as…
+
+Read More
+
+
+
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 9 RD Sharma Solutions – Chapter 8 Introduction to Lines and Angles- Exercise 8.4 | Set 2
+
+Question 11. In the given figure, lines AB and CD are parallel and P is any point as shown in the figure. Show that ?ABP+…
+
+Read More
+
+
+
+
+
+RD Sharma Class-9
+
+
+Class 9
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Page 1 of 7
+1
+2
+3
+4
+5
+...
+»
+Last »
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in RD Sharma Class-9
+
+
+
+
+Class 9 RD Sharma Solutions - Chapter 13 Linear Equation in Two Variable- Exercise 13.2
+
+Class 9 RD Sharma Solutions - Chapter 1 Number System - Exercise 1.4
+
+Class 9 RD Sharma Solutions - Chapter 14 Quadrilaterals- Exercise 14.1
+
+Class 9 RD Sharma Solutions - Chapter 13 Linear Equation in Two Variable - Exercise 13.1
+
+Class 9 RD Sharma Solutions - Chapter 12 Heron’s Formula- Exercise 12.1
+
+
+
+
+
+
+
+
+
+Most visited in RD Sharma Class-9
+
+
+
+
+Class 9 RD Sharma Solutions- Chapter 20 Surface Area And Volume of A Right Circular Cone - Exercise 20.2
+
+Class 9 RD Sharma Solutions - Chapter 12 Heron’s Formula- Exercise 12.2
+
+Class 9 RD Sharma Solutions - Chapter 5 Factorisation of Algebraic Expressions- Exercise 5.2 | Set 1
+
+Class 9 RD Sharma Solutions - Chapter 23 Graphical Representation of Statistical Data - Exercise 23.1 | Set 2
+
+Class 9 RD Sharma Solutions - Chapter 10 Congruent Triangles- Exercise 10.6
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

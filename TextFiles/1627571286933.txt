@@ -1,0 +1,1167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+System Design Tutorial - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+Must Do Coding Questions for Product Based Companies
+
+Socket Programming in C/C++
+
+GET and POST requests using Python
+
+Top 10 Projects For Beginners To Practice HTML and CSS Skills
+
+Fast I/O for Competitive Programming
+
+Working with csv files in Python
+
+Differences between Procedural and Object Oriented Programming
+
+Types of Software Testing
+
+100 Days of Code - A Complete Guide For Beginners and Experienced
+
+Working with PDF files in Python
+
+XML parsing in Python
+
+Frontend vs Backend
+
+Supervised and Unsupervised learning
+
+OOPs | Object Oriented Design
+
+Web 1.0, Web 2.0 and Web 3.0 with their difference
+
+Data Structures and Algorithms Online Courses : Free and Paid
+
+Implementing Web Scraping in Python with BeautifulSoup
+
+Technical Scripter Event 2020 By GeeksforGeeks
+
+Difference between FAT32, exFAT, and NTFS File System
+
+7 Best Coding Challenge Websites in 2020
+
+Different Ways to Connect One Computer to Another Computer
+
+GATE CS 2021 (Revised) Syllabus
+
+Top 10 System Design Interview Questions and Answers
+
+Top 10 Programming Languages That Will Rule in 2021
+
+Top 5 IDEs for C++ That You Should Try Once
+
+Ethical Issues in Information Technology (IT)
+
+Twitter Sentiment Analysis using Python
+
+Socket Programming in C/C++: Handling multiple clients on server without multi threading
+
+Getting started with Machine Learning
+
+30 Days to Form a New Habit of Coding – Are You In?
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+System Design Tutorial
+
+
+
+
+Last Updated :
+14 Jul, 2021
+
+is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements. is something that can’t be ignored! Almost every IT giant whether it be or any other ask various questions based on System Design concepts such as scalability, load-balancing, caching, etc. in the interview. This specifically designed System Design tutorial will help you to concepts in the most efficient way from basics to advanced level.
+System Design
+System Design for tech interviews
+Facebook, Amazon, Google,
+learn and master System Design
+
+
+Basics
+
+
+What is System Design?
+
+Software Development Life Cycle (SDLC)
+
+Structured Analysis and Structured Design (SA/SD)
+
+System Design Strategy
+
+Database Sharding – System Design Interview Concept
+
+System Design – Horizontal and Vertical Scaling
+
+Load Balancer in System Design
+
+Routing requests through Load Balancer
+
+Caching – System Design Concept For Beginners
+
+Object-Oriented Analysis and Design
+
+Difference between Structured and Object-Oriented Analysis
+Testing and Quality Assurance
+
+
+Types of Software Testing
+
+Software Quality Assurance
+
+Security Testing
+Interview Questions & Answers
+
+
+Top 10 System Design Interview Questions and Answers
+
+System Design – URL Shortening Service
+
+Design Dropbox – A System Design Interview Question
+
+Design Twitter – A System Design Interview Question
+
+System Design Netflix – A Complete Architecture
+
+System Design of Uber App – Uber System Architecture
+
+Design BookMyShow – A System Design Interview Question
+Tips
+
+
+How to Crack System Design Round in Interviews?
+
+5 Tips to Crack Low-Level System Design Interviews
+
+5 Common System Design Concepts for Interview Preparation
+
+6 Steps To Approach Object-Oriented Design Questions in Interview
+
+
+
+Geeksforgeeks System Design Course –
+
+If yes, then you’re required to A decent command over System Design concepts is very much essential, especially for the working professionals, to get a much-needed advantage over others during tech interviews.
+Want to get a Software Developer/Engineer job at a leading tech company? or Want to make a smooth transition from SDE I to SDE II or Senior Developer profiles?
+dive deep into the System Design world!
+
+
+
+And that’s why, GeeksforGeeks is providing you with an in-depth interview-centric
+
+
+System Design – Live Course
+that will help you prepare for the questions related to System Designs for Google, Amazon, Adobe, Uber, and other product-based companies.
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Class 12 RD Sharma Solutions - Chapter 33 Binomial Distribution - Exercise 33.1 | Set 3
+
+
+Next
+
+
+Check if a string consisting only of a, b, c can be made empty by removing substring "abc" recursively
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Design BookMyShow - A System Design Interview Question
+05, Nov 20
+
+
+
+Design Twitter - A System Design Interview Question
+25, Sep 20
+
+
+
+Design Dropbox - A System Design Interview Question
+20, Jun 20
+
+
+
+System Design of Uber App - Uber System Architecture
+20, Nov 20
+
+
+
+
+
+Design an online book reader system
+03, Oct 18
+
+
+
+Design Issues of Distributed System
+14, May 19
+
+
+
+How to Crack System Design Round in Interviews?
+16, Oct 19
+
+
+
+System Design - Live Course By GeeksforGeeks
+04, Mar 21
+
+
+
+
+
+System Design - URL Shortening Service
+14, Feb 21
+
+
+
+Top 10 System Design Interview Questions and Answers
+13, Jun 20
+
+
+
+8 Most Important Steps To Follow in System Design Round of Interviews
+24, Nov 20
+
+
+
+System Design Netflix - A Complete Architecture
+28, Jan 21
+
+
+
+
+
+System Design - Horizontal and Vertical Scaling
+09, Feb 21
+
+
+
+Load Balancer - System Design Interview Question
+30, Oct 20
+
+
+
+Database Sharding - System Design Interview Concept
+13, Mar 21
+
+
+
+5 Tips to Crack Low-Level System Design Interviews
+07, Aug 20
+
+
+
+
+
+Caching - System Design Concept For Beginners
+04, Mar 21
+
+
+
+Getting Started with System Design
+13, Jun 20
+
+
+
+5 Common System Design Concepts for Interview Preparation
+24, Aug 20
+
+
+
+Design data structures for a very large social network like Facebook or Linkedln
+15, Apr 17
+
+
+
+
+
+Design a Keylogger in Python
+09, Aug 17
+
+
+
+Layouts in Android UI Design
+18, Dec 17
+
+
+
+8 Ways to Shipwreck Your Next Website Design
+08, Nov 19
+
+
+
+Learn HTML From Scratch - Web Design Course For Beginners
+23, May 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+System-Design
+
+GBlog
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in GBlog
+
+
+
+
+7 Best Automation Testing Tools to Consider in 2021
+
+First Step to DSA - Scholarship Test For 9 to 12 Class Students
+
+7 Reasons Why Programmers Should Use Linux
+
+How to Become a Front-End Developer?
+
+Skills Required to Become a Ethical Hacker
+
+
+
+
+
+
+
+
+
+More related articles in GBlog
+
+
+
+
+Top Programming Languages for Android App Development
+
+Reading a CSV file in Java using OpenCSV
+
+What is web socket and how it is different from the HTTP?
+
+Top 10 Kali Linux Tools For Hacking
+
+30 Days of SQL - From Basic to Advanced Level!
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

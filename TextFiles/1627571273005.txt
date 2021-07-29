@@ -1,0 +1,997 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backtracking Algorithms - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+
+Backtracking Algorithms
+
+Divide and Conquer
+
+Array Data Structure
+
+Data Structures
+
+Algorithms
+
+Java Programming Language
+
+Web Development
+
+HTML Tutorials
+
+CSS Tutorials
+
+JavaScript Tutorial
+
+ReactJS Tutorials
+
+
+
+
+
+
+
+Backtracking Algorithms
+
+
+
+Last Updated :
+28 Jul, 2021
+
+
+Backtracking is an algorithmic-technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time (by time, here, is referred to the time elapsed till reaching any level of the search tree).
+For example, consider the SudoKo solving Problem, we try filling digits one by one. Whenever we find that current digit cannot lead to a solution, we remove it (backtrack) and try next digit. This is better than naive approach (generating all possible combinations of digits and then trying every combination one by one) as it drops a set of permutations whenever it backtracks.
+
+
+
+
+
+
+Practice Problems on Backtracking Algorithms
+
+
+
+Recent Articles on Backtracking Algorithms
+
+Topics :
+
+
+
+
+
+
+
+Standard Problems
+
+Misc
+
+Quick Links
+
+Standard Problems :
+
+
+
+
+Backtracking | Set 1 (The Knight’s tour problem)
+
+Backtracking | Set 2 (Rat in a Maze)
+
+Backtracking | Set 3 (N Queen Problem)
+
+Backtracking | Set 4 (Subset Sum)
+
+Backtracking | Set 5 (m Coloring Problem)
+
+Backtracking | Set 6 (Hamiltonian Cycle)
+
+Backtracking | Set 7 (Sudoku)
+
+Backtracking | Set 8 (Solving Cryptarithmetic Puzzles)
+
+Backtracking | Set 9 (Magnet Puzzle)
+
+N Queen in O(n) space
+
+Boggle | Set 2 (Using Trie)
+
+Remove Invalid Parentheses
+
+Prime numbers after prime P with sum S
+
+Rat in a Maze with multiple steps or jump allowed
+
+A backtracking approach to generate n bit Gray Codes
+
+C++ program for Solving Cryptarithmetic Puzzles
+
+Write a program to print all permutations of a given string
+
+Print all possible paths from top left to bottom right of a mXn matrix
+
+Misc :
+
+
+
+
+Tug of War
+
+8 queen problem
+
+Combinational Sum
+
+Backtracking to find all subsets
+
+Power Set in Lexicographic order
+
+Check if a given string is sum-string
+
+Fill 8 numbers in grid with given conditions
+
+Word Break Problem using Backtracking
+
+Minimize number of unique characters in string
+
+Count all possible paths between two vertices
+
+Partition of a set into K subsets with equal sum
+
+Warnsdorff’s algorithm for Knight’s tour problem
+
+Longest Possible Route in a Matrix with Hurdles
+
+Match a pattern and String without using regular expressions
+
+Fill two instances of all numbers from 1 to n in a specific way
+
+Find all distinct subsets of a given set
+
+Find shortest safe route in a path with landmines
+
+Find paths from corner cell to middle cell in maze
+
+Find if there is a path of more than k length from a source
+
+Find Maximum number possible by doing at-most K swaps
+
+Print all palindromic partitions of a string
+
+Printing all solutions in N-Queen Problem
+
+Print all paths from a given source to a destination
+
+Print all possible strings that can be made by placing spaces| Set-1
+
+Print all possible strings that can be made by placing spaces| Set-2
+
+Print all longest common sub-sequences in lexicographical order
+
+Smallest expression to represent a number using single digit
+
+Given an array A[] and a number x, check for pair in A[] with sum as x
+
+Combinations where every element appears twice and distance between appearances is equal to the value
+
+Quick Links :
+
+
+
+Top 20 Backtracking Algorithm Interview Questions
+
+‘Practice Problems’ on Backtracking
+
+‘Quiz’ on Backtracking
+
+‘Videos’ on Backtracking
+If you like GeeksforGeeks and would like to contribute, you can also write an article using or mail your article to review-team@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
+write.geeksforgeeks.org
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above.
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+Organizing Tournament Problem
+
+100 Days of Code - A Complete Guide For Beginners and Experienced
+
+Must Do Coding Questions for Product Based Companies
+
+How to read multiple text files from folder in Python?
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+How to pass data from child component to its parent in ReactJS ?
+
+Wells Fargo Interview Experience for FTE | On-Campus 2021 (Virtual)
+
+Competitive Programming - A Complete Guide
+
+How to Encrypt and Decrypt Strings in Python?
+
+30 Days of SQL - From Basic to Advanced Level!
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

@@ -1,0 +1,1348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perl Programming Language - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Basics
+
+
+
+Perl Programming Language
+
+Introduction to Perl
+
+Perl Installation and Environment Setup in Windows, Linux, and MacOS
+
+Perl | Basic Syntax of a Perl Program
+
+Hello World Program in Perl
+
+Fundamentals
+
+
+
+Perl | Data Types
+
+Perl | Boolean Values
+
+Perl | Operators | Set – 1
+
+Perl | Operators | Set – 2
+
+Perl | Variables
+
+Perl | Modules
+
+Packages in Perl
+
+Control Flow
+
+
+
+Perl | Decision Making (if, if-else, Nested–if, if-elsif ladder, unless, unless-else, unless-elsif)
+
+Perl | Loops (for, foreach, while, do…while, until, Nested loops)
+
+Perl | given-when Statement
+
+Perl | goto statement
+
+Arrays & Lists
+
+
+
+Perl | Arrays
+
+Perl | Array Slices
+
+Perl | Arrays (push, pop, shift, unshift)
+
+Perl List and its Types
+
+Hash
+
+
+
+Perl Hash
+
+Perl | Hash Operations
+
+Perl | Multidimensional Hashes
+
+Scalars
+
+
+
+Perl | Scalars
+
+Perl | Comparing Scalars
+
+Perl | scalar keyword
+
+Strings
+
+
+
+Perl | Quoted, Interpolated and Escaped Strings
+
+Perl | String Operators
+
+Perl | String functions (length, lc, uc, index, rindex)
+
+OOP Concepts
+
+
+
+Object Oriented Programming (OOPs) in Perl
+
+Perl | Classes in OOP
+
+Perl | Objects in OOPs
+
+Perl | Methods in OOPs
+
+Perl | Constructors and Destructors
+
+Perl | Method Overriding in OOPs
+
+Perl | Inheritance in OOPs
+
+Perl | Polymorphism in OOPs
+
+Perl | Encapsulation in OOPs
+
+Regular Expressions
+
+
+
+Perl | Regular Expressions
+
+Perl | Operators in Regular Expression
+
+Perl | Regex Character Classes
+
+Perl | Quantifiers in Regular Expression
+
+File Handling
+
+
+
+Perl | File Handling Introduction
+
+Perl | Opening and Reading a File
+
+Perl | Writing to a File
+
+Perl | Useful File-handling functions
+
+CGI Programming
+
+
+
+Perl | CGI Programming
+
+Perl | File Upload in CGI
+
+Perl | GET vs POST in CGI
+
+
+
+
+
+
+
+Perl Programming Language
+
+
+
+Last Updated :
+25 Sep, 2019
+
+
+Perl is a general purpose, high level interpreted and dynamic programming language. Perl supports both the procedural and Object-Oriented programming. Perl is a lot similar to C syntactically and is easy for the users who have knowledge of C, C++. Since Perl is a lot similar to other widely used languages syntactically, it is easier to code and learn in Perl. Programs can be written in Perl in any of the widely used text editors like Notepad++, gedit, etc.
+
+
+
+
+Recent Articles on Perl!
+, , , , , , , , , , , ,
+Basics
+Fundamentals
+Input and Output
+Control Flow
+Datatypes
+
+
+
+Strings
+Object Oriented Programming in Perl
+Subroutines
+Regular Expressions
+File Handling
+Context Sensitivity
+CGI Programming
+Misc
+
+
+
+
+Basics
+
+
+
+
+Introduction to Perl
+
+Installation and Environment Setup
+
+Syntax of a Perl Program
+
+Hello World Program in Perl
+
+Perl vs C/C++
+
+Perl vs Java
+
+Perl vs Python
+
+
+
+Fundamentals
+
+
+
+
+
+
+
+
+Modes of Writing a Perl Code
+
+Boolean Values
+Operators | ,
+Set – 1
+Set – 2
+
+Variables
+
+Variables and its Types
+
+Scope of Variables
+
+Modules in Perl
+
+Packages in Perl
+
+Number and its Types
+
+Directories with CRUD operations
+
+
+
+Input and Output
+
+
+
+
+Use of print() and say() in Perl
+
+Perl | print operator
+
+Use of STDIN for Input
+
+
+
+Control Flow
+
+
+
+
+Decision Making
+
+Loops
+
+Perl given-when Statement
+
+Perl goto operator
+
+next operator
+
+redo operator
+
+last in loop
+
+
+
+Datatypes
+
+
+
+
+Data Types
+
+Arrays and Lists:
+
+
+
+Arrays
+
+Array Slices
+
+Getting the Number of Elements of an Array
+
+Reverse an array
+
+Sorting of Arrays
+
+Useful Array functions
+
+Arrays (push, pop, shift, unshift)
+
+Implementing a Stack
+
+List and its Types
+
+List Functions
+
+
+Hash:
+
+
+Introduction to Hash
+
+Working of a Hash
+
+Hash Operations
+
+Sorting a Hash
+
+Multidimensional Hashes
+
+Hash in Scalar and List Context
+
+Useful Hash functions
+
+
+Scalars:
+
+
+Scalars
+
+Comparing Scalars
+
+scalar keyword
+
+
+
+Strings
+
+
+
+
+Quoted, Interpolated and Escaped Strings
+
+Multi-line Strings | Here Document
+
+Sorting mixed Strings in Perl
+
+String Operators
+
+Useful String Operators
+
+String functions (length, lc, uc, index, rindex)
+
+Useful String functions
+
+Automatic String to Number Conversion or Casting
+
+Count the frequency of words in text
+
+Removing leading and trailing white spaces (trim)
+
+
+
+Object Oriented Programming in Perl
+
+
+
+
+Introduction to OOPs
+
+Classes
+
+Objects
+
+Methods
+
+Constructors and Destructors
+
+Method Overriding
+
+Inheritance
+
+Polymorphism
+
+Encapsulation
+
+
+
+Subroutines
+
+
+
+Subroutines or Functions | ,
+Set – 1
+Set – 2
+
+Function Signature in Perl
+
+Passing Complex Parameters to a Subroutine
+
+Mutable and Immutable parameters
+
+Multiple Subroutines
+
+Use of return() Function
+
+References
+
+Pass By Reference
+
+Recursion in Perl
+
+
+
+Regular Expressions
+
+
+
+
+Regular Expressions
+
+Operators in Regular Expression
+
+Regex Character Classes
+
+Special Character Classes in Regular Expressions
+
+Quantifiers in Regular Expression
+
+Backtracking in Regular Expression
+
+‘e’ modifier in Regex
+
+‘ee’ Modifier in Regex
+
+pos() function in Regex
+
+Regex Cheat Sheet
+
+Searching in a File using regex
+
+
+
+File Handling
+
+
+
+
+File Handling Introduction
+
+Opening and Reading a File
+
+Writing to a File
+
+Appending to a File
+
+Reading a CSV File
+
+File Test Operators
+
+File Locking
+
+Use of Slurp Module
+
+Useful File-handling functions
+
+
+
+Context Sensitivity
+
+
+
+
+Scalar Context Sensitivity
+
+List Context Sensitivity
+
+STDIN in Scalar and List Context
+
+
+
+CGI Programming
+
+
+
+
+
+
+
+
+CGI Programming
+
+File Upload in CGI
+
+GET vs POST in CGI
+
+
+
+Misc
+
+
+
+
+Breakpoints of a Debugger
+
+Exiting from a Script
+
+Creating Excel Files
+
+Reading Excel Files
+
+Number Guessing Game using Perl
+
+Database management using DBI
+
+Accessing a Directory using File Globbing
+
+Use of Hash bang or Shebang line
+
+Useful Math functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+ProGeek Cup 2021 – A Project Competition By GeeksforGeeks
+
+Organizing Tournament Problem
+
+100 Days of Code - A Complete Guide For Beginners and Experienced
+
+Deleting a Local GitHub Repository
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+Must Do Coding Questions for Product Based Companies
+
+How to read multiple text files from folder in Python?
+
+How to Move a Column to First Position in Pandas DataFrame?
+
+I2C Communication Protocol
+
+How to use an ES6 import in Node.js?
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

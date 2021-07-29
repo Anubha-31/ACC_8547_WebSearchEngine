@@ -1,0 +1,1079 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What does 'Space Complexity' mean? - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+Analysis of Algorithms | Set 2 (Worst, Average and Best Cases)
+
+Analysis of Algorithms | Set 3 (Asymptotic Notations)
+
+Analysis of Algorithms | Set 4 (Analysis of Loops)
+
+Analysis of Algorithm | Set 4 (Solving Recurrences)
+
+Analysis of Algorithm | Set 5 (Amortized Analysis Introduction)
+
+
+What does ‘Space Complexity’ mean?
+
+Pseudo-polynomial Algorithms
+
+NP-Completeness | Set 1 (Introduction)
+
+A Time Complexity Question
+
+Merge Sort
+
+QuickSort
+
+HeapSort
+
+Binary Heap
+
+Time Complexity of building a heap
+
+Applications of Heap Data Structure
+
+Binomial Heap
+
+Fibonacci Heap | Set 1 (Introduction)
+
+Fibonacci Heap – Insertion and Union
+
+Fibonacci Heap – Deletion, Extract min and Decrease key
+
+Leftist Tree / Leftist Heap
+
+K-ary Heap
+
+Iterative HeapSort
+
+Analysis of Algorithms | Set 1 (Asymptotic Analysis)
+
+Understanding Time Complexity with Simple Examples
+
+Complexity of different operations in Binary tree, Binary Search Tree and AVL tree
+
+Practice Questions on Time Complexity Analysis
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+What does ‘Space Complexity’ mean?
+
+
+
+
+Difficulty Level :
+
+Basic
+
+Last Updated :
+24 Feb, 2021
+
+The term Space Complexity is misused for Auxiliary Space at many places. Following are the correct definitions of Auxiliary Space and Space Complexity.
+Space Complexity:
+
+is the extra space or temporary space used by an algorithm.
+Auxiliary Space
+of an algorithm is total space taken by the algorithm with respect to the input size. Space complexity includes both Auxiliary space and space used by input.
+Space Complexity
+For example, if we want to compare standard sorting algorithms on the basis of space, then Auxiliary Space would be a better criteria than Space Complexity. Merge Sort uses O(n) auxiliary space, Insertion sort and Heap Sort use O(1) auxiliary space. Space complexity of all these sorting algorithms is O(n) though.
+Space complexity is a parallel concept to time complexity. If we need to create an array of size n, this will require O(n) space. If we create a two dimensional array of size n*n, this will require O(n) space.
+2
+
+
+
+
+
+In recursive calls stack space also counts.
+Example :
+int add (int n){
+    if (n <= 0){
+        return 0;
+    }
+    return n + add (n-1);
+}
+
+Here each call add a level to the stack :
+
+1.  add(4)
+2.    -> add(3)
+3.      -> add(2)
+4.        -> add(1)
+5.          -> add(0)
+
+Each of these calls is added to call stack and takes up actual memory.
+So it take O(n) space.
+However just because you have n calls total doesn’t mean it takes O(n) space.
+Look at the below function :
+int addSequence (int n){
+    int sum = 0;
+    for (int i = 0; i < n; i++){
+        sum+ = pairSum(i, i+1);
+    }
+    return sum;
+}
+
+int paiSem(int x, int y){
+    return x + y;
+}
+
+There will be roughly O(n) calls to pairSum. However, those 
+calls do not exist simultaneously on the call stack,
+so you only need O(1) space.
+Note: It’s necessary to mention that space complexity depends on a variety of things such as the programming language, the compiler, or even the machine running the algorithm.
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above.
+
+Attention reader! Don’t stop learning now. Get hold of all the important DSA concepts with the at a student-friendly price and become industry ready. To complete your preparation from learning a language to DS Algo and many more, please refer
+
+DSA Self Paced Course
+
+Complete Interview Preparation Course
+.
+In case you wish to attend with experts, please refer and .
+live classes
+
+DSA Live Classes for Working Professionals
+
+Competitive Programming Live for Students
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Analysis of Algorithm | Set 5 (Amortized Analysis Introduction)
+
+
+Next
+
+
+Pseudo-polynomial Algorithms
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Prune-and-Search | A Complexity Analysis Overview
+19, Jul 21
+
+
+
+Time Complexity and Space Complexity
+11, Jul 21
+
+
+
+Analysis of Algorithms | Big - ? (Big- Omega) Notation
+11, Jul 21
+
+
+
+Analysis of Algorithms | Big - ? (Big Theta) Notation
+11, Jul 21
+
+
+
+
+
+Asymptotic Notations and how to calculate them
+11, Jul 21
+
+
+
+Classification of Algorithms with Examples
+05, Jul 21
+
+
+
+Find winner in game of N balls, in which a player can remove any balls in range [A, B] in a single move
+30, Jun 21
+
+
+
+What to do if the code doesn’t work?
+25, Jun 21
+
+
+
+
+
+Maximum sum obtained by dividing Array into several subarrays as per given conditions
+24, Jun 21
+
+
+
+Maximum count of X that can be inserted with no 3 adjacent characters are X
+16, Jun 21
+
+
+
+Efficient method to store a Lower Triangular Matrix using Column-major mapping
+15, Jun 21
+
+
+
+Guidelines for asymptotic analysis
+27, May 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+Current difficulty :
+Basic
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Improved By :
+
+
+tripathipriyanshu1998
+
+hritikrommie
+
+Article Tags :
+
+
+Analysis
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Analysis
+
+
+
+
+Analysis of different sorting techniques
+
+Cyclomatic Complexity
+
+Analysis of Algorithms | Big-O analysis
+
+Time complexities of different data structures
+
+Analysis of Algorithms | Set 5 (Practice Problems)
+
+
+
+
+
+
+
+
+
+More related articles in Analysis
+
+
+
+
+Complexity Analysis of Binary Search
+
+Difference between Recursion and Iteration
+
+Tail Recursion
+
+Lower and Upper Bound Theory
+
+Difference between NP hard and NP complete problem
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

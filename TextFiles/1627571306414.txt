@@ -1,0 +1,1430 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RD Sharma Class 8 Solutions for Maths - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+CBSE Class 8 Maths Notes
+
+Factors Affecting Friction
+
+Static and Kinetic Friction
+
+Algebra
+
+Types of Quadrilaterals - Rectangle, Square, Rhombus, Parallelogram | Class 8 Maths
+
+Representation of Rational Numbers on the Number Line | Class 8 Maths
+
+Introduction to Mensuration
+
+NCERT Solutions for Class 8 Maths
+
+Limiting Friction
+
+Trigonometry
+
+Calculus
+
+Mensuration - Volume of Cube, Cuboid, and Cylinder | Class 8 Maths
+
+Statistics
+
+Probability in Maths
+
+Algebraic Expressions and Identities | Class 8 Maths
+
+Types of Friction
+
+Fluid Friction
+
+Rational Numbers Between Two Rational Numbers | Class 8 Maths
+
+Geometry
+
+What causes an Earthquake?
+
+Area of Trapezium - Mensuration | Class 8 Maths
+
+Linear Equations in One Variable
+
+Multiple Reflections of Light
+
+Class 8 RD Sharma Solutions - Chapter 14 Compound Interest - Exercise 14.3 | Set 1
+
+Dispersion of Light
+
+Types of Polynomials
+
+Increasing and Reducing Friction
+
+Artificial Satellites
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+RD Sharma Class 8 Solutions for Maths
+
+
+
+
+Last Updated :
+22 Apr, 2021
+
+RD Sharma Solutions for class 8 covers different types of questions with varying difficulty levels. The solutions provided by GeeksforGeeks help to practice the questions that ensure students have a good practice of all types of questions that can be framed in the examination. By referring to the solutions given below, students can learn various ways of solving questions to improve their knowledge and get better results in their examinations.
+
+
+Chapter 1: Rational Numbers
+The chapter Rational numbers deal with the basic concepts of Rational Numbers and their properties of mathematical operations applied to it. In this book, there is a total of six exercises based on this chapter. Exercise 1.1 and 1.2 covers the basic concepts and properties used while the problems in Exercises 1.3 and 1.4 covers the topic like simplification of expressions involving addition and subtraction of rational numbers, multiplication of rational numbers and its properties, division of rational numbers. However, the rest two exercises 1.5 and 1.6 discussed the questions based on the representation of rational numbers on the number line and rational numbers between two rational numbers.
+
+
+Exercise 1.1
+
+Exercise 1.2
+Exercise 1.3 ,
+Set 1
+Set 2
+
+Exercise 1.4
+
+Exercise 1.5
+
+Exercise 1.6
+Exercise 1.7 ,
+Set 1
+Set 2
+
+Exercise 1.8
+Chapter 2: Powers
+The chapter powers in this book cover various topics in its three exercises. Exercise 2.1 covers negative integral exponents while exercises 2.2 and 2.3 are based on the topics like decimal number system, laws of integral exponents, use of exponents to express small numbers in standard form.
+
+
+Exercise 2.1
+Exercise 2.2 ,
+Set 1
+Set 2
+
+
+Exercise 2.3
+Chapter 3: Squares and Square Roots
+This chapter in the present books includes large numbers of problems covering a wide variety of topics in nine exercises. The exercises 3.1, 3.2, 3.3, and 1.4 are based on the square of a number and square numbers, properties and patterns of some square numbers, some tricks to determine the squares by column method, visual method, diagonal method. Moreover, topics like square roots, square root of a perfect square by prime factorization are covered in exercises 3.5, 3.6, 3.7, and 3.8. Further, Exercises 3.9 are based on the relation between the digits of a perfect square and its square root, square roots of perfect squares by the method of long division, square roots of rational numbers in the form of fractions, square roots of rational numbers in decimal form and approximate values of square roots by using square root tables.
+
+
+
+
+
+
+Exercise 3.1 ,
+Set 1
+Set 2
+Exercise 3.2 ,
+Set 1
+Set 2
+Exercise 3.3 ,
+Set 1
+Set 2
+Exercise 3.4 ,
+Set 1
+Set 2
+
+Exercise 3.6
+Exercise 3.7 ,
+Set 1
+Set 2
+
+Exercise 3.8
+
+Exercise 3.9
+Chapter 4: Cubes and Cube Roots
+The chapter Cubes and Cube Roots helps to learn the cube of a number and perfect cube numbers. This chapter contains five exercises in which Exercise 4.1 and 4.2 includes problems based on the properties of cubes of numbers, determination of cube of a two-digit number by column method. Later, exercises 4.3, 4.4, and 4.5 discussed the problems on the cube root of negative integers, cubes of rational numbers, cube roots of rational numbers, cube root of a negative integral perfect cube, cube root of the product of integers, and finding cube roots by using cube root tables.
+
+Exercise 4.1 ,
+Set 1
+Set 2
+
+Exercise 4.2
+
+Exercise 4.3
+Exercise 4.4 ,
+Set 1
+Set 2
+
+Exercise 4.5
+Chapter 5: Playing with numbers
+This chapter helps to thegeneralizedthree exercises. Exercise 5.1 covers the topics likeand 5.3 include questions from
+numbers in
+form through its
+interchanging the digits of a number. However, 5.2
+various tests of divisibility like divisibility by 10, 5, 2, 9, 3, 6, 11, and 4, cryptarithms.
+
+
+Exercise 5.1
+
+Exercise 5.2
+
+Exercise 5.3
+Chapter 6: Algebraic Expressions and Identities
+Exercises,,,
+This chapter in the present book contains seven exercises.
+6.1, 6.2
+and 6.3 are based on addition, subtraction, multiplication using monomials, binomials are performed
+and division of algebraic expressions. Further, exercises 6.4, 6.5, 6.6
+and 6.7 of this chapter discussed the applications of some special identities or products.
+
+
+Exercise 6.1
+
+Exercise 6.2
+Exercise 6.3 ,
+Set 1
+Set 2
+Exercise 6.4 ,
+Set 1
+Set 2
+Exercise 6.5 ,
+Set 1
+Set 2
+Exercise 6.6
+Set 1,
+Set 2
+
+Exercise 6.7
+Chapter 7: Factorisation
+The chapter factorisation in this book briefs the expansion of polynomials. The problems in this chapter are discussed in nine exercises as, Exercises 7.1, 7.2 and 7.3 covers the basic concepts of factors of monomial, common factors, and greatest common factor of monomials. Later, in Exercise 7.4 to 7.9 factorisation by grouping the terms, factorisation of binomial expressions expressible as the difference of two squares, when the given expression is expressible as a perfect square, factorisation of polynomials are discussed in the present chapter.
+
+
+Exercise 7.1
+
+Exercise 7.2
+
+Exercise 7.3
+
+Exercise 7.4
+Exercise 7.5 ,
+Set 1
+Set 2
+
+Exercise 7.6
+
+Exercise 7.7
+Exercise 7.8 ,
+Set 1
+Set 2
+
+Exercise 7.9
+Chapter 8: Division of Algebraic Expressions
+By this chapter the study of polynomials continues in this book. There are total six exercises that covered the topics like division of a monomial by a monomial, division of polynomials in one variable, division of a polynomial by a binomial by using long division, division of polynomials by using factorization.
+
+
+Exercise 8.1
+
+Exercise 8.2
+
+Exercise 8.3
+
+Exercise 8.5
+
+Exercise 8.6
+Chapter 9: Linear Equation in One Variable
+This chapter basically explains the Linear Equations with the applications of some rules, that help to solve equations with variable terms on one side and numbers on the other side. There are four exercises in total that discuss the transposition method for solving linear equations in one variable, cross-multiplication method for solving equations, and finally applications of linear equations to practical problems.
+
+
+Exercise 9.1
+Exercise 9.2 ,
+Set 1
+Set 2
+Exercise 9.3 ,
+Set 1
+Set 2
+Exercise 9.4 ,
+Set 1
+Set 2
+Chapter 10: Direct and Inverse Proportions
+This chapter in the present book gives a detailed explanation of concepts of direct and inverse variations. There are only two exercises in this chapter, exercise 10.1 and 10.2 which help to understand the types of variations (direct variations, inverse variations) and their applications to practical problems.
+
+Exercise 10.1 ,
+Set 1
+Set 2
+Exercise 10.2 ,
+Set 1
+Set 2
+Chapter 11: Time and Work
+The chapter Time and work contain only one exercise. This exercise 11.1 comprises the problems on the basic methods
+such as: Suppose A can finish a work in n days. Then, work done by A in one day is 1/n. Or, suppose that work done by A in one day is 1/n. Then, the time taken by A to finish the whole work is n days. By the applications of such methods the problems based on pipes and cistern.
+
+
+
+
+
+Exercise 11.1 ,
+Set 1
+Set 2
+Chapter 12: Percentage
+This chapter contains only three exercises. Each of the three exercises discussed the percentage and its application in daily life to calculate measure and part of anything that is required.
+
+
+Exercise 12.1
+Exercise 12.2 ,
+Set 1
+Set 2
+Chapter 13: Profit, Loss, Discount, and Value Added TAX (VAT)
+This chapter in the present books explains the concept of the computation of profit and loss when goods and services are bought or sold along with the advanced concepts like a discount, sales tax, and value-added tax (VAT). There are only three exercises in this chapter that discussed the latter mentioned concepts.
+
+Exercise 13.1 ,
+Set 1
+Set 2
+Exercise 13.2,
+Set 1
+Set 2
+Exercise 13.3 ,
+Set 1
+Set 2
+Chapter 14: Compound Interest
+This book introduces a complete chapter on the topic of Compound Interest. There are five exercises that explain every concept related to compute the compound interest when interest is compounded annually, half-yearly, and quarterly by using formulae in exercises 14.1 to 14.4. Meanwhile, the concepts related to inverse problems on compound interest, population growth-related problems, and depreciation are discussed in later exercises 14.4 and 14.5 of this chapter.
+
+
+Exercise 14.1
+Exercise 14.2 ,
+Set 1
+Set 2
+Exercise 14.3 ,
+Set 1
+Set 2
+Exercise 14.4 ,
+Set 1
+Set 2
+
+Exercise 14.5
+Chapter 15: Understanding Shapes – I (Polygons)
+The first part of Understanding Shapes is discussed in this chapter which is completely based on the polygons. This chapter contains only one exercise 15.1 which covers various plane surfaces that come across in one’s everyday life.
+
+
+Exercise 15.1
+Chapter 16: Understanding Shapes – II (Quadrilaterals)
+The second part of Understanding shapes based on the quadrilaterals only. There is only one exercise that discusses the angle sum property of a quadrilateral, interior, and exterior of a quadrilateral, convex quadrilateral, interior angle sum property, exterior angle property.
+
+Exercise 16.1 ,
+Set 1
+Set 2
+Chapter 17: Understanding Shapes – III (Special Types of Quadrilaterals)
+The third part of Understanding shapes discusses some special types of quadrilateral and their properties in its three exercises. Various types of quadrilaterals such as trapezium, parallelogram, rhombus, rectangle, and square, along with their properties are discussed in exercises 17.1 to 17.3 respectively.
+
+Exercise 17.1 ,
+Set 1
+Set 2
+Exercise 17.2 ,
+Set 1
+Set 2
+
+Exercise 17.3
+Chapter 18: Practical Geometry (Constructions)
+This chapter is simply based on the Construction of quadrilaterals. There are five exercises that include problems like when four sides and one diagonal are given when its three sides and two diagonals are given when its four sides and one angle are given when its three sides and their included angles are given when its three angles and their two included sides are provided.
+
+
+Exercise 18.1
+
+Exercise 18.2
+
+Exercise 18.3
+
+Exercise 18.4
+
+Exercise 18.5
+Chapter 19: Visualising Shapes
+The chapter visualising shapes is all about visualisation of 3-D shapes from their plane figures. There are only two exercises in this chapter that helps to understand the representation of three-dimensional shapes on the plane of the paper. The shapes studied are polyhedron, prisms, and pyramids, Platonic solids, visualisation of 3-D shapes through nets.
+
+
+Exercise 19.1
+
+Exercise 19.2
+Chapter 20: Mensuration – I (Area of a Trapezium and a Polygon)
+The first part of Mensuration covered the areas of trapezium along with polygons. In three exercises, it explains the methods of determining the area of a trapezium and also problems on finding areas of some polygons by using formulas.
+
+Exercise 20.1 ,
+Set 1
+Set 2
+Exercise 20.2
+Set 1,
+Set 2
+
+Exercise 20.3
+Chapter 21: Mensuration – II (Volumes and Surface Areas of a Cuboid and a Cube)
+The second part of Mensuration covered the Volumes and Surface Areas of a Cuboid and a Cube. In total of four exercises, the problems related to the surface area of cubes and cuboids along with the volume of cube and cuboids with their approach in practical problems are discussed.
+
+
+
+
+
+Exercise 21.1 ,
+Set 1
+Set 2
+Exercise 21.2 ,
+Set 1
+
+Set 2
+Exercise 21.3 ,
+Set 1
+Set 2
+Exercise 21.4 ,
+Set 1
+Set 2
+Chapter 22:
+Mensuration – III (Surface Area and Volume of a Right Circular Cylinder)
+The third part of Mensuration covered the Surface Area and Volume of a Right Circular Cylinder. In total of three exercises, the problems related to the surface area of the right circular cylinder along with the volume of the right circular cylinder with its approach in practical problems are discussed.
+
+Exercise 22.1 ,
+Set 1
+Set 2
+Exercise 22.2 ,
+Set 1
+Set 2
+Chapter 23: Data Handling – I (Classification and Tabulation of Data)
+The first part of Data Handling is based on the Classification and Tabulation of Data. There are only two exercises, which cover the problems related to it. The two exercises 23.1 and 23.2 helps to understand the presentation of grouped and ungrouped data and the calculation of the frequency distribution for the given data.
+
+
+Exercise 23.1
+
+Exercise 23.2
+Chapter 24:
+Data Handling – II (Graphical Representation of Data as Histogram)
+The second part of Data Handling is based on the Graphical Representation of Data as Histogram. There is only one exercise, which covers the problems related to the .
+most common graphic representation is the histogram
+
+Exercise 24.1 ,
+Set 1
+Set 2
+Chapter 25: Data Handling – III (Pictorial Representation of Data as Pie Charts or Circle Graphs)
+The third part of Data Handling is based on the Pictorial Representation of Data as Pie Charts or Circle Graphs. There are only two exercises, which cover the problems related to the diagrammatic representation of data with the help of a pie-charts or circle graphs.
+
+
+Exercise 25.2
+Chapter 26: Data Handling – IV (Probability)
+The fourth part of Data Handling is based on Probability. There is only one exercise, which covers the problems related to the probability of occurrence of an event with the help of some experiments and their outcomes.
+
+Exercise 26.1 ,
+Set 1
+Set 2
+Chapter 27: Introduction to Graphs
+The chapter introduction to graphs is all about the construction and reading of graphs. This chapter includes only two exercises that help to understand the plotting and reading of graphs and their applications.
+
+
+Exercise 27.1
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+How to convert date and time with different timezones in Python?
+
+
+Next
+
+
+CBSE Class 10 Maths Notes
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+RD Sharma Class 11 Solutions for Maths
+02, Jun 21
+
+
+
+RD Sharma Class 12 Solutions for Maths
+03, Jun 21
+
+
+
+Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation - Linear Inequalities | Class 11 Maths
+10, Nov 20
+
+
+
+NCERT Solutions for Class 8 Maths
+19, Apr 21
+
+
+
+
+
+NCERT Solutions for Class 9 Maths
+19, Apr 21
+
+
+
+NCERT Solutions for Class 10 Maths
+19, Apr 21
+
+
+
+NCERT Solutions for Class 11 Maths
+19, Apr 21
+
+
+
+NCERT Solutions for Class 12 Maths
+19, Apr 21
+
+
+
+
+
+Class 11 RD Sharma Solutions - Chapter 31 Derivatives - Exercise 31.1
+17, Dec 20
+
+
+
+Class 10 RD Sharma Solutions - Chapter 11 Constructions - Exercise 11.2 | Set 1
+21, May 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 9 Continuity - Exercise 9.1 | Set 2
+18, May 21
+
+
+
+Class 9 RD Sharma Solutions- Chapter 21 Surface Area and Volume of a Sphere - Exercise 21.1
+15, Jan 21
+
+
+
+
+
+Class 11 RD Sharma Solutions - Chapter 12 Mathematical Induction - Exercise 12.1
+08, Jan 20
+
+
+
+Class 10 RD Sharma Solutions - Chapter 8 Quadratic Equations - Exercise 8.3 | Set 1
+08, Mar 21
+
+
+
+Class 11 RD Sharma Solutions - Chapter 3 Functions - Exercise 3.3
+20, Apr 21
+
+
+
+Class 9 RD Sharma Solutions - Chapter 23 Graphical Representation of Statistical Data - Exercise 23.1 | Set 1
+17, Mar 21
+
+
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.6 | Set 1
+24, Mar 21
+
+
+
+Class 9 RD Sharma Solutions - Chapter 10 Congruent Triangles- Exercise 10.6
+24, Mar 21
+
+
+
+Class 11 RD Sharma Solutions - Chapter 7 Trigonometric Ratios of Compound Angles - Exercise 7.1 | Set 1
+23, Apr 21
+
+
+
+Class 11 RD Sharma Solutions - Chapter 33 Probability - Exercise 33.3 | Set 1
+01, May 21
+
+
+
+
+
+Class 12 RD Sharma Solutions - Chapter 12 Higher Order Derivatives - Exercise 12.1 | Set 1
+24, Mar 21
+
+
+
+Class 12 RD Sharma Solutions- Chapter 5 Algebra of Matrices - Exercise 5.1 | Set 2
+28, Dec 20
+
+
+
+Class 11 RD Sharma Solutions - Chapter 19 Arithmetic Progressions- Exercise 19.7 | Set 2
+10, Jan 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 19 Indefinite Integrals - Exercise 19.13 | Set 1
+08, Apr 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+mayurigrover
+
+@mayurigrover
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+RD Sharma Class-8
+
+Class 8
+
+RD Sharma Solutions
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 8
+
+
+
+
+Class 8 NCERT Solutions - Chapter 16 Playing with Numbers - Exercise 16.1
+
+Mensuration
+
+Class 8 RD Sharma Solutions - Chapter 3 Squares and Square Roots - Exercise 3.1 | Set 2
+
+Class 8 RD Sharma Solutions - Chapter 3 Squares and Square Roots - Exercise 3.5
+
+Class 8 RD Sharma Solutions- Chapter 4 Cubes and Cube Roots - Exercise 4.3
+
+
+
+
+
+
+
+
+
+Most visited in RD Sharma Solutions
+
+
+
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Class 9 RD Sharma Solutions - Chapter 13 Linear Equation in Two Variable- Exercise 13.2
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Class 8 RD Sharma Solutions - Chapter 3 Squares and Square Roots - Exercise 3.5
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.9
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

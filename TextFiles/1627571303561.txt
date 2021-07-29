@@ -1,0 +1,1293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CBSE Class 9 Maths Notes - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+
+CBSE Class 9 Maths Notes
+
+Number System in Maths
+
+CBSE Class 9 Maths Notes
+
+School Learning
+
+Mid Point Theorem - Quadrilaterals | Class 9 Maths
+
+Algebra
+
+Equation of Motion by Graphical Method
+
+Mean, Median, Mode, and Range - Statistics | Class 9 Maths
+
+Theorem - The sum of opposite angles of a cyclic quadrilateral is 180° | Class 9 Maths
+
+Newton's First Law of Motion
+
+Trigonometry
+
+Calculus
+
+Statistics
+
+Probability in Maths
+
+Theorem - Angle opposite to equal sides of an isosceles triangle are equal | Class 9 Maths
+
+Decimal Expansion of Real Numbers
+
+Acceleration due to Gravity
+
+NCERT Solutions for Class 9 Maths
+
+Applications of Heron's Formula
+
+Geometry
+
+Class 9 NCERT Solutions - Chapter 4 Linear Equations in two variables - Exercise 4.1
+
+Remainder Theorem - Polynomials | Class 9 Maths
+
+Class 9 NCERT Solutions - Chapter 2 Polynomials - Exercise 2.4
+
+Class 9 NCERT Solutions - Chapter 3 Coordinate Geometry - Exercise 3.3
+
+Class 9 RD Sharma Solutions - Chapter 1 Number System - Exercise 1.4
+
+Class 9 NCERT Solutions - Chapter 3 Coordinate Geometry - Exercise 3.2
+
+Class 9 NCERT Solutions - Chapter 1 Number System - Exercise 1.2
+
+Properties of Parallelograms
+
+Angle Sum Property of a Quadrilateral
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+CBSE Class 9 Maths Notes
+
+
+
+
+Last Updated :
+27 May, 2021
+
+CBSE Class 9 Mathematics Concepts, makes students to understand all the concepts of class 9 maths chapter-wise as it covers all the topics and subtopics provided in the syllabus of class 9 maths. GeeksforGeeks provided the following chapter-wise notes that contain numbers of theorems with their proper explanations, formulae with their applications, and graphs that need to accelerate students’ knack of practicing problems and boost their interest to pursue maths in higher classes.
+
+
+
+
+
+Chapter 1: Number Systems
+The numeral or number system is the combination of natural, integers, rational, irrational, and real numbers. This lesson covers the entire concepts of the numeral system and its types, representation on the number line, laws of rational exponents, and integral powers.
+
+
+Number System
+
+Decimal Expansion of Real Numbers
+
+Operations on Real numbers
+
+Laws of exponents for real numbers
+
+nth roots of a number
+
+
+
+Chapter 2: Polynomials
+Polynomial is an expression that comprises variables and coefficients which involves the operations like addition, subtraction, multiplication, and non-negative integer exponentiation of variables.
+
+
+
+
+
+
+
+Polynomials in One Variable
+
+Zeroes of a polynomial
+
+Remainder Theorem
+
+Multiplying Polynomials
+
+Algebraic Identities of Polynomials
+
+Standard Algebraic Identities
+
+
+
+Chapter 3: Coordinate Geometry
+The coordinate geometry is a part of geometry where the position of the points on the plane is described with the help of an ordered pair of numbers called coordinates.
+
+
+Cartesian Coordinate System
+
+Cartesian Plane
+
+
+
+Chapter 4: Linear Equations in Two Variables
+Any equation which can be defined in the form ax + by + c = 0, where a, b and c are real numbers, and a and b are not both zero, is called a linear equation in two variables.
+
+
+Linear Equations and their solutions
+
+Graph of a linear equation in two variables
+
+Equations of Lines Parallel to the x-axis and y-axis
+
+
+
+Chapter 5: Introduction to Euclid’s Geometry
+Euclidean geometry is the branch of geometry that deals with the study of geometrical shapes and figures based on different axioms and theorems. This study basically provides a brief explanation for flat surfaces.
+
+
+Euclid’s Definitions, Axioms, and Postulates
+
+Equivalent version of Euclid’s Fifth postulate
+
+
+
+
+Chapter 6: Lines and Angles
+In geometry, Lines and Angles are defined as figures that are made up of infinite points extending indefinitely in both directions. Lines are straight and have length and breadth, while an angle is a figure from which two rays emerge from a common point.
+
+
+
+
+
+
+Basic terms and definitions
+
+Pairs of Angles
+
+Lines parallel to the same line and Angle Sum Property
+
+
+
+Chapter 7: Triangles
+Geometrically, a triangle is defined as a three-sided polygon consist of three edges and three vertices. The most important and applied property of a triangle is its Angle sum property which means the sum of the internal angles of a triangle is equal to 180 degrees only.
+
+
+Congruence of Triangles
+
+Properties of triangles
+
+Angle Sum Property of a Triangle
+
+Inequalities in a triangle
+
+Theorem – Angle opposite to equal sides of an isosceles triangle are equal
+
+
+
+Chapter 8: Quadrilateral
+A quadrilateral is a plane geometrical figure which has four sides and has four corners or vertices. Typically, quadrilaterals are rectangle, square, trapezoid, and kite or irregular and uncharacterized figures with four sides.
+
+
+Angle sum property of a quadrilateral
+
+Types of quadrilateral
+
+Properties of Parallelograms
+
+MidPoint Theorem
+
+Rhombus
+
+Kite – Quadrilaterals
+
+
+
+Chapter 9: Areas of Parallelograms and Triangles
+The area of a plane figure is described as the amount of the planar surface covered by a closed geometric figure like rectangle, square, etc. The area of a parallelogram is equal to the product of its
+
+
+Area of 2D Shapes
+
+
+
+Chapter 10: Circles
+A circle is a geometrical shape which is defined as the locus of points that moves in a plane so that its distance from a fixed point is always constant. This fixed point is the Centre of the circle while the fixed distance from it is called the radius of the circle.
+
+
+Circles and its Related Terms
+
+Circle Theorems
+
+Theorem – There is one and only one circle passing through three given non-collinear points
+
+Theorem – The sum of opposite angles of a cyclic quadrilateral is 180°
+
+
+
+Chapter 11: Constructions
+Construction helps to understand the approach to construct different types of triangles for different given conditions using a ruler and compass of required measurements.
+
+
+
+
+
+
+Basics Construction
+
+Some construction of triangles
+
+
+
+Chapter 12: Heron’s Formula
+In this chapter, a formula called Heron’s formula is introduced which helps to determine the area of the triangle when three sides of its being given. The application of this formula also helps to find the area of other different polygons also.
+
+
+Heron’s Formula
+
+Applications of Heron’s Formula
+
+
+
+Chapter 13: Surface Areas and Volumes
+Surface area and volume are the measures calculated for a three-dimensional geometrical shape like a cube, cuboid, sphere etc. The surface area of any given object is the area occupied by the surface of the object while volume is the amount of space available in an object.
+
+
+Volumes of Cubes and Cuboids
+
+
+
+Chapter 14: Statistics
+Statistics is the study of the representation, collection, interpretation, analysis, presentation, and organization of data. In other words, it is a mathematical way to collect, summarize data. The representation of data differently along with the frequency distribution.
+
+
+Presentation of data
+
+Graphical representation of Data
+
+Bar graphs and Histograms
+
+Central Tendency
+
+Mean, Median, Mode, and Range
+
+
+
+Chapter 15: Probability
+The Probability in this class includes basic probability theory, which is also used in the probability distribution, to learn the possibility of outcomes for a random experiment and to find the probability of a single event to occur, when the total number of possible outcomes.
+
+
+Experimental Probability
+
+Empirical Probability
+
+Practice Problems on Probability
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Number System in Maths
+
+
+Next
+
+
+School Learning
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+CBSE Class 8 Maths Notes
+19, Apr 21
+
+
+
+CBSE Class 10 Maths Notes
+20, Apr 21
+
+
+
+CBSE Class 11 Maths Notes
+03, Jun 21
+
+
+
+Polynomials in One Variable - Polynomials | Class 9 Maths
+12, Jan 21
+
+
+
+
+
+Point-slope Form - Straight Lines | Class 11 Maths
+03, Nov 20
+
+
+
+Mathematical Operations on Algebraic Expressions - Algebraic Expressions and Identities | Class 8 Maths
+16, Nov 20
+
+
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+24, Oct 20
+
+
+
+Standard Algebraic Identities | Class 9 Maths
+10, Feb 21
+
+
+
+
+
+Mid Point Theorem - Quadrilaterals | Class 9 Maths
+25, Oct 20
+
+
+
+Graphing slope-intercept equations - Straight Lines | Class 11 Maths
+04, Nov 20
+
+
+
+Mensuration - Volume of Cube, Cuboid, and Cylinder | Class 8 Maths
+23, Oct 20
+
+
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+06, Oct 20
+
+
+
+
+
+Arithmetic Progression – Sum of First n Terms | Class 10 Maths
+02, Oct 20
+
+
+
+Mensuration - Area of General Quadrilateral | Class 8 Maths
+23, Oct 20
+
+
+
+Heights and Distances - Trigonometry | Class 10 Maths
+29, Oct 20
+
+
+
+Linear Equations in One Variable - Solving Equations which have Linear Expressions on one Side and Numbers on the other Side | Class 8 Maths
+28, Oct 20
+
+
+
+
+
+Types of Quadrilaterals - Rectangle, Square, Rhombus, Parallelogram | Class 8 Maths
+25, Oct 20
+
+
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Rational Numbers Between Two Rational Numbers | Class 8 Maths
+10, Nov 20
+
+
+
+
+
+Area of a Triangle using Determinants | Class 12 Maths
+26, Nov 20
+
+
+
+General and Middle Terms - Binomial Theorem - Class 11 Maths
+25, Oct 20
+
+
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+24, Oct 20
+
+
+
+Algebraic Expressions and Identities | Class 8 Maths
+25, Oct 20
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 9
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 9
+
+
+
+
+Class 9 RD Sharma Solutions - Chapter 13 Linear Equation in Two Variable- Exercise 13.2
+
+Mensuration
+
+Class 9 NCERT Solutions - Chapter 2 Polynomials - Exercise 2.5 | Set 1
+
+Pairs of Angles - Lines & Angles
+
+Graphical Representation of Data
+
+
+
+
+
+
+
+
+
+Most visited in School Learning
+
+
+
+
+Mean, Median and Mode of Grouped Data
+
+Equation of a Line in 3D
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Basic Properties of Electric Charge
+
+First Generation Of Computer
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

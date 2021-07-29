@@ -1,0 +1,1166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polynomial Time Approximation Scheme - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+Top 50 Array Coding Problems for Interviews
+
+Recursion
+
+Difference between BFS and DFS
+
+A* Search Algorithm
+
+How to write a Pseudo Code?
+
+Recursive Practice Problems with Solutions
+
+Playfair Cipher with Examples
+
+Complexity Analysis of Binary Search
+
+Quick Sort vs Merge Sort
+
+Converting Roman Numerals to Decimal lying between 1 to 3999
+
+Data Structures and Algorithms Online Courses : Free and Paid
+
+Comparison among Bubble Sort, Selection Sort and Insertion Sort
+
+Generate all permutation of a set in Python
+
+Mid-Point Circle Drawing Algorithm
+
+DDA Line generation Algorithm in Computer Graphics
+
+Commonly Asked Algorithm Interview Questions | Set 1
+
+Design a Chess Game
+
+Cyclomatic Complexity
+
+Introduction to Algorithms
+
+Array of Vectors in C++ STL
+
+Lower and Upper Bound Theory
+
+Columnar Transposition Cipher
+
+Bresenham’s Line Generation Algorithm
+
+K means Clustering - Introduction
+
+Quadratic Probing in Hashing
+
+What are Hash Functions and How to choose a good Hash Function?
+
+Line Clipping | Set 1 (Cohen–Sutherland Algorithm)
+
+Priority CPU Scheduling with different arrival time - Set 2
+
+Rail Fence Cipher - Encryption and Decryption
+
+Difference between NP hard and NP complete problem
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Polynomial Time Approximation Scheme
+
+
+
+
+Difficulty Level :
+
+Expert
+
+Last Updated :
+04 Sep, 2019
+
+It is a very well know fact that there is no known polynomial time solution for and these problems occur a lot in real world (See , and for example). So there must be a way to handle them. We have seen algorithms to these problems which are p approximate (For example ). Can we do better?
+NP Complete problems
+this
+this
+this
+2 approximate for Travelling Salesman
+olynomial ime pproximation cheme (PTAS) is a type of approximate algorithms that provide user to control over accuracy which is a desirable feature. These algorithms take an additional parameter ? > 0 and provide a solution that is (1 + ?) approximate for minimization and (1 – ?) for maximization. For example consider a minimization problem, if ? is 0.5, then the solution provided by the PTAS algorithm is 1.5 approximate. The running time of PTAS must be polynomial in terms of n, however, it can be exponential in terms of ?.
+P
+T
+A
+S
+In PTAS algorithms, the exponent of the polynomial can increase dramatically as ? reduces, for example if the runtime is O(n) which is a problem. There is a stricter scheme, ully olynomial ime pproximation cheme (FPTAS). In FPTAS, algorithm need to polynomial in both the problem size n and 1/?.
+(1/?)!
+F
+P
+T
+A
+S
+We know that is NP Complete. There is a DP based for this. But if input values are high, then the solution becomes infeasible and there is a need of approximate solution. One approximate solution is to use Greedy Approach (compute value per kg for all items and put the highest value per kg first if it is smaller than W), but Greedy approach is not PTAS, so we don’t have control over accuracy.
+Example (0-1 knapsack problem):
+
+0-1 knapsack
+pseudo polynomial solution
+Below is a FPTAS solution for 0-1 Knapsack problem: Input: (Capacity of Knapsack) (Values of Items) (Weights of Items)
+
+
+W
+
+val[0..n-1]
+
+wt[0..n-1]
+
+
+
+
+
+
+Find the maximum valued item, i.e., find maximum value in val[]. Let this maximum value be maxVal.
+Compute adjustment factor k for all values
+k  = (maxVal * ?) / n
+Adjust all values, i.e., create a new array val'[] that values divided by k. Do following for every value val[i].
+val'[i] = floor(val[i] / k)
+Run for reduced values, i,e, val'[0..n-1] and all other parameter same.
+DP based solution
+The above solution works in polynomial time in terms of both n and ?. The solution provided by this FPTAS is (1 – ?) approximate. The idea is to rounds off some of the least significant digits of values then they will be bounded by a polynomial and 1/?.
+Example:
+val[] = {12, 16, 4, 8}
+wt[]  = {3, 4, 5, 2}
+W = 10
+? = 0.5
+ 
+maxVal = 16 [maximum value in val[]]
+Adjustment factor, k = (16 * 0.5)/4 = 2.0
+
+Now we apply DP based solution on below modified 
+instance of problem.
+
+val'[] = {6, 8, 2, 4}  [ val'[i] = floor(val[i]/k) ]
+wt[] = {3, 4, 5, 2}
+W = 10
+Here is the optimal value. Let be the set produced by above FPTAS algorithm and total value of S be val(S). We need to show that
+How is the solution (1 – ?) * OPT?
+
+OPT
+S
+val(S) >= (1 - ?)*OPT
+Let be the set produced by optimal solution (the solution with total value OPT), i.e., val(O) = OPT.
+O
+val(O) - k*val'(O) <= n*k 
+       [Because val'[i] = floor(val[i]/k) ]
+After the dynamic programming step, we get a set that is optimal for the scaled instance and therefore must be at least as good as choosing the set O with the smaller profits. From that, we can conclude,
+
+val'(S) >= k . val'(O)
+              >= val(O) - nk
+              >= OPT - ? * maxVal
+              >= OPT - ? * OPT [OPT >= maxVal]
+              >= (1 - ?) * OPT
+
+Sources:
+
+http://math.mit.edu/~goemans/18434S06/knapsack-katherine.pdf
+
+https://en.wikipedia.org/wiki/Polynomial-time_approximation_scheme
+This article is contributed by Dheeraj Gupta. If you like GeeksforGeeks and would like to contribute, you can also write an article and mail your article to contribute@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above
+Attention reader! Don’t stop learning now. Get hold of all the important DSA concepts with the at a student-friendly price and become industry ready. To complete your preparation from learning a language to DS Algo and many more, please refer
+
+DSA Self Paced Course
+
+Complete Interview Preparation Course
+.
+In case you wish to attend with experts, please refer and .
+live classes
+
+DSA Live Classes for Working Professionals
+
+Competitive Programming Live for Students
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Amazon Interview Experience | Set 247 (For SDE 1)
+
+
+Next
+
+
+Bootstrap (Part-5) | DropDowns and Responsive Tabs
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Approximation Algorithms
+15, Jun 21
+
+
+
+Maximum removal from array when removal time >= waiting time
+24, Oct 18
+
+
+
+Queries of nCr%p in O(1) time complexity
+10, Jul 18
+
+
+
+Generating OTP (One time Password) in PHP
+10, Oct 18
+
+
+
+
+
+Find maximum in a stack in O(1) time and O(1) extra space
+24, Oct 18
+
+
+
+Finding Median of unsorted Array in linear time using C++ STL
+16, Jun 20
+
+
+
+Schedule elevator to reduce the total time taken
+18, Feb 19
+
+
+
+Count of sub-strings that do not contain all the characters from the set {'a', 'b', 'c'} at the same time
+27, Mar 19
+
+
+
+
+
+Microsoft Interview experience for full time position of software engineer at Microsoft Ireland Research
+29, Apr 19
+
+
+
+Algorithms Sample Questions | Set 3 | Time Order Analysis
+27, May 19
+
+
+
+Construct the Rooted tree by using start and finish time of its DFS traversal
+11, Jun 19
+
+
+
+How is the time complexity of Sieve of Eratosthenes is n*log(log(n))?
+15, Jan 20
+
+
+
+
+
+Minimum time required to fill the entire matrix with 1's
+30, Apr 20
+
+
+
+Real time optimized KMP Algorithm for Pattern Searching
+22, May 20
+
+
+
+Time-Space Trade-Off in Algorithms
+29, Oct 20
+
+
+
+Time Complexity of Euclidean Algorithm
+24, Mar 21
+
+
+
+
+
+Akra-Bazzi method for finding the time complexities
+02, May 21
+
+
+
+How to solve time complexity Recurrence Relations using Recursion Tree method?
+19, Jun 21
+
+
+
+Count Fibonacci numbers in given range in O(Log n) time and O(1) space
+15, Jan 16
+
+
+
+Extended Mo's Algorithm with ? O(1) time complexity
+26, Jun 18
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+Current difficulty :
+Expert
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Improved By :
+
+
+jokic07
+
+shubhamagarwal0312
+
+Article Tags :
+
+
+Algorithms
+
+Practice Tags :
+
+
+Algorithms
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Algorithms
+
+
+
+
+Find a triplet in an array whose sum is closest to a given number
+
+Difference Between Symmetric and Asymmetric Key Encryption
+
+Find maximum meetings in one room
+
+Count pairs in array whose sum is divisible by K
+
+Difference between Recursion and Iteration
+
+
+
+
+
+
+
+
+
+More related articles in Algorithms
+
+
+
+
+Split the binary string into substrings with equal number of 0s and 1s
+
+Number of flips to make binary string alternate | Set 1
+
+Maximum XOR of Two Numbers in an Array
+
+How to validate a Username using Regular Expressions in Java
+
+Binary Search In JavaScript
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

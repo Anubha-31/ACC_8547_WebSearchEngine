@@ -1,0 +1,1221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RD Sharma Class-11 Archives - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Tag Archives:
+RD Sharma Class-11
+
+
+
+
+
+
+
+
+Class 11 RD Sharma Solutions – Chapter 25 Parabola – Exercise 25.1 | Set 2
+
+Question 11. Find the equation of the parabola whose focus is (5, 2) and having a vertex at (3, 2). Solution: Given that, the vertex…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 25 Parabola – Exercise 25.1 | Set 1
+
+Question 1. Find the equation of the parabola whose: (i) Focus is (3, 0) and the directrix is 3x + 4y = 1 Solution: Given…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 25 Parabola – Exercise 25.2
+
+Question 1. Find the axis of symmetry of the parabola y2 = x. Solution: We are given, => y2 = x We know this parabola…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 26 Ellipse – Exercise 26.1 | Set 2
+
+Question 11. Find the equation of the ellipse whose foci are at (±3, 0) and which passes through (4, 1). Solution: Let the equation of…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 26 Ellipse – Exercise 26.1 | Set 1
+
+Question 1. Find the equation of the ellipse whose focus is (1,–2) and directrix is 3x – 2y + 5 = 0, and eccentricity is…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+
+
+RD Sharma Class 11 Solutions for Maths
+
+RD Sharma Solutions for class 11 covers different types of questions with varying difficulty levels. Practicing these questions with solutions may ensure that students can…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 11 Differentiation – Exercise 11.5 | Set 3
+
+Question 41. If (sin x)y = (cos y)x, prove that . Solution: We have, => (sin x)y = (cos y)x On taking log of both the…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 15 Linear Inequations – Exercise 15.6
+
+Question 1(i). Solve the following systems of linear inequation graphically: 2x + 3y ? 6 3x + 2y ? 6 x ? 0, y ?…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 27 Hyperbola – Exercise 27.1
+
+Question 1. The equation of the directrix of a hyperbola is x – y + 3 = 0. Its focus is (-1, 1) and eccentricity…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 12 Mathematical Induction – Exercise 12.2 | Set 3
+
+Question 33. Prove that n11/11 + n5/5 + n3/3 – 62/165n is true for all n ? N. Solution: Let, P(n) = n11/11 + n5/5…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 12 Mathematical Induction – Exercise 12.2 | Set 2
+
+Prove the following by the principle of mathematical induction: Question 17. a + ar + ar2 + … + arn-1 = a [(rn – 1)/(r…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 12 Mathematical Induction – Exercise 12.2 | Set 1
+
+Prove the following by the principle of mathematical induction: Question 1. 1 + 2 + 3 + … + n = n (n +1)/2 i.e.,…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 30 Derivatives – Exercise 30.3
+
+Question 1. Differentiate f(x) = x4 – 2sinx + 3cosx with respect to x. Solution: Given that, f(x) = x4 – 2sinx + 3cosx Now,…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 18 Binomial Theorem- Exercise 18.2 | Set 3
+
+Question 27. If the 3rd, 4th, 5th and 6th terms in the expansion of (x + ?)n be respectively a, b, c, and d, prove…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 11 RD Sharma Solutions – Chapter 18 Binomial Theorem- Exercise 18.2 | Set 2
+
+Question 14. Find the middle terms in the expansion of: (i) (3x – x3/6)9 Solution: We have, (3x – x3/6)9 where, n = 9 (odd…
+
+Read More
+
+
+
+
+
+RD Sharma Class-11
+
+
+Class 11
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Page 1 of 14
+1
+2
+3
+4
+5
+...
+10
+...
+»
+Last »
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in RD Sharma Class-11
+
+
+
+
+RD Sharma Class 11 Solutions for Maths
+
+Class 11 RD Sharma Solutions - Chapter 23 The Straight Lines- Exercise 23.7
+
+Class 11 RD Sharma Solutions- Chapter 19 Arithmetic Progressions- Exercise 19.2 | Set 2
+
+Class 11 RD Sharma Solutions - Chapter 1 Sets - Exercise 1.5
+
+Class 11 RD Sharma Solutions - Chapter 13 Complex Numbers - Exercise 13.2 | Set 2
+
+
+
+
+
+
+
+
+
+Most visited in RD Sharma Class-11
+
+
+
+
+Class 11 RD Sharma Solutions - Chapter 11 Trigonometric Equations - Exercise 11.1
+
+Class 11 RD Sharma Solutions - Chapter 20 Geometric Progressions- Exercise 20.6
+
+Class 11 RD Sharma Solutions - Chapter 1 Sets - Exercise 1.8 | Set 1
+
+Class 11 RD Sharma Solutions- Chapter 33 Probability - Exercise 33.1 | Set 2
+
+Class 11 RD Sharma Solutions - Chapter 32 Statistics - Exercise 32.4
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

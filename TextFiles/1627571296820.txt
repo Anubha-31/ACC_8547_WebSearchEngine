@@ -1,0 +1,1235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GATE CS 2021 (Revised) Syllabus - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+
+GATE CS 2021 (Revised) Syllabus
+
+3 big changes in GATE 2021
+
+How to Prepare for GATE CS 2021
+
+GATE CS 2020 Syllabus
+
+Important Topics for GATE 2020 Computer Science
+
+Top 5 Topics for Each Section of GATE CS Syllabus
+
+Previous Year Gate CSE/IT papers with solutions
+
+GATE Cut-offs needed to get into IITs, NITs, etc
+
+How to prepare for GATE CSE – 2019
+
+GATE CS 2019 important dates and links
+
+GATE CS 2018 Mock Tests
+
+GATE CSE Test Series – 2019 | Sudo GATE
+
+Gate 2019 Mock Test | Geeksforgeeks Sudo-GATE
+
+Operating Systems | Set 2
+
+Operating Systems | Set 3
+
+Operating Systems | Set 4
+
+Operating Systems | Set 5
+
+Operating Systems | Set 6
+
+Operating Systems | Set 7
+
+Operating Systems | Set 8
+
+Operating Systems | Set 9
+
+Operating Systems | Set 10
+
+Operating Systems | Set 11
+
+Operating Systems | Set 12
+
+Operating Systems | Set 13
+
+Software Engineering | Coupling and Cohesion
+
+Software Engineering | Prototyping Model
+
+Introduction to Algorithms
+
+Difference between NP hard and NP complete problem
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+GATE CS 2021 (Revised) Syllabus
+
+
+
+
+Difficulty Level :
+
+Medium
+
+Last Updated :
+03 Jul, 2021
+
+IIT Bombay is organizing GATE 2021. In this year, and has also revised the syllabus of various GATE Papers.
+The GATE authority 2021 has made major changes
+
+
+
+
+
+GATE CS 2022 TS
+For the CSE (Computer Science and Information Technology) paper, GATE authority has revised syllabus, we have compare syllabus of GATE CS 2020 and GATE CS 2021 and found these following changes.
+Though, they have completely updated Syllabus for General Aptitude (GA) and added two more topics : “Analytical Aptitude”, and “Spatial Aptitude”.
+There are following changes for :
+Technical part of CSE
+
+
+
+
+
+
+Syllabus of General Aptitude (GA) have completely updated and divided into four parts :
+
+Verbal Aptitude
+Quantitative Aptitude
+Analytical Aptitude
+Spatial Aptitude
+“Monoids” is added in the Discrete Mathematics, but it was inclusive part of “Groups” in previous syllabus.
+“Graph search” updated as “Graph traversals” in the Algorithms.
+“pipeline hazards” is added in the Computer Organization and Architecture.
+“Local optimisation”, “Data flow analyses: constant propagation, liveness analysis, common subexpression elimination.” is newly added in the Compiler Design.
+“System calls” and “I/O scheduling” are clearly added in the Operating System, but these were inclusive in the previous syllbus.
+There are major changes in the syllabus of computer networks.
+
+“IPv6”, “Basics of Wi-Fi”, “Network security: authentication, basics of public key and private key cryptography, digital signatures and certificates, firewalls.” are removed.
+“CIDR notation, Basics of IP support protocols (ARP, DHCP, ICMP), Network Address Translation (NAT), and Email” are added.
+
+
+A. Syllabus for General Aptitude (GA)
+
+: tenses, articles, adjectives, prepositions, conjunctions, verb-noun agreement, and other parts of speech : words, idioms, and phrases in context Reading and comprehension Narrative sequencing
+Verbal Aptitude –
+
+Basic English grammar
+
+Basic vocabulary
+
+: data graphs (bar graphs, pie charts, and other graphs representing data), 2- and 3-dimensional plots, maps, and tables : ratios, percentages, powers, exponents and logarithms, permutations and combinations, and series Mensuration and geometry Elementary statistics and probability
+Quantitative Aptitude –
+
+Data interpretation
+
+Numerical computation and estimation
+
+
+: deduction and induction Analogy Numerical relations and reasoning
+Analytical Aptitude –
+
+Logic
+
+
+translation, rotation, scaling, mirroring, assembling, and grouping Paper folding, cutting, and patterns in 2 and 3 dimensions
+Spatial Aptitude –
+
+Transformation of shapes:
+
+
+
+B. Computer Science and Information Technology
+
+Engineering Mathematics
+
+: Propositional and first order logic. Sets, relations, functions, partial orders and lattices. : connectivity, matching, coloring. : counting, recurrence relations, generating functions. : Matrices, determinants, system of linear equations, eigenvalues and eigenvectors, LU decomposition. : Limits, continuity and differentiability. Maxima and minima. Mean value theorem. Integration. : Random variables. Uniform, normal, exponential, poisson and binomial distributions. Mean, median, mode and standard deviation. Conditional probability and Bayes theorem.
+Section-1: Engineering Mathematics –
+
+Discrete Mathematics
+
+Monoids, Groups. Graphs
+
+Combinatorics
+
+Linear Algebra
+
+
+Calculus
+
+Probability and Statistics
+
+
+
+
+Computer Science and Information Technology
+Boolean algebra. Combinational and sequential circuits. Minimization. Number representations and computer arithmetic (fixed and floating point).
+Section-2: Digital Logic –
+
+
+
+
+
+
+Machine instructions and addressing modes. ALU, data-path and control unit. Instruction pipelining, pipeline hazards. : cache, main memory and secondary storage; I/O interface (interrupt and DMA mode).
+Section-3: Computer Organization and Architecture –
+
+
+
+Memory hierarchy
+
+Programming in C. Recursion. Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs.
+Section-4: Programming and Data Structures –
+
+
+Searching, sorting, hashing. Asymptotic worst case time and space complexity. : greedy, dynamic programming and divide-and-conquer. Graph traversals, minimum spanning trees, shortest paths
+Section-5: Algorithms –
+
+
+Algorithm design techniques
+Regular expressions and finite automata. Context-free grammars and push-down automata. Regular and contex-free languages, pumping lemma. Turing machines and undecidability.
+Section-6: Theory of Computation –
+
+Lexical analysis, parsing, syntax-directed translation. Runtime environments. Intermediate code generation. Local optimisation, : constant propagation, liveness analysis, common subexpression elimination.
+Section-7: Compiler Design –
+
+
+
+Data flow analyses
+System calls, processes, threads, inter-process communication, concurrency and synchronization. Deadlock. CPU and I/O scheduling. Memory management and virtual memory. File systems.
+Section 8: Operating System –
+
+
+: relational algebra, tuple calculus, SQL. Integrity constraints, normal forms. File organization, indexing (e.g., B and B+ trees). Transactions and concurrency control.
+Section-9: Databases –
+
+ER-model. Relational model
+
+: OSI and TCP/IP Protocol Stacks; Basics of packet, circuit and virtual circuit-switching; : framing, error detection, Medium Access Control, Ethernet bridging; : shortest path, flooding, distance vector and link state routing; Fragmentation and IP addressing, IPv4, CIDR notation, Basics of IP support protocols (ARP, DHCP, ICMP), Network Address Translation (NAT); : flow control and congestion control, UDP, TCP, sockets; : DNS, SMTP, HTTP, FTP, Email.
+Section-10: Computer Networks –
+
+Concept of layering
+
+
+Data link layer
+
+Routing protocols
+
+
+Transport layer
+
+Application layer protocols
+
+
+
+References –
+
+
+GATE 2020 Syllabi
+
+GATE 2021 Syllabi
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Next
+
+
+3 big changes in GATE 2021
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+CAT Exam 2021 - Important Dates, Eligibility Criteria, Exam Pattern & Syllabus
+24, May 21
+
+
+
+GRE General 2021 - Important Dates, Exam Pattern, Syllabus & Score
+19, Jun 21
+
+
+
+IBPS SO 2021 (IT Officer) - Eligibility, Exam Pattern, Syllabus
+12, Jan 21
+
+
+
+GATE CS 2020 Syllabus
+19, Jul 19
+
+
+
+
+
+Top 5 Topics for Each Section of GATE CS Syllabus
+18, Jan 16
+
+
+
+ISRO SC/Engineer Recruitment for CS Students - Eligibility, Exam Pattern, Syllabus
+17, Oct 20
+
+
+
+3 big changes in GATE 2021
+01, Aug 20
+
+
+
+How to Prepare for GATE CS 2021
+05, Aug 20
+
+
+
+
+
+Importance of Sudo GATE CS 2021 Test Series
+24, Nov 20
+
+
+
+GATE CS 2021 Official Important Dates
+15, Aug 20
+
+
+
+How to Stand Out as a Software Engineer in 2021
+20, Feb 21
+
+
+
+How to Learn ReactJS in 2021?
+24, Jan 21
+
+
+
+
+
+10 Node.js Framework to be used in 2021
+20, Sep 19
+
+
+
+How to Become a Full Stack Web Developer in 2021?
+12, Feb 20
+
+
+
+Top 10 Python Libraries for Data Science in 2021
+25, May 20
+
+
+
+Top 8 Data Science Competitions To Consider in 2021
+09, Nov 20
+
+
+
+
+
+12 Best Resume Do's and Don'ts Tips in 2021
+20, Aug 20
+
+
+
+Top 10 Data Science Blogs for 2021
+24, Jan 21
+
+
+
+How to Become a Kaggle Grandmaster in 2021?
+29, Jan 21
+
+
+
+Top 7 Content Management Systems for 2021
+21, Jan 21
+
+
+
+
+
+India’s Super Brain 2021 - An Alien Brains Initiative Powered By GeeksforGeeks!
+14, Jan 21
+
+
+
+8 Most Popular Tech Fields in 2021
+13, Jan 21
+
+
+
+7 Most In-Demand and Well-Paying Career Options For 2021
+17, Dec 20
+
+
+
+What's Different In GSoC 2021 - Eligibility, Timeline, Stipend
+24, Nov 20
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+Mithlesh Upadhyay
+
+@Mithlesh Upadhyay
+
+Vote for difficulty
+Current difficulty :
+Medium
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Computer Subject
+
+GATE CS
+
+GBlog
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Computer Subject
+
+
+
+
+Chain of Custody - Digital Forensics
+
+Aptitude for Placements
+
+Software Engineering | Classification of Software Requirements
+
+Advantages and Disadvantages of Star Topology
+
+Functional Programming Paradigm
+
+
+
+
+
+
+
+
+
+Most visited in GATE CS
+
+
+
+
+Layers of OSI Model
+
+ACID Properties in DBMS
+
+Types of Operating Systems
+
+Functions of Operating System
+
+Normal Forms in DBMS
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

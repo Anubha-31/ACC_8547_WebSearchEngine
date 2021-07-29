@@ -1,0 +1,1435 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topic wise multiple choice questions in computer science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+
+Topic wise multiple choice questions in computer science
+
+C Input and Output
+
+C
+
+C Programming Language
+
+Array Data Structure
+
+Data Structures
+
+Algorithms
+
+Java Programming Language
+
+Web Development
+
+HTML Tutorials
+
+CSS Tutorials
+
+JavaScript Tutorial
+
+ReactJS Tutorials
+
+
+
+
+
+
+
+Topic wise multiple choice questions in computer science
+
+
+
+Last Updated :
+12 Apr, 2021
+
+
+
+
+C Programming Mock Tests
+
+
+C++ Programming Mock Tests
+
+
+Java Programming Mock Tests
+
+
+Python Programming Mock Tests
+
+
+GATE Mock Tests
+
+
+Data Structures Mock Tests
+
+
+Algorithms Mock Tests
+
+
+Operating Systems Mock Tests
+
+
+DBMS Mock Tests
+
+
+Compiler Design Mock Tests
+
+
+Computer Networks Mock Tests
+
+
+Theory of Computation Mock Tests
+
+
+Computer Organization and Architecture
+
+
+Engineering Mathematics
+
+
+Aptitude Mock Tests
+
+
+CS Interview Questions
+
+C Programming Mock Tests
+
+
+
+
+
+Input and Output
+
+Operators
+
+Loops & Control Structure
+
+Structure & Union
+
+Macro & Preprocessor
+
+Arrays
+
+Pointer Basics
+
+String
+
+
+
+Functions
+
+Storage Classes and Type Qualifiers
+
+Data Types
+
+Dynamic Memory Allocation
+
+Misc
+
+Advanced Pointer
+
+Variable Declaration and Scope
+
+File Handling
+
+
+
+
+C Quiz – 101
+
+C Quiz – 102
+
+C Quiz – 103
+
+C Quiz – 104
+
+C Quiz – 105
+
+C Quiz – 106
+
+
+
+C Quiz – 107
+
+C Quiz – 108
+
+C Quiz – 109
+
+C Quiz – 110
+
+C Quiz – 111
+
+C Quiz – 112
+
+
+Data Structures Mock Tests
+
+
+
+
+
+
+
+
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Trees
+
+Binary Search Trees
+
+Balanced Binary Search Trees
+
+Graph
+
+
+
+Hash
+
+Array
+
+Misc
+
+B and B+ Trees
+
+Heap
+
+Tree Traversals
+
+
+
+Algorithms Mock Tests
+
+
+
+
+
+Analysis of Algorithms
+
+Sorting
+
+Divide and Conquer
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Backtracking
+
+Misc
+
+NP Complete
+
+
+
+Searching
+
+Analysis of Algorithms (Recurrences)
+
+Recursion
+
+Bit Algorithms
+
+Graph Traversals
+
+Graph Shortest Paths
+
+Graph Minimum Spanning Tree
+
+
+
+Operating Systems Mock Tests
+
+
+
+
+
+Process Management
+
+Memory Management
+
+Input Output Systems
+
+
+
+UNIX
+
+CPU Scheduling
+
+Deadlock
+
+
+
+C++ Programming Mock Tests
+
+
+
+
+
+
+
+
+
+
+Constructors
+
+References
+
+Class and Object
+
+Misc C++
+
+Destructors
+
+Operator Overloading
+
+this pointer
+
+Function Overloading and Default Arguments
+
+
+
+Static Keyword
+
+friend keyword
+
+Inheritance
+
+const keyword
+
+new and delete
+
+Virtual Functions
+
+Templates
+
+Exception Handling
+
+
+Java Programming Mock Tests
+
+
+
+
+
+Inheritance
+
+Abstract Class and Interface
+
+Arrays
+
+Data Types
+
+Constructors
+
+Exception Handling
+
+
+
+Packages
+
+Class and Object
+
+Functions
+
+final keyword
+
+Operators
+
+
+
+Python Programming Mock Tests
+
+
+
+
+
+Functions
+
+Operators
+
+Miscellaneous
+
+
+
+Data Type
+
+Output
+
+
+
+GATE Mock Tests
+
+
+
+
+
+GATE CS 2012
+
+GATE CS 2013
+
+GATE CS 2011
+
+GATE CS 2010
+
+GATE-CS-2009
+
+GATE CS 2008
+
+
+GATE IT 2008
+
+
+GATE-CS-2007
+
+GATE-IT-2007
+
+GATE-CS-2006
+
+GATE-IT-2006
+
+GATE-CS-2014-(Set-1)
+
+GATE-CS-2014-(Set-2)
+
+GATE-CS-2014-(Set-3)
+
+
+
+GATE-CS-2005
+
+GATE-IT-2005
+
+GATE-CS-2004
+
+GATE-IT-2004
+
+GATE-CS-2003
+
+GATE-CS-2002
+
+GATE-CS-2001
+
+GATE-CS-2000
+
+GATE-CS-2015 (Mock Test)
+
+GATE-CS-2015 (Set 1)
+
+GATE-CS-2015 (Set 2)
+
+GATE-CS-2015 (Set 3)
+
+GATE-CS-2016 (Set 1)
+
+GATE-CS-2016 (Set 2)
+
+
+DBMS Mock Tests
+
+
+
+
+
+ER and Relational Models
+
+Database Design (Normal Forms)
+
+SQL(29)
+
+
+
+Transactions and concurrency control
+
+File structures
+
+
+
+Compiler Design Mock Tests
+
+
+
+
+
+Lexical analysis
+
+Parsing and Syntax directed translation
+
+
+
+Code Generation and Optimization
+
+
+
+Computer Networks Mock Tests
+
+
+
+
+
+Data Link Layer
+
+Network Layer
+
+IP Addressing
+
+Transport Layer
+
+
+
+Misc Topics in Computer Networks
+
+Application Layer
+
+Network Security
+
+
+
+Theory of Computation Mock Tests
+
+
+
+
+
+Regular languages and finite automata
+
+Context free languages and Push-down automata
+
+
+
+Recursively enumerable sets and Turing machines
+
+Undecidability
+
+
+Aptitude Mock Tests
+
+
+
+
+
+Puzzles
+
+Probability
+
+Arithmetic Aptitude
+
+Arithmetic Aptitude 3
+
+Arithmetic Aptitude 5
+
+Numbers
+
+Work and Wages
+
+
+
+English
+
+General Aptitude
+
+Arithmetic Aptitude 2
+
+Arithmetic Aptitude 4
+
+Arithmetic Aptitude 6
+
+LCM
+
+HCF
+
+
+Computer Organization and Architecture
+
+
+
+
+
+Digital Logic & Number representation
+
+Computer Organization and Architecture
+
+
+
+Number Representation
+
+Microprocessor
+
+
+Other Topics in Computer Science
+
+
+
+
+Software Engineering
+
+
+
+HTML and XML
+
+
+Engineering Mathematics
+
+
+
+
+
+Set Theory & Algebra
+
+Linear Algebra
+
+Numerical Methods and Calculus
+
+
+
+Graph Theory
+
+Combinatorics
+
+Propositional and First Order Logic.
+
+
+CS Interview Questions
+
+
+
+
+
+C Interview Questions | Set 1
+
+C Interview Questions | Set 2
+
+C++ Interview Questions
+
+Data Structures Interview Questions
+
+Computer Networks Interview Questions
+
+
+
+Algorithm Interview Questions
+
+DBMS Interview Questions
+
+Operating Systems Interview Questions
+
+OOP Interview Questions
+
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+100 Days of Code - A Complete Guide For Beginners and Experienced
+
+Must Do Coding Questions for Product Based Companies
+
+How to read multiple text files from folder in Python?
+
+Difference Between HTML, XML and DHTML
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+How to pass data from child component to its parent in ReactJS ?
+
+Wells Fargo Interview Experience for FTE | On-Campus 2021 (Virtual)
+
+Competitive Programming - A Complete Guide
+
+How to Encrypt and Decrypt Strings in Python?
+
+30 Days of SQL - From Basic to Advanced Level!
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

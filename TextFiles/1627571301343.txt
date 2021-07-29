@@ -1,0 +1,1341 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algebra - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Mean, Median and Mode of Grouped Data
+
+Euclid's Division Algorithm - Real Numbers | Class 10 Maths
+
+CBSE Class 10 Maths Notes
+
+Step deviation Method for Finding the Mean with Examples
+
+Theorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+
+Sign Convention for Spherical Mirrors
+
+Concave and Convex Mirrors - Ray Diagrams, Image Formation, Applications
+
+NCERT Solutions for Class 10 Maths
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+
+Trigonometry
+
+Tangent to a circle - Circles | Class 10 Maths
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Calculus
+
+Roots of Quadratic Equations
+
+Statistics
+
+Introduction to Arithmetic Progressions | Class 10 Maths
+
+Probability in Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Refraction of Light through Glass Slab
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+
+Geometry
+
+Cumulative frequency curve
+
+Heights and Distances - Trigonometry | Class 10 Maths
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Algebra
+
+
+
+
+Last Updated :
+04 Jun, 2021
+
+is a branch of mathematics that deals with ,, and . It is one of the oldest branches in the history of mathematics. Algebra is defined as the analysis of mathematical symbols and laws, as well as the manipulation of these mathematical symbols, according to some definitions. Algebra covers a wide range of topics, from solving basic problems to studying abstractions. Algebra equations are included in several chapters of mathematics that students will study in school. In addition, algebra contains a number of formulas and identities.
+Algebra
+number theory
+geometry
+analysis
+
+
+The definition of algebra is focused on variables, which are undefined values. Equations are a crucial concept in algebra. To execute arithmetic operations, it follows a set of laws. The laws are used to interpret data sets that have two or more variables. It is used to analyze a variety of topics around us. Basic algebra, abstract algebra, linear algebra, advanced algebra, and commutative algebra are some of the sub-branches of algebra are discussed below:
+Table of Contents
+
+
+Polynomials
+
+Linear Equations
+
+Set theory
+
+Vectors
+
+Relations and Functions
+
+Matrices and Determinants
+
+Permutation and Combination
+
+Mathematical Induction
+
+
+Linear Algebra
+Linear algebra is a type of algebra that can be used in both applied and pure mathematics. It is concerned with linear mappings between vector spaces. It also entails the investigation of planes and tracks. It involves the investigation of linear sets of equations with transformation properties. It is concerned with linear equations and their representation in vector spaces and by matrices for linear functions. The following are some of the most important parts discussed in linear algebra:
+
+
+Polynomials
+
+
+
+
+
+Polynomials are made by variables and coefficients, which are algebraic expressions. Indeterminate is another name for variables. For polynomial expressions, we may perform arithmetic operations such as addition, subtraction, multiplication, and positive integer exponents, but not division by variable. Following are the topics that discuss polynomials deeply:
+
+
+Zeroes of a polynomial
+
+Remainder Theorem
+
+Multiplying Polynomials
+
+Algebraic Identities of Polynomials
+
+Geometrical meaning of the Zeroes of polynomial
+
+Relationship between Zeroes and coefficients of a polynomial
+
+Division Algorithm for polynomials
+
+
+Linear Equations
+Linear equations are first-order equations. In the coordinate system, these equations are defined for lines. A linear equation is an equation for a straight line. The straight-line equation is written as y = mx + b, where m denotes the line’s slope and b denotes the y-intercept. The first-order equations are known as linear equations. In the coordinate system, these equations are defined for lines. Since the highest exponent of variables is 1, linear equations are also known as first-degree equations. Following are the topics that discuss linear equations deeply:
+
+
+Standard Algebraic Identities
+
+Algebraic expressions
+
+Like and Unlike Algebraic Terms
+
+Mathematical Operations on Algebraic Expressions
+
+Standard Algebraic Identities
+
+Factorization
+
+Introduction to factorization
+
+Division of Algebraic Expressions
+
+Linear Equations in One Variable
+
+Solve Linear Equations with Variable on both Sides
+
+Solving Equations which have Linear Expressions on one Side and Numbers on the other Side
+
+Reducing Equations to Simpler Form
+
+Linear Equations and their solutions
+
+Pair of Linear Equations in Two Variables
+
+Graphical methods of Solving a Pair of Linear Equations
+
+Algebraic methods of Solving a Pair of Linear Equations
+
+Equation Reducible to a Pair of linear equations in two variables
+
+Quadratic Equations
+
+Solution of a Quadratic equation by different methods
+
+Roots of a Quadratic Equation
+
+Algebraic Operations on Complex Numbers
+
+Argand plane and polar representation
+
+Imaginary Numbers
+
+Compound Inequalities
+
+Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation
+
+Graphical Solution of Linear Inequalities in Two variables
+
+Fundamental Principle of Counting
+
+Introduction to Arithmetic Progressions
+
+Common difference and Nth term
+
+Sum of First n Terms
+
+Binomial Theorem for positive integral indices
+
+Pascal’s Triangle
+
+Introduction to Sequences and Series
+
+General and Middle Terms – Binomial Theorem
+
+Arithmetic Series
+
+Arithmetic Sequences
+
+Geometric Sequence and Series
+
+Special Series
+Abstract Algebra
+
+Abstract algebra is one of the branches of algebra that finds truths about algebraic structures regardless of the existence of certain operations. In certain instances, these operations have special properties. As a result, we can draw certain conclusions about the implications of those properties. As a result, abstract algebra is a subset of mathematics. Groups, sets, modules, rings, lattices, vector spaces, and other algebraic structures are studied in abstract algebra. Following are the list of the articles that discuss the same:
+
+Set Theory
+
+Set theory is a branch of mathematical logic that investigates sets, which are arrays of objects informally. While any object can be gathered into a group, set theory as a branch of mathematics is mostly concerned with those that are important to all mathematics. Sets are an ordered array of items in mathematics that can be expressed in set-builder or roster form. Sets are usually denoted by curly braces;{} for example, A = {1,2,3,4} is a collection. Let’s learn more about the sets in the following articles:
+
+
+Sets and their representations
+
+Different kinds of Sets
+
+Subsets, Power Sets, and Universal Sets
+
+Venn Diagrams
+
+Operations on Sets
+
+Union and Intersection of sets
+
+Cartesian Product of Sets
+
+
+Vectors
+One of the most important aspects of algebra is vector algebra. It is a course that focuses on the algebra of vector quantities. There are two kinds of measurable quantities: scalars and vectors, as we all know. The magnitude of a scalar quantity is the only thing that matters, while the magnitude and direction of a vector quantity are also essential. A vector is a two-dimensional object of both magnitude and direction. It is normally represented by an arrow with a length (?) that indicates the magnitude and direction. A vector is a two-dimensional object of both magnitude and direction. It is normally represented by an arrow with a length that indicates the magnitude and direction. The arrowhead on the vector arrow has an arrowhead, and the tail on the other end is the tail. It is denoted by the letter V. The vector’s magnitude is denoted by the letter |V|. Let’s discuss more the vector and its algebra in the following articles:
+
+
+
+
+
+
+Dot and Cross Product of two vectors
+
+Section Formula
+
+
+Advanced Algebra
+There are advanced styles of algebra taught in schools such as abstract algebra, linear algebra, and standard algebra, in addition to basic algebra. This involves learning how to use a matrix to solve a large number of linear equations at the same time. The analysis of objects contained in equations, moving beyond numbers to the more abstract of classes of numbers, is known as abstract algebra. Let’s discuss more of it in the following topics:
+
+
+Relations and Functions
+The most significant subjects in mathematics are “Relations and Functions.” Relations and functions are two distinct terms that have different mathematical interpretations. One might be puzzled by the differences between them. Before we go even further, let’s look at a clear example of the differences between the two. An ordered pair is represented as (INPUT, OUTPUT): The relation shows the relationship between INPUT and OUTPUT. Whereas, a function is a relation that derives one OUTPUT for each given INPUT. Let’s discuss more of the topic in the following articles:
+
+
+Relations
+
+Functions
+
+Types of Functions
+
+Composite functions
+
+Invertible Functions
+
+Introduction to Domain and Range
+
+Algebraic Operations on Complex Numbers
+
+Argand plane and polar representation
+
+
+Matrices and Determinants
+In linear algebra, determinants and matrices are used to solve linear equations by applying Cramer’s law to a series of non-homogeneous linear equations. Only square matrices are used to measure determinants. While a matrix’s determinant is empty, it’s known as a singular determinant, and when it’s one, it’s known as unimodular. The determinant of the matrix must be nonsingular, that is, its value must be nonzero, for the set of equations to have a unique solution. Let us look at the definitions of determinants and matrices, as well as the various forms of matrices and their properties, using examples in the following articles:
+
+
+Matrices and its Types
+
+Mathematical Operations on Matrices
+
+Properties of Matrix Addition and Scalar Multiplication
+
+How to Multiply Matrices
+
+Transpose of a matrix
+
+Symmetric and Skew Symmetric Matrices
+
+Inverse of a Matrix by Elementary Operations
+
+Invertible Matrices
+
+Determinants
+
+Properties of Determinants
+
+Area of a Triangle using Determinants
+
+Minors and Cofactors
+
+Adjoint of a Matrix
+
+Application of Determinants and Matrices
+
+
+Permutations and Combinations
+Permutation and combination are methods for representing a collection of objects by choosing them from a list and dividing them into subsets. It specifies the different methods for organizing a set of data. Permutations are used to choose data or events from a group, while combinations are used to represent the order in which they are represented. Let’s discuss them deeply in the following articles:
+
+
+Permutation
+
+Combinations
+
+
+Mathematical Induction
+For each and every natural number n, mathematical induction is a technique for proving a proposition, hypothesis, or formula that is assumed to be valid. The ‘Principle of Mathematical Induction is a generalization of this that we can use to prove any mathematical statement. Therefore, let’s learn more about it in the following articles:
+
+
+Principle of Mathematical Induction
+
+Conditional Statements & Implications
+
+Validating Statements
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Mensuration
+
+
+Next
+
+
+ReactJS UI Ant Design Select Component
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Vector Algebra
+15, Jun 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.6 | Set 1
+24, Mar 21
+
+
+
+Class 12 RD Sharma Solutions- Chapter 5 Algebra of Matrices - Exercise 5.1 | Set 2
+28, Dec 20
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.2
+01, May 21
+
+
+
+
+
+Algebra of Continuous Functions - Continuity and Differentiability | Class 12 Maths
+16, Dec 20
+
+
+
+Class 12 RD Sharma Solutions - Chapter 5 Algebra of Matrices - Exercise 5.1 | Set 1
+28, Dec 20
+
+
+
+Class 12 RD Sharma Solutions- Chapter 23 Algebra of Vectors - Exercise 23.1
+28, Dec 20
+
+
+
+Class 12 RD Sharma Solutions- Chapter 5 Algebra of Matrices - Exercise 5.5
+04, Jan 21
+
+
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.3
+07, Jan 21
+
+
+
+Class 12 RD Sharma Solutions- Chapter 5 Algebra of Matrices - Exercise 5.4
+01, Feb 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.7
+04, Feb 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.4
+15, Feb 21
+
+
+
+
+
+Algebra of Real Functions
+18, Feb 21
+
+
+
+Class 12 RD Sharma- Chapter 23 Algebra of Vectors - Exercise 23.8
+22, Feb 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 5 Algebra of Matrices - Exercise 5.2 | Set 1
+22, Feb 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 5 Algebra of Matrices - Exercise 5.2 | Set 2
+22, Feb 21
+
+
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.5
+15, Mar 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.9
+23, Mar 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 23 Algebra of Vectors - Exercise 23.6 | Set 2
+24, Mar 21
+
+
+
+Section Formula - Vector Algebra
+28, Apr 21
+
+
+
+
+
+Algebra of Derivative of Functions
+31, May 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 5 Algebra of Matrices - Exercise 5.3 | Set 1
+24, Jun 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 5 Algebra of Matrices - Exercise 5.3 | Set 2
+25, Jun 21
+
+
+
+Class 12 RD Sharma Solutions - Chapter 5 Algebra of Matrices - Exercise 5.3 | Set 3
+28, Jun 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 10
+
+Class 11
+
+Class 12
+
+Class 8
+
+Class 9
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 10
+
+
+
+
+Mensuration
+
+Magnetic Field due to Current in Straight Wire
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.9
+
+Spherical Mirrors
+
+Class 10 NCERT Solutions - Chapter 2 Polynomials - Exercise 2.2
+
+
+
+
+
+
+
+
+
+Most visited in Class 11
+
+
+
+
+Focus and Directrix of a Parabola
+
+Difference Between Mean, Median, and Mode with Examples
+
+Cartesian Product of Sets
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.1
+
+Mensuration
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

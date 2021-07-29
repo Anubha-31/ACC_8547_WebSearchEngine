@@ -1,0 +1,1323 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GeeksforGeeks | A computer science portal for geeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gblog
+First Step to DSA – Scholarship Test For 9 to 12 Class Students
+“Start Early even if your destination is quite far away” – this success mantra always works for everyone whether it be a student, a sportsperson,…
+
+Read More
+
+
+
+
+9 Features of Chrome Developer Tools That You Must Know
+
+We all know the popularity of the Chrome browser. This browser has made life easier for developers and being a developer using its built-in developer…
+
+Read More
+
+
+
+
+
+GBlog
+
+
+
+Top 10 Cyber Threats World is Facing in 2021
+
+Individuals, businesses, and governments all are concerned about cybersecurity. Keeping our data safe in a world where everything is on the Internet, from cute kitten…
+
+Read More
+
+
+
+
+
+Cyber-security
+
+
+GBlog
+
+
+
+Accolite Digital Interview Experience for Intern+FTE | On-Campus 2021
+
+Accolite Digital is Hiring a Fresher for the role of Software Engineer(Intern+FTE). The process was started on July 9th, 2021, and ended on July 14th,…
+
+Read More
+
+
+
+
+
+Accolite
+
+
+Marketing
+
+
+On-Campus
+
+
+Internship
+
+
+Interview Experiences
+
+
+
+Accolite Digital (AHC 13.0) Interview Experience for Intern+FTE (Off-Campus)
+
+Accolite Digital Hiring Challenge 13.0 is a Fresher Hiring challenge for the role of Software Engineer. The contest was started on April 15th, 2021, and…
+
+Read More
+
+
+
+
+
+Accolite
+
+
+Marketing
+
+
+Internship
+
+
+Interview Experiences
+
+
+
+Deloitte USI Interview Experience
+
+Hi Geeks, So I am sharing my complete virtual interview experience with Deloitte USI (Deloitte India – Offices of the US). The company visited us…
+
+Read More
+
+
+
+
+
+Deloitte
+
+
+Marketing
+
+
+Interview Experiences
+
+
+
+Amazon Interview Experience for SDE-I (On-Campus)
+
+The hiring process for Amazon consisted of 1 Online coding assessment + 2(or)3 Virtual Interview rounds. So, in total there were 3(or)4 rounds. There were…
+
+Read More
+
+
+
+
+
+Amazon
+
+
+Marketing
+
+
+On-Campus
+
+
+Interview Experiences
+
+
+
+Amazon Internship Interview Experience (On-Campus)
+
+Amazon visited our college to pick SDE-Interns for 6 months duration. There were 3 rounds totally which are described below, First Round (Online Test): This…
+
+Read More
+
+
+
+
+
+Amazon
+
+
+Marketing
+
+
+On-Campus
+
+
+Internship
+
+
+Interview Experiences
+
+
+
+Amazon Interview Experience for SDE-1
+
+Got an offer from Amazon! Here is my experience. I do not have a degree in CS and learned on my own (no Bootcamp). You…
+
+Read More
+
+
+
+
+
+Amazon
+
+
+Marketing
+
+
+Interview Experiences
+
+
+
+FactSet Interview Experience for Software Engineer | On-Campus 2021
+
+Round 1: The first round consisted of a total of 4 programming-based questions including DBMS query and Java Exception Handling. The test was on the…
+
+Read More
+
+
+
+
+
+FactSet
+
+
+Marketing
+
+
+On-Campus
+
+
+Interview Experiences
+
+
+
+
+Quick Links
+
+
+
+
+
+
+Events at GeeksforGeeks
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Internships at GeeksforGeeks
+
+
+
+
+Coding Practice
+
+
+
+
+Infosys DSE Interview Experience 2021
+
+I got a PPI interview opportunity for the role of Digital Specialist Engineer after clearing the first round of HackWithInfy 2021. The first round consisted…
+
+Read More
+
+
+
+
+
+Infosys
+
+
+Marketing
+
+
+Interview Experiences
+
+
+
+Infosys DSE Interview Experience 2021
+
+I got a PPI interview opportunity for the role of Digital Specialist Engineer after clearing the first round of HackWithInfy 2021. The first round was…
+
+Read More
+
+
+
+
+
+Infosys
+
+
+Marketing
+
+
+Interview Experiences
+
+
+
+Microsoft Internship Interview Experience | On-Campus 2021
+
+Microsoft came to our college to select candidates for the roles of FTE as well as Summer Intern in July 2021. Out of the 230…
+
+Read More
+
+
+
+
+
+Marketing
+
+
+Microsoft
+
+
+On-Campus
+
+
+Internship
+
+
+Interview Experiences
+
+
+
+Oracle Internship Interview Experience | On-Campus 2021
+
+Oracle came to our campus for Intern positions for the profile – Server Technology. Eligibility criteria: Above 7 CGPA.Branch: CSE Total number of rounds: 3 Round…
+
+Read More
+
+
+
+
+
+Marketing
+
+
+On-Campus
+
+
+Oracle
+
+
+Internship
+
+
+Interview Experiences
+
+
+
+Oracle Interview Experience for Server Technology (On-Campus)
+
+Round 1(Online Test): It was an online MCQ test. The test comprised of questions from DSA, DBMS, OS, logical reasoning, Flow chart analysis, etc. …
+
+Read More
+
+
+
+
+
+Marketing
+
+
+On-Campus
+
+
+Oracle
+
+
+Interview Experiences
+
+
+
+Principal Global Services Interview Experience | Off-Campus 2021
+
+Principal Global Services is a part of Principal Global Financial Group, a Fortune 500 company, founded in 1879 in Des Moines, Iowa, USA. PGS’s headquarter…
+
+Read More
+
+
+
+
+
+Marketing
+
+
+Off-Campus
+
+
+Principal Global
+
+
+Interview Experiences
+
+
+
+Dunzo Interview Experience 2021 | 4+ Years Experienced
+
+Hackerrank Round: There were 3 questions in the test. 2 were DS Algo and 1 was to implement a function. I don’t remember the questions…
+
+Read More
+
+
+
+
+
+Dunzo
+
+
+Marketing
+
+
+Experienced
+
+
+Interview Experiences
+
+
+
+Intuit Interview Experience | On-Campus-2021
+
+Intuit visited our campus for intern and FTE roles for freshers. They conducted an online assessment round Type of Round- Online Assessment Time Allocated- 90min…
+
+Read More
+
+
+
+
+
+Intuit
+
+
+Marketing
+
+
+On-Campus
+
+
+Internship
+
+
+Interview Experiences
+
+
+
+Page 1 of 6,528
+1
+2
+3
+4
+5
+...
+10
+20
+30
+...
+»
+Last »
+
+
+
+
+
+Quick Links
+
+
+
+
+
+
+Events at GeeksforGeeks
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Internships at GeeksforGeeks
+
+
+
+
+Coding Practice
+
+
+
+
+
+Featured Articles
+
+View All
+
+
+
+
+
+Must Do Coding Questions for Product Based Companies
+May 16, 2021
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …
+May 16, 2021
+
+ProGeek Cup 2021 – A Project Competition By GeeksforGeeks
+May 11, 2021
+
+Recently Asked Interview Questions in Product Based Companies
+May 11, 2021
+
+Bridge the Gap Between Engineering and Your Dream Job – Complete Interview Preparation
+May 1, 2021
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+
+Recommended
+
+
+
+
+
+
+Guest Blogs
+
+
+
+Must Do Coding Questions Company-wise
+
+
+
+Practice for cracking any coding interview
+
+
+
+Placements
+
+
+
+Complete Interview Preparation With Doubt Assistance
+
+
+
+GATE Computer Science Notes
+
+
+
+Machine Learning
+
+
+
+Django Tutorial
+
+
+
+Computer Science Projects
+
+
+
+Amazon SDE Test Series
+
+
+
+Company Interview Corner
+
+
+
+The C++ Standard Template Library (STL)
+
+
+
+Software Design Patterns
+
+
+
+SQL Tutorial
+
+
+
+Advanced Data Structures
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+

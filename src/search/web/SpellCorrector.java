@@ -21,10 +21,10 @@ public class SpellCorrector {
 	private static final String DIR_PATH = "TextFiles/";
 
 	Trie trie = new Trie();
-	Map<String, Integer> dictWordCount = new HashMap<>();
+	Map<String, Integer> dictWordCount =
+	 new HashMap<>();
 
 	public void loadSpellCorrector() {
-
 		File fileFolder = new File(DIR_PATH);
 
 		File[] files = fileFolder.listFiles();
@@ -35,7 +35,7 @@ public class SpellCorrector {
 				try {
 					storeInDictionary(files[i]);
 				} catch (IOException e) {
-
+					System.out.println("in exception block1");
 					e.printStackTrace();
 				}
 			}
@@ -55,25 +55,41 @@ public class SpellCorrector {
 
 				if (!line.contains(" ")) {
 					word=word.toLowerCase();
+					//System.out.println("finding exception11");
+					if(isAlpha(word))
+					{
 					dictWordCount.put(word, dictWordCount.getOrDefault(word, 0) + 1);
 					trie.addWord(word);
+					}
 				} else {
 					String[] sWords = line.split("\\s");
 					for (String sWord : sWords) {
 						sWord=sWord.toLowerCase();
+						//System.out.println("finding exception22");
+						if(isAlpha(word))
+						{
 						dictWordCount.put(sWord, dictWordCount.getOrDefault(sWord, 0) + 1);
 						trie.addWord(sWord);
+						}
 					}
 				}
 			}
+			
+		//	System.out.println("dictWordCount count is"+dictWordCount.size()+fileName);
 
 			fileReader.close();
 			bufferReader.close();
 		} catch (Exception e) {
-			// System.out.println(e);
+			System.out.println("in exception block2");
+			e.printStackTrace();
+			 System.out.println(e);
 		}
 	}
 
+	 public static boolean isAlpha(String s) {
+	        return s != null && s.matches("^[a-zA-Z]*$");
+	    }
+	 
 	public String findSimilarWord(String sInput) 
 	{
 		String result = "";

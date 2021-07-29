@@ -1,0 +1,1155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calculus - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Mean, Median and Mode of Grouped Data
+
+Euclid's Division Algorithm - Real Numbers | Class 10 Maths
+
+CBSE Class 10 Maths Notes
+
+Step deviation Method for Finding the Mean with Examples
+
+Theorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+
+Algebra
+
+Sign Convention for Spherical Mirrors
+
+Concave and Convex Mirrors - Ray Diagrams, Image Formation, Applications
+
+NCERT Solutions for Class 10 Maths
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+
+Trigonometry
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Tangent to a circle - Circles | Class 10 Maths
+
+Roots of Quadratic Equations
+
+Statistics
+
+Introduction to Arithmetic Progressions | Class 10 Maths
+
+Probability in Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Refraction of Light through Glass Slab
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+
+Geometry
+
+Cumulative frequency curve
+
+Heights and Distances - Trigonometry | Class 10 Maths
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Calculus
+
+
+
+
+Last Updated :
+03 Jun, 2021
+
+is a subset of mathematics concerned with the study of continuous transition. Calculus is also known as infinitesimal calculus or “infinite calculus.” The analysis of continuous change of functions is known as classical calculus. Derivatives and integrals are the two most important ideas of calculus. The integral is the measure of the region under the curve, while the derivative is the measure of the rate of change of a function. The integral accumulates the discrete values of a function over a number of values, while the derivative describes the function at a given point.
+Calculus
+
+
+Calculus, a branch of mathematics founded by and , study the pace of transition. Calculus Math is commonly used in mathematical simulations to find the best solutions. It aids us in understanding the changes between values that are linked by a purpose. Calculus Math is mostly concerned with certain critical topics such as separation, convergence, limits, functions, and so on.
+Newton
+Leibniz
+Calculus Mathematics is generally divided into two types: and . Both differential and integral calculus consider the effect of a small shift in the independent variable on the equation as it approaches zero. Both discrete and integral calculus serves as a basis for the higher branch of mathematics known as
+Differential Calculus
+Integral Calculus
+Analysis.
+
+Table of Contents
+
+
+
+Differential Calculus
+
+
+Integral Calculus
+Differential Calculus
+
+Differential Calculus deals with the issues of determining the rate of change of a parameter with respect to other variables. Derivatives are used to find the maxima and minima values of a function in order to find the best solution. The analysis of the boundary of a quotient leads to differential calculus. It is concerned with variables such as x and y, functions f(x), and the resulting variations in x and y. Differentials are represented by the symbols dy and dx. Differentiation refers to the method of determining derivatives. A function’s derivative is defined by dy/dx or f’ (x). It denotes that the equation is the derivative of y with respect to x. Let us go through some main topics discussed in simple differential calculus in the following articles:
+
+
+
+
+
+
+
+Introduction to Limits
+
+Limits of Trigonometric Functions
+
+Squeeze Theorem
+
+Introduction to Derivatives
+
+Product Rule – Derivatives
+
+Derivatives of Polynomial Functions
+
+Power Rule in Derivatives
+
+Continuity and Discontinuity
+
+Differentiability of a Function
+
+Derivatives of Implicit Functions
+
+Derivatives of Inverse Trigonometric Functions
+
+Exponential and Logarithmic Functions
+
+Logarithmic Differentiation
+
+Proofs for the derivatives of e? and ln(x) – Advanced differentiation
+
+Derivative of functions in parametric forms
+
+Second-Order Derivatives in Continuity and Differentiability
+
+Mean value theorem
+
+Continuity and Discontinuity in Calculus
+
+Algebra of Continuous Functions
+
+Rate of change of quantities
+
+Increasing and Decreasing Functions
+
+Separable Differential Equations
+Integral Calculus
+
+The analysis of integrals and their properties is known as integral calculus. It is primarily useful for the following two functions: To compute f from f’ (i.e. from its derivative). If a function f is differentiable in the range under consideration, then f’ is specified in that range. To determine the region under a curve. is the inverse of . As separation can be defined as the division of a part into several small parts, integration can be defined as the selection of small parts to form a whole. It is commonly used to calculate area.
+Differentiation
+integration
+A has a specified boundary beyond which the equation must be computed. The lower and upper limits of a function’s independent variable are defined, and its integration is represented using definite integrals. An lacks a fixed boundary, i.e. there is no upper and lower limit. As a result, the integration value is always followed by a constant value. Following are the articles that discuss the integral calculus deeply:
+definite integral
+infinite integral
+
+
+Tangents and Normals
+
+Approximations & Maxima and Minima – Application of Derivatives
+
+Integration by Substitution
+
+Integration by Partial Fractions
+
+Integration by Parts
+
+Integration using Trigonometric Identities
+
+Functions defined by Integrals
+
+Definite integrals
+
+Evaluation of Definite Integrals
+
+Properties of Definite Integrals
+
+Areas under Simple Curves
+
+Area Between Two curves
+
+Basic Concepts of differential equations
+
+General and Particular Solutions of a Differential Equation
+
+Formation of a Differential Equation whose General Solution is given
+
+Homogeneous Differential Equations
+
+Linear Differential Equations
+
+Exact Equations and Integrating Factors
+
+Implicit Differentiation
+
+Implicit differentiation – Advanced Examples
+
+Disguised Derivatives – Advanced differentiation
+
+Differentiation of Inverse Trigonometric Functions
+
+Logarithmic Differentiation
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Applying Transitions to Slides in MS PowerPoint
+
+
+Next
+
+
+jQWidgets jqxBarGauge colorScheme Property
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Continuity and Discontinuity in Calculus - Class 12 CBSE
+10, Nov 20
+
+
+
+Finding Derivative with Fundamental Theorem of Calculus
+22, Jun 21
+
+
+
+Fundamental Theorem of Calculus
+25, Jun 21
+
+
+
+Write the Additive Inverse of 3/13
+20, Jul 21
+
+
+
+
+
+Find the Additive Inverse of: ?7/9
+20, Jul 21
+
+
+
+Solve the Equation x = 4/5(x + 10)
+20, Jul 21
+
+
+
+What are the First 10 Natural Numbers?
+20, Jul 21
+
+
+
+Is Every Whole Number a Natural Number?
+20, Jul 21
+
+
+
+
+
+What are the numbers which cannot come to the unit place of a perfect square?
+20, Jul 21
+
+
+
+Separation by Centrifugation
+19, Jul 21
+
+
+
+Properties of Metals, Non-metals and Metalloids
+19, Jul 21
+
+
+
+Matter is Made of Tiny Particles
+19, Jul 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 10
+
+Class 11
+
+Class 12
+
+Class 8
+
+Class 9
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 10
+
+
+
+
+Mensuration
+
+Magnetic Field due to Current in Straight Wire
+
+Spherical Mirrors
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.9
+
+Magnetic Field due to Current carrying Conductor
+
+
+
+
+
+
+
+
+
+Most visited in Class 11
+
+
+
+
+Focus and Directrix of a Parabola
+
+Difference Between Mean, Median, and Mode with Examples
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.1
+
+Cartesian Product of Sets
+
+Mensuration
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

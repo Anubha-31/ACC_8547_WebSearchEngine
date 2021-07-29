@@ -1,0 +1,1213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RD Sharma Class-10 Archives - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Tag Archives:
+RD Sharma Class-10
+
+
+
+
+
+
+
+
+RD Sharma Class 10 Solutions
+
+RD Sharma Solutions for class 10 provides prime reference material to the students to get a strong grip over the concepts under each chapter of…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 11 Constructions – Exercise 11.2 | Set 2
+
+Question 11. Construct a triangle similar to a given ?XYZ with its sides equal to (3/2)th of the corresponding sides of ?XYZ. Write the steps of…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 11 Constructions – Exercise 11.2 | Set 1
+
+Question 1. Construct a triangle of sides 4 cm, 5 cm, and 6 cm and then a triangle similar to it whose sides are (2/3)…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 4 Triangles – Exercise 4.6 | Set 2
+
+Question 11. The areas of two similar triangles are 121 cm2 and 64 cm2 respectively. If the median of the first triangle is 12.1 cm,…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 4 Triangles – Exercise 4.6 | Set 1
+
+Question 1. Triangles ABC and DEF are similar. (i) If area (?ABC) = 16cm2, area (?DEF) = 25 cm2 and BC = 2.3 cm, find…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+
+
+Class 10 RD Sharma Solutions – Chapter 12 Some Applications of Trigonometry – Exercise 12.1 | Set 3
+
+Question 53. From the top of a building AB, 60 m high, the angles of depression of the top and bottom of a vertical lamp…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 12 Some Applications of Trigonometry – Exercise 12.1 | Set 2
+
+Question 27. A T.V. tower stands vertically on a bank of a river of a river. From a point on the other bank directly opposite…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 12 Some Applications of Trigonometry – Exercise 12.1 | Set 1
+
+Question 1. A tower stands vertically on the ground. From a point on the ground, 20 m away from the foot of the tower, the…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 2 Polynomials – Exercise 2.3
+
+Question 1. Apply division algorithm to find the quotient q(x) and remainder r(x) on dividing f(x) by g(x) in each of the following: (i) f(x) =…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 14 Coordinate Geometry – Exercise 14.3 | Set 3
+
+Question 41. Three consecutive vertices of a parallelogram are (-2, -1), (1, 0) and (4, 3). Find the fourth vertex. Solution: Let the coordinates of…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 3 Pair of Linear Equations in Two Variables – Exercise 3.2 | Set 3
+
+Question 23. Solve the following system of linear equations graphically and shade the region between the two lines and the x-axis. (i) 2x + 3y…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 8 Quadratic Equations – Exercise 8.6 | Set 2
+
+Question 11. If – 5 is a root of the quadratic equation 2x² + px – 15 = 0 and the quadratic equation p(x² +…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 14 Coordinate Geometry – Exercise 14.3 | Set 2
+
+Question 21. Find the ratio in which the point P(-1, y) lying on the line segment joining A(-3, 10) and B(6, -8) divides it. Also, find…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 8 Quadratic Equations – Exercise 8.6 | Set 1
+
+Question 1. Determine the nature of the roots of following quadratic equations : (i) 2x² – 3x + 5 = 0 (ii) 2x² – 6x…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 10 RD Sharma Solutions – Chapter 3 Pair of Linear Equations in Two Variables – Exercise 3.2 | Set 2
+
+Question 14. Solve the following of equation graphically X – 2y + 11 = 0 3x + 6y + 33 = 0 Solution: Given that,…
+
+Read More
+
+
+
+
+
+RD Sharma Class-10
+
+
+Class 10
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Page 1 of 9
+1
+2
+3
+4
+5
+...
+»
+Last »
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in RD Sharma Class-10
+
+
+
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.9
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.2 | Set 3
+
+Class 10 RD Sharma Solutions- Chapter 1 Real Numbers - Exercise 1.6
+
+
+
+
+
+
+
+
+
+Most visited in RD Sharma Class-10
+
+
+
+
+Class 10 RD Sharma Solutions - Chapter 2 Polynomials - Exercise 2.3
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.10
+
+Class 10 RD Sharma Solutions - Chapter 9 Arithmetic Progressions - Exercise 9.6 | Set 1
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.5 | Set 2
+
+Class 10 RD Sharma Solutions - Chapter 13 Probability - Exercise 13.1 | Set 2
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

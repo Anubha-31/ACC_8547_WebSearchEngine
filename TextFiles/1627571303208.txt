@@ -1,0 +1,1309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CBSE Class 8 Maths Notes - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+Factors Affecting Friction
+
+RD Sharma Class 8 Solutions for Maths
+
+Static and Kinetic Friction
+
+Algebra
+
+Representation of Rational Numbers on the Number Line | Class 8 Maths
+
+Types of Quadrilaterals - Rectangle, Square, Rhombus, Parallelogram | Class 8 Maths
+
+Introduction to Mensuration
+
+NCERT Solutions for Class 8 Maths
+
+Limiting Friction
+
+Calculus
+
+Trigonometry
+
+Mensuration - Volume of Cube, Cuboid, and Cylinder | Class 8 Maths
+
+Statistics
+
+Probability in Maths
+
+Algebraic Expressions and Identities | Class 8 Maths
+
+Types of Friction
+
+Fluid Friction
+
+Rational Numbers Between Two Rational Numbers | Class 8 Maths
+
+Geometry
+
+What causes an Earthquake?
+
+Area of Trapezium - Mensuration | Class 8 Maths
+
+Linear Equations in One Variable
+
+Multiple Reflections of Light
+
+Class 8 RD Sharma Solutions - Chapter 14 Compound Interest - Exercise 14.3 | Set 1
+
+Dispersion of Light
+
+Types of Polynomials
+
+Increasing and Reducing Friction
+
+Artificial Satellites
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+CBSE Class 8 Maths Notes
+
+
+
+
+Last Updated :
+22 Apr, 2021
+
+Notes for CBSE Class 8 Mathematics Concepts, helps to understand all the concepts of class 8 maths in a chapter-wise manner as it covers all the topics and subtopics provided in the syllabus of class 8 maths. The following chapter-wise notes provided by GeeksforGeeks are equipped with various shortcut techniques and step-by-step methods in order to understand and solve the problems in a better way.
+
+
+
+
+
+Chapter 1: Rational Numbers
+Any number that can be described in p/q form where q is not equal to zero is called a rational number. A rational number is a kind of real number. Or in other words, Any fraction with non-zero denominators is a rational number.
+
+
+Rational Numbers
+
+Representation of rational numbers on the number line
+
+Rational Numbers Between Two Rational Numbers
+
+Reducing Equations to Simpler Form
+
+
+
+Chapter 2: Linear Equations in One Variable
+The linear equation in one variable is an expression that is denoted as ax+b = 0, where a and b are any two integers, and x is a variable and consists of only one solution.
+
+
+
+
+
+
+
+Linear Equations in One Variable
+
+Solve Linear Equations with Variable on both Sides
+
+Solving Equations which have Linear Expressions on one Side and Numbers on the other Side
+
+Reducing Equations to Simpler Form
+
+
+
+Chapter 3: Understanding Quadrilaterals
+Geometrically, a quadrilateral is defined as a closed, 2-D shape that has four linear sides. The different types of quadrilaterals according to their number of edges and vertices are square, rectangle, parallelogram, trapezium, kite, rhombus.
+
+
+Polygons and its types
+
+Measures of the Exterior Angles of a Polygon
+
+Rectangle, Square, Rhombus, Parallelogram
+
+Some Special Parallelograms
+
+
+
+Chapter 4: Practical Geometry
+The chapter practical geometry simply means is to construct geometrical figures like squares, triangles, quadrilateral, etc. using a scale, and compass when different parameters of it are known.
+
+
+Construction of a Quadrilateral
+
+
+
+Chapter 5: Data Handling
+Data handling refers to the process of collecting, organizing, and presenting any raw information in a way that is helpful to others like in graphs or charts, etc.
+
+
+Data Handling
+
+Organizing Data
+
+Grouping Data
+
+Pie Chart
+
+Chance and Probability
+
+
+
+Chapter 6: Squares and Square Roots
+of comethe
+Both the concepts
+squares and square roots are opposite to each other. As the squares are used for the numbers
+after multiplying the number by itself. However,
+square root of a number is the value obtained when multiplied by itself to give the original value. For instance, the square of 5 is 25 and the square root of 25 is 5.
+
+
+
+
+
+
+Squares and Square Roots
+
+
+
+Chapter 7: Cubes and Cube roots
+Again bof cubescomethe cube
+oth the concepts
+and cube roots are opposite to each other. As the cubes are used for the numbers
+after multiplying the number by itself thrice. However,
+root of a number is the value obtained when multiplied by itself thrice to give the original value. For instance, the cube of 5 is 125 and the cube root of 125 is 5.
+
+
+Cubes and Cube Roots
+
+
+
+Chapter 8: Comparing Quantities
+The chapter Comparing quantities is the most basic everyday-life application of Mathematics that deals with quantities. This includes the concepts like percentage, ratio, market price, selling price, cost price, discount and discount price, profit or loss, interest, etc.
+
+
+Ratios and Percentages
+
+Percent Change & Discounts
+
+Prices Related to Buying and Selling (Profit and Loss)
+
+Compound Interest
+
+Compound Interest Formula
+
+Sales Tax, Value Added Tax, and Goods and Services Tax
+
+
+
+Chapter 9: Algebraic Expressions and Identities
+The chapter Algebraic Expressions and Identities provides information about the basics of monomials, binomials, and polynomials in an algebraic expression.
+
+
+Algebraic expressions
+
+Like and Unlike Algebraic Terms
+
+Mathematical Operations on Algebraic Expressions
+
+Types of Polynomials
+
+Multiplying Polynomials
+
+Standard Algebraic Identities
+
+
+
+Chapter 10: Visualising Solid Shapes
+Visualizing Solid Shapes is a concept that provides the understanding of different solids shapes when visualized in different dimensions and various terms used to describe their properties.
+
+
+Visualizing Solid Shapes
+
+Mapping Space Around Us
+
+
+
+Chapter 11: Mensuration
+Mensuration is the chapter that deals with the measurement or the calculations related to determining the area, perimeter, volume of various geometrical figures like square, cube, rectangle, cuboid, cylinder, and triangle, etc.
+
+
+
+
+
+
+Introduction to Mensuration
+
+Area of Trapezium
+
+Area of Polygons
+
+Area of General Quadrilateral
+
+Surface Area of Cube, Cuboid, and Cylinder
+
+Volume of Cube, Cuboid, and Cylinder
+
+Volume and Capacity
+
+
+
+Chapter 12: Exponents and Powers
+The chapter Exponents and powers cover the primary concepts such as laws of exponents and their applications. The chapter deals with the problems using the applications of power to write large numbers in exponents and vice-versa.
+
+
+Negative Exponents
+
+Laws of Exponents & Use of Exponents to Express Small Numbers in Standard Form
+
+
+
+Chapter 13: Direct and Inverse Proportions
+This chapter gives a detailed explanation of inverse and direct proportions through problems discussed in two exercises. In which Exercise 13.1 contains a problem to determine the direct proportions between any quantity and Exercise 13.2 deals with the questions from the indirect inverse.
+
+
+Direct and Inverse Proportions
+
+
+
+Chapter 14: Factorization
+This chapter comprises the problems on the factors of natural numbers and algebraic expressions, factorization by regrouping terms, factorization using identities, division of algebraic expressions.
+
+
+Introduction to factorization
+
+Division of Algebraic Expressions
+
+
+
+Chapter 15: Introduction to Graphs
+This chapter is all about the basic understanding of the graphs, kinds of graphs, etc. Lately, this chapter provided an emphasis on the construction of different types of graphs and their applications.
+
+
+Introduction to Graphs
+
+Linear Graphs
+
+
+
+Chapter 16: Playing with Numbers
+All the above-mentioned chapters basically helped to learn about various kinds of numbers and their different properties likewise in this chapter the concept of numbers is discussed in a more general way.
+
+
+Game of Numbers
+
+Letters for Digits
+
+Divisibility Rules
+
+Playing with Numbers
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+NCERT Solutions for Class 12 Maths
+
+
+Next
+
+
+CBSE Class 9 Maths Notes
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+CBSE Class 9 Maths Notes
+19, Apr 21
+
+
+
+CBSE Class 10 Maths Notes
+20, Apr 21
+
+
+
+CBSE Class 11 Maths Notes
+03, Jun 21
+
+
+
+Polynomials in One Variable - Polynomials | Class 9 Maths
+12, Jan 21
+
+
+
+
+
+Point-slope Form - Straight Lines | Class 11 Maths
+03, Nov 20
+
+
+
+Mathematical Operations on Algebraic Expressions - Algebraic Expressions and Identities | Class 8 Maths
+16, Nov 20
+
+
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+24, Oct 20
+
+
+
+Standard Algebraic Identities | Class 9 Maths
+10, Feb 21
+
+
+
+
+
+Mid Point Theorem - Quadrilaterals | Class 9 Maths
+25, Oct 20
+
+
+
+Graphing slope-intercept equations - Straight Lines | Class 11 Maths
+04, Nov 20
+
+
+
+Mensuration - Volume of Cube, Cuboid, and Cylinder | Class 8 Maths
+23, Oct 20
+
+
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+06, Oct 20
+
+
+
+
+
+Arithmetic Progression – Sum of First n Terms | Class 10 Maths
+02, Oct 20
+
+
+
+Mensuration - Area of General Quadrilateral | Class 8 Maths
+23, Oct 20
+
+
+
+Heights and Distances - Trigonometry | Class 10 Maths
+29, Oct 20
+
+
+
+Linear Equations in One Variable - Solving Equations which have Linear Expressions on one Side and Numbers on the other Side | Class 8 Maths
+28, Oct 20
+
+
+
+
+
+Types of Quadrilaterals - Rectangle, Square, Rhombus, Parallelogram | Class 8 Maths
+25, Oct 20
+
+
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Rational Numbers Between Two Rational Numbers | Class 8 Maths
+10, Nov 20
+
+
+
+
+
+Area of a Triangle using Determinants | Class 12 Maths
+26, Nov 20
+
+
+
+General and Middle Terms - Binomial Theorem - Class 11 Maths
+25, Oct 20
+
+
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+24, Oct 20
+
+
+
+Algebraic Expressions and Identities | Class 8 Maths
+25, Oct 20
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 8
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 8
+
+
+
+
+Class 8 NCERT Solutions - Chapter 16 Playing with Numbers - Exercise 16.1
+
+Mensuration
+
+Class 8 RD Sharma Solutions - Chapter 3 Squares and Square Roots - Exercise 3.5
+
+Class 8 RD Sharma Solutions - Chapter 3 Squares and Square Roots - Exercise 3.1 | Set 2
+
+Class 8 RD Sharma Solutions- Chapter 4 Cubes and Cube Roots - Exercise 4.3
+
+
+
+
+
+
+
+
+
+Most visited in School Learning
+
+
+
+
+Equation of Motion by Graphical Method
+
+Mean, Median and Mode of Grouped Data
+
+Equation of a Line in 3D
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+First Generation Of Computer
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

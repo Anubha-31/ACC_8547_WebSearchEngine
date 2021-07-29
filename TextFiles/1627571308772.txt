@@ -1,0 +1,871 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+School Ambassador - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+Ready to be your school’s Geeky ambassador?
+
+Leaders don't only lead people towards goals but also lead them towards greatness. If this sounds like something you can do, join our program today!
+
+Explore Now
+
+
+
+
+
+
+
+
+
+
+
+What is GeeksforGeeks
+School Ambassador Program ?
+The GeeksforGeeks school ambassador program is a program consisting of Geeks all over the country who are ready to lead their younger generation towards greatness. You will be part of a community of Geeks and will start a community of like minded people within your schools. A good amount of guidance at an early stage goes a long way. So if you think you're somebody who can lead and extract greatness out of individuals, this opportunity is for you. So what are you waiting for? Be the Wonder Woman or Superman of somebody's journey and apply for this program today!
+
+Apply Now
+
+
+Wondering why you should apply?
+
+
+
+
+
+
+Skills
+Numerous learning opportunities to grow your skills
+
+
+
+
+
+Community
+Get a chance to be a part of a community of like minded Geeks like you!
+
+
+
+
+
+Innovators
+Learn and receive guidance from experts!
+
+
+
+
+
+Rewards
+Win exciting prizes and branded goodies from GeeksforGeeks.
+
+
+
+
+
+Champions
+Be the Wonder Woman or Superman of your group, a champion you’ve always wanted to be.
+
+
+
+
+
+Certifications
+Receive certificates for your great leadership skills!
+
+
+
+
+
+
+
+
+We like to have fun also!
+Geeks don't just study all the time but know how to have fun as well. Come check out all our interactive webinars and events!
+
+
+Visit Events
+
+
+
+
+
+
+
+
+We promise you, no boring stuff!
+Here's what you'll do
+
+
+
+Conduct exciting and engaging activities for you Geek community.
+
+
+Work along with different tech schools all across the nation
+
+
+Work with tech groups of different schools.
+
+
+Expand the community by spreading awareness.
+
+
+Curating exciting content for the community page.
+
+
+Solving real life problems through daily tasks
+
+Apply Now
+
+
+Hear what our young Geeks have to say!
+
+
+
+GeeksforGeeks School Ambassador
+
+
+
+Ayush Singh
+Machine Learning Engineer & Data Scientist
+St.Karen's Secondary School, Patna, Bihar, India
+
+
+
+
+
+
+
+
+Karan Diundi
+@karandiundi
+"Learned how to code!"
+I had a great learning experience in coding. The mentor was very prompt in clearing our doubts. I like the cool projects that mentor came up with. I would love to explore coding in coming future. This ourse will further help me in providing a certification in Python.
+
+
+
+
+
+Shreya Kumari
+@ak5186093
+"Learning PYTHON was fun!"
+I thoroughly enjoyed the classes and have gained much knowledge of the programming language. Classes were well planned and easy to follow. It was fun completing the assignments, which further gave a deeper understanding of the concepts.
+
+
+
+Know what it takes to be a part of our School Ambassador Program!
+
+
+
+Love for
+Challenges
+
+
+Student of grade
+4th to 12th
+
+
+Great oratory
+Skills
+
+
+One last thing, Geek!
+If you're waiting for that one person who can change your life or the life of others, take a look at the mirror, Geek and be a part of a program that will shape the future of younger generations!
+
+Apply Now
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

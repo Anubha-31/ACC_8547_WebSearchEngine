@@ -1,0 +1,1305 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+School Learning - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+
+School Learning
+
+NCERT Solutions for Class 12 Maths
+
+School Learning
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Mean, Median and Mode of Grouped Data
+
+Euclid's Division Algorithm - Real Numbers | Class 10 Maths
+
+CBSE Class 10 Maths Notes
+
+Step deviation Method for Finding the Mean with Examples
+
+Theorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+
+Algebra
+
+Sign Convention for Spherical Mirrors
+
+Concave and Convex Mirrors - Ray Diagrams, Image Formation, Applications
+
+NCERT Solutions for Class 10 Maths
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+
+Calculus
+
+Trigonometry
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Tangent to a circle - Circles | Class 10 Maths
+
+Roots of Quadratic Equations
+
+Statistics
+
+Introduction to Arithmetic Progressions | Class 10 Maths
+
+Probability in Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Refraction of Light through Glass Slab
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+School Learning
+
+
+
+
+Difficulty Level :
+
+Easy
+
+Last Updated :
+19 May, 2021
+
+The core vision behind the School Learning initiative of GeeksforGeeks is to provide the school students with quality learning resources and to make the learning process better than ever for them. Here, we will introduce various technological advancements such as animated videos, live-streaming, etc. for a more engaging and worthwhile learning experience for students.
+You will get the video lectures, articles, practice tracks on various subjects We have divided School Learning into two major parts:
+without any cost!
+
+
+
+
+
+GeeksforGeeks School – Youtube Videos
+
+
+
+Class 8 to 12 Concepts, Excercise & Solutions
+Learning HTML is very much necessary to become a web developer. Here, we’re providing you with a 5-week workshop for HTML. There will be a total of 10 sessions over a period of 5 weeks where you’ll get to learn HTML from scratch.
+
+HTML Workshop Live
+:
+
+
+
+App Lab (Code.org) is a programming environment that allows you to create simple and creative apps using either block-based programming or text. Here, we’re providing you with a step-by-step guide for Mobile Application Development using Code.org App Lab online platform from designing to development process including some enriching projects.
+
+App Lab – Learn to Make Apps:
+
+
+
+Machine Learning (ML) is a part of Artificial Intelligence and is concerned with the ability of machines to learn for themselves without being explicitly programmed.
+
+Introduction to Machine Learning:
+
+
+
+
+Learning a new programming language has always been a daunting task. But to simplify things – we’re providing you with a 5-week workshop that will surely help you to get started with the renowned programming language.
+
+Live Python Class
+:
+
+
+
+
+Machine Learning which is concerned with the ability of machines to learn for themselves without being explicitly programmed is surely here to stay and rule the tech world for many upcoming years. Hence, it is worth it to learn this technology – here you’ll get to learn Machine Learning using SCRATCH in a most convenient way.
+
+Machine Learning using SCRATCH:
+
+
+
+Python is one of the most popular and widely used programming languages across the world. This high-level general-purpose programming language is being used in Web Development, Data Science, Machine Learning, and various other cutting-edge technologies.
+
+Python Programming
+:
+
+
+
+Solving puzzles is undoubtedly the best exercise for your brain that too along with having fun simultaneously. Here, we’re providing you with several most exciting puzzles that you need to solve – so let’s check these out, and yes, do not try to cheat by skipping the video to see the answer.
+
+Puzzles
+:
+
+
+
+Web Lab (Code.org) is actually a programming environment that allows you to create simple web pages using HTML and CSS. Here, we’re providing you with WebLab tutorials for various exciting projects like Contact, Chat Messages, Calculator, Music Website, etc. in a most interesting and comprehensive way.
+
+Web Lab Projects – Live Classes:
+
+
+
+
+C is a highly recognized programming language across the world, and it is the first programming language also of a huge number of individuals as it allows you to understand a lot of underlying processes & mechanisms of the Programming domain.
+
+Introduction to C Programming:
+
+
+
+Block-based Programming is concerned with programming format that involves dragging and dropping blocks of instructions instead of text-based programming. It is very much recommended for the students to introduce them to coding very conveniently and effectively. Here, you’ll get to learn Block-based Programming using Code.org in a very interesting way.
+
+Block-Based Programming:
+
+
+
+Game Lab is a programming environment that allows you to create simple animations and games with objects and characters that interact with each other. Here, in this tutorial, you’ll get to learn to build Mobile Games from scratch using the Block-based programming interface with Game Lab (Code.org).
+
+Create Real-World Games Using Game Lab:
+
+
+
+As they said that the best way to learn anything is learning by doing. Hence, all the school students who want to learn programming consider building several projects for better learning. Here, in this tutorial, you’ll get to learn to create real-world apps with Block-based Programming using App Lab.
+
+Create Real-World Apps (Using Block-Based Programming):
+
+
+
+Kids always consider Mathematics as a really tough subject to learn – however, if it is considered as a life skill rather than just a mere subject and taught accordingly to them then surely things will become easier. Here, we’re providing Mathematics Tutorials for Grade 6 to 8 Students to explain various fundamentals concepts in a very interesting and engaging manner by relating the concepts with real-life examples.
+
+Mathematics For Kids (Grade 6 to 8):
+
+
+
+Robotics is a very fascinating field that involves designing, developing, and usage of robots to do particular tasks. Here, you will get to learn about Robotics and work on various projects based on Robotics to understand the basics & fundamentals of a robot, and it’s working.
+
+DIY Arduino Project (Live Classes):
+
+
+
+Scratch is an open-source block-based programming language that allows students to build games or solve puzzles for the sake of developing computational thinking skills. Here, you’ll get to learn various key computational thinking concepts and practices with the help of an interesting Duck Jump Game.
+
+Computational Thinking with Scratch
+:
+
+
+
+We’re providing you with quality content on various subjects for . It will be a one-stop destination for all your learning concerns, for instance – if you want to learn any specific subject of a particular class, you will get it here or if you want to practice the exercises questions, it will also be provided here. Moreover, the entire content for all the subjects is prepared by the respective subject experts and in an optimized & creative manner. You can access the content for particular classes from below:
+Classes 8 to 12
+Class 8 – Mathematics
+
+
+
+Concepts
+
+
+NCERT Solutions
+
+
+RD Sharma Solutions
+Class 9 – Mathematics
+
+
+
+Concepts
+
+
+NCERT Solutions
+
+
+RD Sharma Solutions
+Class 10 – Mathematics
+
+
+
+Concepts
+
+
+NCERT Solutions
+
+
+RD Sharma Solutions
+Class 11 – Mathematics
+
+
+
+Concepts
+
+
+NCERT Solutions
+
+
+RD Sharma Solutions
+Class 12 – Mathematics
+
+
+
+Concepts
+
+
+NCERT Solutions
+
+
+RD Sharma Solutions
+
+
+
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+NCERT Solutions for Class 12 Maths
+
+
+Next
+
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Learning Model Building in Scikit-learn : A Python Machine Learning Library
+17, Feb 17
+
+
+
+Artificial intelligence vs Machine Learning vs Deep Learning
+23, Jan 19
+
+
+
+How to Start Learning Machine Learning?
+11, Sep 19
+
+
+
+Difference Between Machine Learning and Deep Learning
+26, May 20
+
+
+
+
+
+Need of Data Structures and Algorithms for Deep Learning and Machine Learning
+14, Oct 20
+
+
+
+Machine Learning - Applications
+11, Jan 16
+
+
+
+Demystifying Machine Learning
+02, May 16
+
+
+
+Getting started with Machine Learning
+17, Feb 17
+
+
+
+
+
+Introduction To Machine Learning using Python
+04, May 17
+
+
+
+An introduction to Machine Learning
+24, Aug 17
+
+
+
+Supervised and Unsupervised learning
+01, Oct 17
+
+
+
+Underfitting and Overfitting in Machine Learning
+23, Nov 17
+
+
+
+
+
+Regression and Classification | Supervised Machine Learning
+01, Dec 17
+
+
+
+Difference between Machine learning and Artificial Intelligence
+19, Feb 18
+
+
+
+Top 10 Apps Using Machine Learning in 2020
+10, Apr 20
+
+
+
+Machine Learning and Artificial Intelligence
+23, Apr 18
+
+
+
+
+
+Why learning C Programming is a must?
+08, Feb 19
+
+
+
+Beginner Tips for Learning Python
+04, Apr 19
+
+
+
+How Machine Learning Will Change the World?
+12, Feb 20
+
+
+
+Top 10 Algorithms every Machine Learning Engineer should know
+22, May 19
+
+
+
+
+
+Targeted Advertising using Machine Learning
+05, Sep 19
+
+
+
+Benefits of Using Modern Learning Apps
+12, May 19
+
+
+
+Combining IoT and Machine Learning makes our future smarter
+23, May 19
+
+
+
+Top Career Paths in Machine Learning
+13, Jun 19
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+Current difficulty :
+Easy
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Improved By :
+
+
+madhur912
+
+Article Tags :
+
+
+Class 10
+
+Class 11
+
+Class 12
+
+Class 8
+
+Class 9
+
+GBlog
+
+NCERT
+
+RD Sharma Solutions
+
+School Learning
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 10
+
+
+
+
+Geometry
+
+Mensuration
+
+Cumulative frequency curve
+
+Magnetic Field due to Current in Straight Wire
+
+Spherical Mirrors
+
+
+
+
+
+
+
+
+
+Most visited in Class 11
+
+
+
+
+Focus and Directrix of a Parabola
+
+Difference Between Mean, Median, and Mode with Examples
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.1
+
+Geometry
+
+NCERT Solutions for Class 11 Maths
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

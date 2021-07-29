@@ -1,0 +1,1229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Golang - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Overview
+
+
+
+Golang
+
+Go Programming Language (Introduction)
+
+How to Install Go on Windows?
+
+How to Install Golang on MacOS?
+
+Hello World in Golang
+
+Fundamentals
+
+
+
+Identifiers in Go Language
+
+Go Keywords
+
+Data Types in Go
+
+Go Variables
+
+Constants- Go Language
+
+Go Operators
+
+Control Statements
+
+
+
+Go Decision Making (if, if-else, Nested-if, if-else-if)
+
+Loops in Go Language
+
+Switch Statement in Go
+
+Functions & Methods
+
+
+
+Functions in Go Language
+
+Variadic Functions in Go
+
+Anonymous function in Go Language
+
+main and init function in Golang
+
+What is Blank Identifier(underscore) in Golang?
+
+Defer Keyword in Golang
+
+Methods in Golang
+
+Structure
+
+
+
+Structures in Golang
+
+Nested Structure in Golang
+
+Anonymous Structure and Field in Golang
+
+Arrays
+
+
+
+Arrays in Go
+
+How to Copy an Array into Another Array in Golang?
+
+How to pass an Array to a Function in Golang?
+
+Slices
+
+
+
+Slices in Golang
+
+Slice Composite Literal in Go
+
+How to sort a slice of ints in Golang?
+
+How to trim a slice of bytes in Golang?
+
+How to split a slice of bytes in Golang?
+
+Strings
+
+
+
+Strings in Golang
+
+How to Trim a String in Golang?
+
+How to Split a String in Golang?
+
+Different ways to compare Strings in Golang
+
+Pointers
+
+
+
+Pointers in Golang
+
+Pointers to a Function in Go
+
+Pointer to a Struct in Golang
+
+Go Pointer to Pointer (Double Pointer)
+
+Comparing Pointers in Golang
+
+Concurrency
+
+
+
+Goroutines – Concurrency in Golang
+
+Select Statement in Go Language
+
+Multiple Goroutines
+
+Channel in Golang
+
+Unidirectional Channel in Golang
+
+
+
+
+
+
+
+Golang
+
+
+
+Last Updated :
+10 Jan, 2020
+
+
+
+Golang is a procedural and statically typed programming language having the syntax similar to programming language. Sometimes it is termed as . It provides a rich standard library, garbage collection, and dynamic-typing capability. It was developed in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson at Google but launched in 2009 as an open-source programming language and mainly used in Google’s production systems. Golang is one of the most trending programming languages among developers.
+
+C
+Go Programming Language
+
+
+Recent Articles on Golang!
+, , , , , , , , ,
+Overview
+Fundamentals
+Control Flow
+Functions and Methods
+Structure
+Arrays & Slices
+String
+Pointers
+Interfaces
+Concurrency
+
+
+
+Overview
+
+
+
+
+
+
+
+
+
+
+Introduction to Golang
+
+Installing Golang on Windows
+
+Installing Golang on MacOS
+
+Hello World! in Golang
+
+Golang vs C++
+
+Golang vs Java
+
+Golang vs Python
+
+
+Fundamentals
+
+
+
+
+
+
+
+
+Identifiers in Golang
+
+Keywords in Golang
+
+Data Types
+
+Variables
+
+Constants
+
+Rune in Golang
+
+Operators in Golang
+
+Scope of Variables
+
+Type Casting
+
+var Keyword in Golang
+
+Short Declaration Operator(:=)
+
+var keyword vs short declaration operator
+
+
+Control Statements
+
+
+
+
+Decision Making Statements
+
+Loops in Golang
+
+Loop Control Statements
+
+Switch Statement in Go
+
+Deadlock and Default Case in Select Statement
+
+
+Functions & Methods
+
+
+
+
+What are the Functions?
+
+Variadic Function
+
+Anonymous Function
+
+main and init function
+
+Function Arguments
+
+Function Returning Multiple Values
+
+Named Return Values
+
+Blank Identifier
+
+Defer
+
+Methods
+
+Methods With Same Name
+
+
+Structure
+
+
+
+
+Structures
+
+Structure Equality
+
+Nested Structure
+
+Anonymous Structure and Fields
+
+Promoted Fields in Structure
+
+Promoted Methods in Structure
+
+Function as a Field in Structure
+
+
+
+Arrays & Slices
+
+
+
+
+Arrays in Golang
+
+Copying an Array into Another Array in Golang
+
+Passing an Array to a Function in Golang
+
+Slices in Golang
+
+Slice Composite Literal
+
+Copying one Slice into another Slice
+
+Passing a Slice to Function
+
+Comparing two Slices in Golang
+
+Checking the Equality of Slices in Golang
+
+Sorting a Slice in Golang
+
+Trimming a Slice in Golang
+
+Splitting a Slice in Golang
+
+
+String
+
+
+
+
+Strings in Golang
+
+Different ways to compare Strings
+
+Different ways to concatenate two strings
+
+Trimming a String in Golang
+
+Splitting a String in Golang
+
+Check if the given characters are present in String
+
+Repeating a String for Specific Number of Times
+
+Finding the index value of specified string
+
+Counting the Number of Repeated Characters in String
+
+
+Pointers
+
+
+
+
+Pointers
+
+Pointer to Pointer (Double Pointer)
+
+Pointers to a Function
+
+Returning Pointer from a Function
+
+Pointer to an Array as Function Argument
+
+Pointer to Struct
+
+Comparing Pointers
+
+Finding the Capacity of the Pointer
+
+Finding the Length of the Pointer
+
+
+Interfaces
+
+
+
+
+Interfaces
+
+Multiple Interfaces
+
+Embedding Interfaces
+
+Polymorphism Using Interfaces
+
+
+Concurrency
+
+
+
+
+
+
+
+
+Goroutines – Concurrency
+
+Select Statement
+
+Multiple Goroutines
+
+Goroutine vs Thread
+
+Channel in Golang
+
+Unidirectional Channel in Golang
+
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+ProGeek Cup 2021 – A Project Competition By GeeksforGeeks
+
+Organizing Tournament Problem
+
+100 Days of Code - A Complete Guide For Beginners and Experienced
+
+How to make a table in Python?
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+Must Do Coding Questions for Product Based Companies
+
+How to read multiple text files from folder in Python?
+
+How to Move a Column to First Position in Pandas DataFrame?
+
+I2C Communication Protocol
+
+How to use an ES6 import in Node.js?
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

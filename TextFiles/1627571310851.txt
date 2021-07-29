@@ -1,0 +1,1036 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geek on the Top Archives - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Category Archives:
+Geek on the Top
+
+
+
+
+
+
+
+
+Nitish Kumar – Geek on the top | “An opportunity may come from anywhere, so always be prepared”
+
+Easy
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Jeel Vaishnav – Geek on the Top | “Our greatest glory is not in never failing, but in rising every time we fail”.
+
+Hard
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Nikhil Kumar – Geek on the top | “Never follow the crowd, be the face of it”
+
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+Misc
+
+
+
+Akshay Miterani – Geek on the top | “You miss 100% of the shots you don’t take. So shoot more!”
+
+Hard
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are an inspiration for other…
+
+Read More
+
+
+
+
+
+Marketing
+
+
+Geek on the Top
+
+
+
+Abhishek Verma – Geek on the top | “Think Big to Achieve Big”
+
+Medium
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+
+
+Siddhant Gupta – Geek on the top | “Opportunities don’t happen. You create them.”
+
+Hard
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are inspiration for other geeks.…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Anmol Mishra – Geek on the top | “There is no excuse for success”
+
+Expert
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are an inspiration for other…
+
+Read More
+
+
+
+
+
+GSoC
+
+
+Geek on the Top
+
+
+
+Gaurav Sen – Geek on the top | Patience is the key factor for a good learner
+
+Expert
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are an inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Rachit Jain – Geek on the top | “Stop starting, start finishing: Don’t just give up on things and then start doing something else”
+
+Expert
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Sahil Garg – Geek on the top | “First Solve the Problem, then Write the code”
+
+Hard
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Pratul Kumar – Geek on the top | Learning is not a race, so it should not be treated like same
+
+Expert
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Shashank Pathak – Geek on the top | Don’t let your mind get diverted to the consequences of not solving a problem
+
+Hard
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are the inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Rachit Belwariar – Geek on the top | The best part at writing GeeksforGeeks were the questions asked by other users on my articles
+
+Hard
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are an inspiration for other…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Aditya Gupta – Geek on the Top | Participating alone increases your level, no matter you win or not
+
+Hard
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are inspiration for other geeks.…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Vicky Tiwari – Geek on the top | Don’t forget to read editorials and upsolve problems after each contest
+
+Expert
+Geek on the top is all about success stories of Geeks who are working hard to chase their goals and are inspiration for other geeks.…
+
+Read More
+
+
+
+
+
+Geek on the Top
+
+
+
+Page 1 of 2
+1
+2
+»
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Geek on the Top
+
+
+
+
+Gaurav Sen - Geek on the top | Patience is the key factor for a good learner
+
+Nitish Kumar - Geek on the top | "An opportunity may come from anywhere, so always be prepared"
+
+Rachit Belwariar - Geek on the top | The best part at writing GeeksforGeeks were the questions asked by other users on my articles
+
+Sumeet Varma - Geek on the Top | Actual fun begins when you solely concentrate on finding algo to solve a problem
+
+Jeel Vaishnav - Geek on the Top | “Our greatest glory is not in never failing, but in rising every time we fail”.
+
+
+
+
+
+
+
+
+
+Most Visited in Geek on the Top
+
+
+
+
+Aashish Barnwal - Geek on the top | Make a habit of writing clean, readable, flexible and robust code
+
+Rachit Jain - Geek on the top | "Stop starting, start finishing: Don't just give up on things and then start doing something else"
+
+Harshil Shah - Geek on the Top | Solving lots of easy problems are not as beneficial as practicing some hard problems
+
+Nikhil Kumar - Geek on the top | "Never follow the crowd, be the face of it"
+
+Siddhant Gupta - Geek on the top | "Opportunities don't happen. You create them."
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

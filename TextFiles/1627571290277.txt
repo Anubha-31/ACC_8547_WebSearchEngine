@@ -1,0 +1,1047 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JavaScript Tutorial - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Web Development
+
+HTML Tutorials
+
+CSS Tutorials
+
+
+JavaScript Tutorial
+
+Bootstrap Tutorials
+
+jQuery Tutorials
+
+AngularJS Tutorials
+
+ReactJS Tutorials
+
+PHP Tutorials
+
+NodeJS Tutorials
+
+SQL Tutorial
+
+
+
+
+
+
+
+JavaScript Tutorial
+
+
+
+Last Updated :
+14 Jul, 2021
+
+is the world most popular lightweight, interpreted compiled programming language. It is also known as scripting language for web pages. It is well-known for the development of web pages, many non-browser environments also use it. JavaScript can be used for developments as well as developments.
+
+
+JavaScript
+
+Client-side
+
+Server-side
+
+
+JavaScript can be added to your HTML file in :
+two ways
+
+We can add JavaScript directly to our HTML file by writing the code inside the <script> tag. The <script> tag can either be placed inside the <head> or the <body> tag according to the requirement.
+Internal JS:
+We can write JavaScript code in other file having an extension .js and then link this file inside the <head> tag of the HTML file in which we want to add this code.
+External JS:
+
+Syntax:
+
+<script>
+    // JavaScript Code
+</script>
+
+
+
+
+
+
+It is the basic example of JavaScript code embedded in HTML code.
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        Basic Example to Describe JavaScript
+    </title>
+</head>
+
+<body>
+
+    <!-- JavaScript code can be embedded inside
+        head section or boy section -->
+    <script>
+        console.log("Welcome to GeeksforGeeks");
+    </script>
+</body>
+
+</html>
+The output will display on console.
+Output:
+Welcome to GeeksforGeeks
+JavaScript is a widely-used programming language. Given below are some domains/products that can be built using JavaScript:
+What can we build using JavaScript ?
+
+
+JavaScript helps us to add behavior of our website. It helps users to interact with the website. For eg. clicking on buttons, saving details, uploading details on the website, etc.
+Websites:
+We can make robust server applications using JavaScript. To be precise we use JavaScript frameworks like Node.js and Express.js to build these servers.
+Web Servers:
+In Game Development industry, JavaScript is used widely. With the addition of HTML5 Canvas, it’s now possible to make 2D and 3D games in JavaScript very efficiently.
+Game Development:
+JavaScript in addition with HTML Canvas is used to make three-dimensional graphics.
+3D Drawings:
+Mobile applications are the most popular modes of communicating these days. JavaScript also used to design mobile applications. There are many JavaScript frameworks using which we can make android, IOS, and hybrid apps.
+Mobile Apps:
+The popular smartwatch maker Pebble has created Pebble.js, a small JavaScript framework that allows a developer to create an application for the Pebble line of watches in JavaScript.
+Smartwatch Apps:
+
+Why to learn JavaScript ?
+JavaScript is the most popular and hence the most loved language around the globe. Apart from this, there are abundant reasons to learn it. Below are a listing of few important points:
+
+Since JavaScript is an interpreted language, therefore it does not need any compiler for compilations.
+No need of compilers:
+Earlier JavaScript was used to build client-side applications only, but with the evolution of its frameworks namely Node.js and Express.js, it is now widely used for building server-side applications too.
+Used both Client and Server-side:
+As we saw, JavaScript is widely used in both client and server-side applications, therefore it helps us to build an end-to-end solution to a given problem.
+Helps to build a complete solution:
+JavaScript is so loved because it can be used anywhere. It can be used to develop websites, games or mobile apps, etc.
+Used everywhere:
+JavaScript has a huge community of users and mentors who love this language and take it’s legacy forward.
+Huge community support:
+
+Learn more about JavaScript :
+
+
+Introduction to JavaScript
+
+Where to put JavaScript code in an HTML Document ?
+
+Introduction to JavaScript Course
+
+Introduction to Object Oriented Programming in JavaScript
+
+Top 5 JavaScript Projects For Beginners
+
+How to Become a JavaScript Developer?
+
+7 JavaScript Concepts That Every Web Developer Should Know
+
+JavaScript Backend basics
+
+Advanced JavaScript Backend Basics
+
+Functional Programming in JavaScript
+
+Top 5 Reasons to Learn JavaScript
+
+JavaScript Complete References:
+
+
+JavaScript Array Complete Reference
+
+JavaScript ArrayBuffer Complete Reference
+
+JavaScript Atomics Complete Reference
+
+JavaScript BigInt Complete Reference
+
+JavaScript Boolean and dataView Complete Reference
+
+JavaScript Date Object Complete Reference
+
+JavaScript Error Object Complete Reference
+
+JavaScript Function Complete Reference
+
+JavaScript Generator Complete Reference
+
+JavaScript Intl Complete Reference
+
+JavaScript JSON Complete Reference
+
+JavaScript Map Complete Reference
+
+JavaScript Math Object Complete Reference
+
+JavaScript Number Complete Reference
+
+JavaScript Object Complete Reference
+
+JavaScript Promise Complete Reference
+
+JavaScript Proxy Complete Reference
+
+JavaScript Reflect Complete Reference
+
+JavaScript RegExp Complete Reference
+
+JavaScript String Complete Reference
+
+JavaScript Symbol Complete Reference
+
+JavaScript WeakMap Complete Reference
+
+JavaScript WeakSet Complete Reference
+
+JavaScript Expressions Complete Reference
+
+JavaScript Interview Questions:
+
+
+JavaScript Interview Questions and Answers
+
+JavaScript Interview Questions and Answers | Set 1
+
+JavaScript Interview Questions and Answers | Set-2
+
+JavaScript Interview Questions and Answers | Set 3
+
+JavaScript Practice Quiz:
+
+
+JavaScript Course | Practice Quiz-1
+
+JavaScript Course | Practice Quiz-2
+
+JavaScript Course | Practice Quiz-3
+Please go through this link to see the wide collection of JavaScript programming examples. The examples are categorized based on the topics, including objects, functions, arrays, DOM, and many more.
+
+JavaScript Examples:
+
+Recent Articles on JavaScript
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+Organizing Tournament Problem
+
+Must Do Coding Questions for Product Based Companies
+
+Wells Fargo Interview Experience for FTE | On-Campus 2021 (Virtual)
+
+Competitive Programming - A Complete Guide
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+How to Encrypt and Decrypt Strings in Python?
+
+30 Days of SQL - From Basic to Advanced Level!
+
+Difference Between map() And flatMap() In Java Stream
+
+Android Tutorial
+
+Wells Fargo Interview Experience for Internship (On-Campus)
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

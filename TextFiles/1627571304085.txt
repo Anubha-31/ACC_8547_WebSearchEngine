@@ -1,0 +1,1236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CBSE Class 10 Maths Notes - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Mean, Median and Mode of Grouped Data
+
+Euclid's Division Algorithm - Real Numbers | Class 10 Maths
+
+Step deviation Method for Finding the Mean with Examples
+
+Theorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+
+Algebra
+
+Sign Convention for Spherical Mirrors
+
+Concave and Convex Mirrors - Ray Diagrams, Image Formation, Applications
+
+NCERT Solutions for Class 10 Maths
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+
+Trigonometry
+
+Calculus
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Tangent to a circle - Circles | Class 10 Maths
+
+Roots of Quadratic Equations
+
+Statistics
+
+Introduction to Arithmetic Progressions | Class 10 Maths
+
+Probability in Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Refraction of Light through Glass Slab
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+
+Geometry
+
+Cumulative frequency curve
+
+Heights and Distances - Trigonometry | Class 10 Maths
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+CBSE Class 10 Maths Notes
+
+
+
+
+Last Updated :
+27 May, 2021
+
+CBSE Class 10 Mathematics Concepts, based on the latest syllabus for Class 10 Boards helps to understand all the concepts of class 10 maths chapter-wise. Notes provided by GeeksforGeeks comprise of all the formulae, theorems, concepts, proofs descriptions, definitions, graphs, that a student needs to practice and score good marks in their board examinations.
+
+
+Chapter 1: Real Numbers
+The chapter Real numbers include both irrational and rational numbers with all natural numbers, whole numbers, integers, etc and discuss their characteristics.
+
+
+Euclid’s Division Algorithm
+
+Fundamental Theorem of Arithmetic
+
+HCF and LCM
+
+Decimal Expansion of Rational Numbers
+Chapter 2: Polynomials
+Polynomials are algebraic expressions that consist of coefficients and variables or indeterminate. An arithmetic operation such as addition, subtraction, multiplication, and also positive integer exponents for polynomial expressions but not division by variable can be performed on polynomials.
+
+
+Geometrical meaning of the Zeroes of polynomial
+
+Relationship between Zeroes and coefficients of a polynomial
+
+Division Algorithm for polynomials
+Chapter 3: Pair of Linear Equations in Two Variables
+An equation of the form ax+by+c, where a, b and c are real numbers and a, b are not equal to zero, is termed as the linear equation in two variables. However, in a pair of linear equations in two variables, there exist two such equations whose solution is a point on the line denoting the equation.
+
+
+Graphical methods of Solving a Pair of Linear Equations
+
+Algebraic methods of Solving a Pair of Linear Equations
+
+Equation Reducible to a Pair of linear equations in two variables
+Chapter 4: Quadratic Equations
+The degree 2 polynomial equations in one variable are called the Quadratic equations. The general form of a quadratic equation is ax + bx + c where a, b, c, ? R and a ? 0, where ‘a’ is called the leading coefficient and ‘c’ is called the absolute term of the complete equation.
+2
+
+
+
+
+
+
+
+Quadratic Equations
+
+Solution of a Quadratic equation by different methods
+
+Roots of a Quadratic Equation
+Chapter 5: Arithmetic Progressions
+The arithmetic progression is explained as the sequence of numbers where the difference between any two subsequent numbers is a constant.
+
+
+Introduction to Arithmetic Progressions
+
+Common difference and Nth term
+
+Sum of First n Terms
+Chapter 6: Triangles
+Geometrically, a triangle is defined as a three-sided polygon consist of three edges and three vertices. The most important and applied property of a triangle is its Angle sum property which means the sum of the internal angles of a triangle is equal to 180 degrees only.
+
+
+Similar Triangles
+
+Pythagoras Theorem and its Converse
+
+Thales’s Theorem
+
+Criteria for Similarity of Triangles
+Chapter 7: Coordinate Geometry
+Coordinate Geometry is defined as the link between geometry and algebra using graphs along with the curves and lines. In this way, it provides geometric aspects in Algebra and leads to solve geometric problems.
+
+
+Coordinate Geometry
+
+Distance formula
+
+Section formula
+
+Mid-point Formula
+
+Area of a Triangle
+Chapter 8: Introduction to Trigonometry
+Trigonometry can be defined as calculations including in triangles to study its lengths, heights and angles. Trigonometry and its functions have an enormous number of uses in our daily life.
+
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Trigonometric Ratios of Some Specific Angles
+
+Reciprocal of Trigonometric Ratios
+
+Trigonometric Identities
+Chapter 9: Some Applications of Trigonometry
+Trigonometry has a lot of practical applications in our real-life. geometry, the height of a building, or a mountain, from a viewpoint and the elevation angle can be determined easily.
+This part of
+discusses the line of sight, angle of deviation, angle of elevation
+and angle of depression. Using trigonometry and trigonometric ratios
+
+
+Heights and Distances
+Chapter 10: Circles
+A circle is a geometrical shape that is defined as the locus of points that move in a plane so that its distance from a fixed point is always constant. This fixed point is the Centre of the circle while the fixed distance from it is called the radius of the circle.
+
+
+Tangent to a circle
+
+Tangent at any point of a circle is perpendicular to the radius through the point of contact
+
+Number of Tangents from a point on a circle
+
+Lengths of tangents drawn from an external point to a circle are equal
+
+Chapter 11: Constructions
+Construction helps to understand the approach to construct different types of triangles for different given conditions using a ruler and compass of required measurements.
+
+
+Division of Line Segment in Given Ratio
+Chapter 12: Areas Related to Circles
+Area related to circles are the amount of space covered by a circle, which is defined in different ways. Some areas related to a circle are, area of the circle itself, Area of the sector, area of the segment, area of the triangle or parallelogram, etc located in a circle.
+
+
+Perimeter of circular figures, Areas of sector and segment of a circle & Areas of combination of plane figures
+Chapter 13: Surface Areas and Volumes
+Surface area and volume are the measures calculated for a three-dimensional geometrical shape like a cube, cuboid, sphere, etc. The surface area of any given object is the area occupied by the surface of the object while volume is the amount of space available in an object.
+
+
+Surface Areas and Volumes
+
+Volumes of a combination of solids
+
+Conversion of solids
+
+Frustum of a Cone
+
+Chapter 14: Statistics
+Statistics is the study of the representation, collection, interpretation, analysis, presentation, and organization of data. In other words, it is a mathematical way to collect, summarize data. The representation of data differently along with the frequency distribution.
+
+
+Step deviation Method for Finding the Mean with Examples
+,
+Mean, Median
+and Mode of a grouped data
+
+Cumulative Frequency Curve
+
+Chapter 15: Probability
+The Probability in this class includes basic probability theory, which is also used in the probability distribution, to learn the possibility of outcomes for a random experiment and to find the probability of a single event to occur, when the total number of possible outcomes.
+
+
+Probability Theory
+
+Dependent and Independent Events
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+RD Sharma Class 8 Solutions for Maths
+
+
+Next
+
+
+Class 11 RD Sharma Solutions - Chapter 13 Complex Numbers - Exercise 13.2 | Set 2
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+CBSE Class 8 Maths Notes
+19, Apr 21
+
+
+
+CBSE Class 9 Maths Notes
+19, Apr 21
+
+
+
+CBSE Class 11 Maths Notes
+03, Jun 21
+
+
+
+Polynomials in One Variable - Polynomials | Class 9 Maths
+12, Jan 21
+
+
+
+
+
+Point-slope Form - Straight Lines | Class 11 Maths
+03, Nov 20
+
+
+
+Mathematical Operations on Algebraic Expressions - Algebraic Expressions and Identities | Class 8 Maths
+16, Nov 20
+
+
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+24, Oct 20
+
+
+
+Standard Algebraic Identities | Class 9 Maths
+10, Feb 21
+
+
+
+
+
+Mid Point Theorem - Quadrilaterals | Class 9 Maths
+25, Oct 20
+
+
+
+Graphing slope-intercept equations - Straight Lines | Class 11 Maths
+04, Nov 20
+
+
+
+Mensuration - Volume of Cube, Cuboid, and Cylinder | Class 8 Maths
+23, Oct 20
+
+
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+06, Oct 20
+
+
+
+
+
+Arithmetic Progression – Sum of First n Terms | Class 10 Maths
+02, Oct 20
+
+
+
+Mensuration - Area of General Quadrilateral | Class 8 Maths
+23, Oct 20
+
+
+
+Heights and Distances - Trigonometry | Class 10 Maths
+29, Oct 20
+
+
+
+Linear Equations in One Variable - Solving Equations which have Linear Expressions on one Side and Numbers on the other Side | Class 8 Maths
+28, Oct 20
+
+
+
+
+
+Types of Quadrilaterals - Rectangle, Square, Rhombus, Parallelogram | Class 8 Maths
+25, Oct 20
+
+
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Rational Numbers Between Two Rational Numbers | Class 8 Maths
+10, Nov 20
+
+
+
+
+
+Area of a Triangle using Determinants | Class 12 Maths
+26, Nov 20
+
+
+
+General and Middle Terms - Binomial Theorem - Class 11 Maths
+25, Oct 20
+
+
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+24, Oct 20
+
+
+
+Algebraic Expressions and Identities | Class 8 Maths
+25, Oct 20
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 10
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 10
+
+
+
+
+Mensuration
+
+Magnetic Field due to Current in Straight Wire
+
+Spherical Mirrors
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.9
+
+Magnetic Field due to Current carrying Conductor
+
+
+
+
+
+
+
+
+
+Most visited in School Learning
+
+
+
+
+Equation of Motion by Graphical Method
+
+Equation of a Line in 3D
+
+First Generation Of Computer
+
+Basic Properties of Electric Charge
+
+Software and its Types
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

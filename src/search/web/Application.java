@@ -9,9 +9,7 @@ import java.util.regex.Pattern;
 public class Application {
 
 	public static void main(String[] args) throws IOException {
-		SpellCorrector corrector = new SpellCorrector();
-		
-		corrector.loadSpellCorrector();
+		SpellCorrector corrector;
 
 		while (true) {
 			System.out.println("Please choose an option from the list below");
@@ -61,23 +59,29 @@ public class Application {
 				System.out.println("Please enter a word to be searched");
 				FindWord.readAllFiles();
 				break;
-				
+
 			case 4:
 				System.out.println("Please enter a word to search");
+
 				String sSearch = sc.nextLine();
+				corrector = new SpellCorrector();
+
+				corrector.loadSpellCorrector();
 				String suggestion = corrector.findSimilarWord(sSearch);
-				if (suggestion.length() == 0) 
-				    System.out.println("There are no similar words. Please enter the valid word to search");
+				if (suggestion.length() == 0)
+					System.out.println("There are no similar words. Please enter the valid word to search");
 				else
 					System.out.println("Suggestion: " + suggestion);
-				
+
 			case 5:
 				System.out.println("Please enter a word to Autocomplete");
 				String sSearch1 = sc.nextLine();
-				
+				corrector = new SpellCorrector();
+
+				corrector.loadSpellCorrector();
 				ArrayList suggestion1 = corrector.autocomplete(sSearch1);
 				System.out.println(suggestion1.toString());
-				
+
 //				if (!suggestion.isEmpty()) 
 //				    System.out.println("There are no similar words. Please enter the valid word to search");
 //				else

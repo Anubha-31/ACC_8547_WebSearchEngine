@@ -1,0 +1,1075 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trigonometry - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Mean, Median and Mode of Grouped Data
+
+Euclid's Division Algorithm - Real Numbers | Class 10 Maths
+
+CBSE Class 10 Maths Notes
+
+Step deviation Method for Finding the Mean with Examples
+
+Theorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+
+Algebra
+
+Sign Convention for Spherical Mirrors
+
+Concave and Convex Mirrors - Ray Diagrams, Image Formation, Applications
+
+NCERT Solutions for Class 10 Maths
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+
+Tangent to a circle - Circles | Class 10 Maths
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Calculus
+
+Roots of Quadratic Equations
+
+Statistics
+
+Introduction to Arithmetic Progressions | Class 10 Maths
+
+Probability in Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Refraction of Light through Glass Slab
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+
+Geometry
+
+Cumulative frequency curve
+
+Heights and Distances - Trigonometry | Class 10 Maths
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Trigonometry
+
+
+
+
+Last Updated :
+03 Jun, 2021
+
+, a Greek mathematician, introduced the idea of , which is one of the most important branches of mathematics in history. In this section, we’ll look at the relationship between the sides and angles of a right-angled triangle. The fundamentals of trigonometry describe three main functions: sine, cosine, and tangent.
+Hipparchus
+trigonometry
+Trigonometry is a branch of mathematics that uses to determine the angles and incomplete sides of a triangle. Angles are measured in either radians or degrees. Angles in trigonometry that are widely used are 0°, 30°, 45°, 60°, and 90°.
+trigonometric ratios
+
+
+
+Table of Contents
+
+
+
+Basic Trigonometry
+
+
+Inverse Trigonometry
+
+
+Applications of Trigonometry
+
+
+Basic Trigonometry
+Basic Trigonometry covers, tangent, sine, and cosine are the names given to the three ratios. It can then be expanded to include other ratios and trigonometry in the Cartesian Plane. These trigonometry studies will cover the following topics: Trigonometry in the Cartesian Plane, Graphs of Trigonometric Functions, and Trigonometric Identities are all topics covered in this course. Following are the articles that covers all the topics in the same:
+
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Trigonometric Ratios of Some Specific Angles
+
+Reciprocal of Trigonometric Ratios
+
+Trigonometric Identities
+
+Trigonometric Functions
+
+
+Inverse Trigonometry
+Inverse trigonometric functions are essentially the inverse functions of the fundamental trigonometric functions sine, cosine, tangent, cotangent, secant, and cosecant. These functions are also known as arcs functions, anti-trigonometric functions, and cyclometer functions. These trigonometry inverse functions are used to calculate the angle for each of the trigonometry ratios. In physics, mechanics, geometry, and navigation, inverse trigonometry functions are widely used as:
+
+
+Basic Concepts
+
+Graphs of Inverse Trigonometric Functions
+
+Properties of Inverse Trigonometric Functions
+
+
+Applications of Trigonometry
+Trigonometry is used to calculate the height of a structure or a mountain. Using trigonometric functions, the distance of a structure from the perspective and the elevation angle can easily calculate the height of a building. It does not have particular applications in solving functional problems, but it is used in a variety of fields. For example, trigonometry is used in the development of computer music: as you might know, sound moves in the form of waves, and this wave pattern is used in the development of computer music by passing it through a sine or cosine function. Below are few examples of how trigonometry and its functions can be used as:
+
+
+Heights and Distances
+
+Applications of Trigonometry
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Angular forms FormControlName Directive
+
+
+Next
+
+
+Indent Paragraphs in MS Word
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Class 10 RD Sharma Solutions - Chapter 12 Some Applications of Trigonometry - Exercise 12.1 | Set 3
+11, May 21
+
+
+
+Heights and Distances - Trigonometry | Class 10 Maths
+29, Oct 20
+
+
+
+Graphs of Inverse Trigonometric Functions - Trigonometry | Class 12 Maths
+07, Nov 20
+
+
+
+Class 10 NCERT Solutions- Chapter 8 Introduction To Trigonometry - Exercise 8.1
+08, Dec 20
+
+
+
+
+
+Class 10 NCERT Solutions- Chapter 8 Introduction To Trigonometry - Exercise 8.3
+15, Jan 21
+
+
+
+Class 10 NCERT Solutions- Chapter 8 Introduction To Trigonometry - Exercise 8.2
+10, Jan 21
+
+
+
+Class 10 NCERT Solutions- Chapter 8 Introduction To Trigonometry - Exercise 8.4
+07, Jan 21
+
+
+
+Class 10 NCERT Solutions- Chapter 9 Some Application of Trigonometry - Exercise 9.1 | Set 1
+12, Jan 21
+
+
+
+
+
+Class 10 NCERT Solutions- Chapter 9 Some Application of Trigonometry - Exercise 9.1 | Set 2
+11, Jan 21
+
+
+
+Applications of Trigonometry
+02, Apr 21
+
+
+
+Class 10 RD Sharma Solutions - Chapter 12 Some Applications of Trigonometry - Exercise 12.1 | Set 1
+11, May 21
+
+
+
+Class 10 RD Sharma Solutions - Chapter 12 Some Applications of Trigonometry - Exercise 12.1 | Set 2
+11, May 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 10
+
+Class 11
+
+Class 12
+
+Class 8
+
+Class 9
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 10
+
+
+
+
+Mensuration
+
+Magnetic Field due to Current in Straight Wire
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.9
+
+Spherical Mirrors
+
+Class 10 NCERT Solutions - Chapter 2 Polynomials - Exercise 2.2
+
+
+
+
+
+
+
+
+
+Most visited in Class 11
+
+
+
+
+Focus and Directrix of a Parabola
+
+Difference Between Mean, Median, and Mode with Examples
+
+Cartesian Product of Sets
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.1
+
+CBSE Class 11 Maths Notes
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

@@ -1,0 +1,1345 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCERT Solutions for Class 11 Maths - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+Difference Between Mean, Median, and Mode with Examples
+
+Algebra
+
+Trigonometry
+
+Calculus
+
+Principle of Mathematical Induction
+
+Statistics
+
+Probability in Maths
+
+Focus and Directrix of a Parabola
+
+Cartesian Product of Sets
+
+General and Middle Terms - Binomial Theorem - Class 11 Maths
+
+Variance and Standard Deviation - Probability | Class 11 Maths
+
+Geometry
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.1
+
+Relations and Functions
+
+Measures of Central Tendency
+
+CBSE Class 11 Maths Notes
+
+Class 11 NCERT Solutions- Chapter 1 Sets - Miscellaneous Exercise on Chapter 1 | Set 1
+
+Combinations - Permutations and Combinations | Class 11 Maths
+
+Introduction to Domain and Range - Relations and Functions
+
+Class 11 NCERT Solutions - Chapter 1 Sets - Exercise 1.6
+
+Point-slope Form - Straight Lines | Class 11 Maths
+
+Squeeze Theorem - Limits
+
+Mensuration
+
+Class 11 NCERT Solutions- Chapter 16 Probability - Exercise 16.1
+
+Arithmetic Series
+
+Limits of Trigonometric Functions | Class 11 Maths
+
+Conditional Statements & Implications - Mathematical Reasoning | Class 11 Maths
+
+Slope-Intercept Form of Straight Lines
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+NCERT Solutions for Class 11 Maths
+
+
+
+
+Last Updated :
+22 Apr, 2021
+
+NCERT Solutions for Class 11 Maths presents the solution of the respective grade’s NCERT textbook in a very precise and lucid manner keeping the objective of the textbook. The solutions provided by GeeksforGeeks help students to build a deeper understanding of the concepts like Sets, Relations & Functions, Complex numbers, Conic sections, etc.
+
+
+
+
+
+Chapter 1: Sets
+The chapter explains the concept of sets along with their representation. The topics discussed are empty sets, equal sets, subsets, finite and infinite sets, power sets, and universal sets. There are six exercises in the chapter, in which Exercise 1.1 is based on the introduction of sets and their representations; Exercise 1.2 is based on the concept of the empty set, finite and infinite sets and equal sets; Exercise 1.3 is based on the concept of subsets, power set, and universal set; Exercise 1.4 is based on the concept of Venn diagrams and operations on sets; Exercise 1.5 is based on the complement of a set and their properties and Exercise 1.6 is based on the concept of union and intersection of two sets.
+
+
+Exercise 1.1
+
+Exercise 1.2
+
+Exercise 1.3
+
+Exercise 1.4
+
+Exercise 1.5
+
+Exercise 1.6
+Miscellaneous Exercise ,
+Set 1
+Set 2
+
+
+
+
+
+
+
+
+Chapter 2: Relations and Functions
+The chapter Relations & Functions explains the concepts of angles, trigonometric functions, and equations. The topics discussed are positive and negative angles, measurement and conversion of angles, the definition of trigonometric functions, general solution of trigonometric equations, domain and range of the trigonometric function. There are five exercises in the chapter, in which Exercise 3.1 is based on the introduction of angles, measurement of angles in degree and radian, and the relation between degree and radian; Exercise 3.2 is based on the concept of trigonometric functions, signs, domain, and range of trigonometric functions; Exercise 3.3 is based on trigonometric functions of sum and difference of two angles; Exercise 3.4 is based on trigonometric equations (functions of a variable) and Miscellaneous Exercise is based on all the topics discussed in the chapter.
+
+
+Exercise 2.1
+
+Exercise 2.2
+
+Exercise 2.3
+
+Miscellaneous Exercise
+
+
+
+Chapter 3: Trigonometric Functions
+This chapter explains the concept of the Principle of Mathematical Induction. The topics discussed are the process to prove the induction and motivating the application taking natural numbers as the least inductive subset of real numbers. There is only one exercise in the chapter which is based on the Principle of Mathematical Induction with its simple applications.
+
+
+Exercise 3.1
+
+Exercise 3.2
+
+Exercise 3.3
+
+Exercise 3.4
+
+Miscellaneous Exercise
+
+
+
+Chapter 4: Principle of Mathematical Induction
+As the name suggests, the chapter explains the concept of the Principle of Mathematical Induction. The topics discussed are the process to prove the induction and motivating the application taking natural numbers as the least inductive subset of real numbers. There is only one exercise in the chapter which is based on the Principle of Mathematical Induction with its simple applications.
+
+Exercise 4.1
+Set 1,
+Set 2
+
+
+
+Chapter 5: Complex Numbers and Quadratic Equations
+As the name of the chapter suggests, therefore, this chapter explains the concept of complex numbers and quadratic equations and their properties. The topics discussed are the square root, algebraic properties, argand plane and polar representation of complex numbers, solutions of quadratic equations in the complex number system. There are four exercises in the chapter, in which Exercise 5.1 is based on the introduction, algebraic functions, the modulus, and the conjugate of a complex number; Exercise 5.2 is based on the argand plane and polar representation of a complex number; Exercise 5.3 is based on the quadratic equations with real coefficients and miscellaneous exercise based on all the topics discussed in the chapter.
+
+Exercise 5.1 ,
+Set 1
+Set 2
+
+Exercise 5.2
+
+Exercise 5.3
+Miscellaneous Exercise ,
+Set 1
+Set 2
+
+
+
+
+
+
+
+Chapter 6: Linear Inequalities
+The chapter explains the concept of Linear Inequalities. The topics discussed are algebraic solutions and graphical representation of Linear Inequalities in one variable and two variables respectively. There are four exercises in the chapter, in which Exercise 6.1 is based on the introduction to linear inequalities, algebraic solution, and graphical representation of linear inequalities in one variable, Exercise 6.2 is based on the graphical representation of Linear Inequalities in two variables; Exercise 6.3 is based on the graphical method to find a solution of the system of Linear Inequalities in two variables and a miscellaneous exercise based on the problems of inequalities in one variable only.
+
+Exercise 6.1 ,
+Set 1
+Set 2
+
+Exercise 6.2
+
+Exercise 6.3
+
+Miscellaneous Exercise
+
+
+
+Chapter 7: Permutations and Combinations
+The present chapter explains the concepts of permutation (an arrangement of a number of objects in a definite order) and combination (a collection of the objects irrespective of the order). The topics discussed are the fundamental principle of counting, factorial, permutations, combinations, and their applications. There are five exercises in the chapter, in which Exercise 7.1 is based on the introduction to permutations and combinations along with the fundamental principle of counting; Exercise 7.2 is based on the application of the permutation for all distinct objects and factorial notation; Exercise 7.3 is based on the application of the permutation when all the objects are not distinct and derivation of the formula of permutation; Exercise 7.4 is based on the introduction to combinations where the order doesn’t matter and its applications and a miscellaneous exercise based on the introduction to permutations and combinations and fundamental principle of counting.
+
+
+Exercise 7.1
+
+Exercise 7.2
+
+Exercise 7.3
+
+Exercise 7.4
+
+Miscellaneous Exercise
+
+
+
+Chapter 8: Binomial Theorem
+This chapter discusses the binomial theorem for positive integers used to solve complex calculations. The topics discussed are the history, statement, and proof of the binomial theorem and its expansion along with Pascal’s triangle. There are three exercises in the chapter, in which Exercise 8.1 is based on the introduction to the binomial theorem, the theorem for positive integral indices, and Pascal’s triangle; Exercise 8.2 is based on the general and middle term in the binomial expansion and their simple applications and a miscellaneous exercise based on all the topics discussed in the chapter.
+
+
+Exercise 8.1
+
+Exercise 8.2
+
+Miscellaneous Exercise
+
+
+
+Chapter 9: Sequences and Series
+The chapter Sequences and Series discuss the concepts of a sequence (an ordered list of numbers) and series (the sum of all the terms of a sequence). The topics discussed are sequence and series, arithmetic and geometric progression, arithmetic, and geometric mean. There are five exercises in the chapter, in which Exercise 9.1 is based on the introduction to sequence and series; Exercise 9.2 is based on the arithmetic progression, arithmetic mean and general term of the progression; Exercise 9.3 is based on the finite and infinite geometric progression, geometric mean, general term of the progression, the sum of n terms of geometric progression and relation between arithmetic and geometric mean; Exercise 9.4 is based on the sum of the special series sums to n terms and a miscellaneous exercise based on all the topics discussed in the chapter.
+
+
+Exercise 9.1
+
+Exercise 9.2
+Exercise 9.3 ,
+Set 1
+Set 2
+
+Exercise 9.4
+Miscellaneous Exercise ,
+Set 1
+Set 2
+
+
+
+Chapter 10: Straight Lines
+Straight lines defined the concept of the line, its angle, slope, and general equation. The topics discussed are the slope of a line, the angle between two lines, various forms of line equations, general equation of a line, and family of lines respectively. There are four exercises in the chapter, in which Exercise 10.1 is based on the introduction to straight lines, the slope of a line for given coordinates of two points, parallel and perpendicular lines with the axis, the angle between two lines, and collinearity of three points; Exercise 10.2 is based on the various form of equations of a line in terms of point-slope form, slope-intercept form, two-point form, intercept form and normal form; Exercise 10.3 is based on the general line equation, equation of the family of lines that passes through the two lines intersection point and the distance of a point from a line and a miscellaneous exercise based on all the topics discussed in the chapter.
+
+
+Exercise 10.1
+Exercise 10.2 ,
+Set 1
+Set 2
+Exercise 10.3 ,
+Set 1
+Set 2
+
+
+
+
+
+
+
+Chapter 11: Conic Sections
+The topics discussed in the present chapter are the sections of a cone, the degenerate case of a conic section along the equations and properties of conic sections. There are five exercises in the chapter, in which Exercise 11.1 is based on the introduction of a cone, sections of a cone (generated and degenerated), and circle; Exercise 11.2 is based on the introduction to a parabola, its standard equations, and latus rectum; Exercise 11.3 is based on the introduction to ellipse, its standard equations, eccentricity, latus rectum, focus, semi-major and semi-minor axis; Exercise 11.4 is based on the introduction to hyperbola, its standard equations, eccentricity and latus rectum and a miscellaneous exercise based on all the topics discussed in the chapter.
+
+
+Exercise 11.1
+
+Exercise 11.2
+
+Exercise 11.3
+
+Exercise 11.4
+
+Miscellaneous Exercise
+
+
+
+Chapter 12: Introduction to Three-dimensional Geometry
+As the name suggests, the chapter explains the concepts of geometry in three-dimensional space. The topics discussed are the coordinate axes and planes respectively, points coordinate, distance and section for points. There are four exercises in the chapter, in which Exercise 12.1 is based on the introduction to three-dimensional geometry, coordinate axes, and coordinate planes in three dimensions and coordinates of a point in space; Exercise 12.2 is based on the distance between two points; Exercise 12.3 is based on the section formula to find a coordinate of a point that divides the line in a ratio and a miscellaneous exercise based on all the topics discussed in the chapter.
+
+
+Exercise 12.1
+
+Exercise 12.2
+
+
+Exercise 12.3
+
+Miscellaneous Exercise
+
+
+
+Chapter 13: Limits and Derivatives
+The chapter explains the concept of calculus that deals with the study of change in the value of a function when the change occurs in the domain points. The topics discussed are the definition and algebraic operations of limits and derivatives respectively. There are three exercises in the chapter, in which Exercise 13.1 is based on the introduction to limits and derivatives, algebra of limits, limits of trigonometric functions, polynomial and rational functions; Exercise 13.2 is based on the algebra of derivative of functions, derivative of polynomial and trigonometric functions and a miscellaneous exercise based on the intuitive idea of derivatives, limits and derivatives and limits of trigonometric functions.
+
+Exercise 13.1 ,
+Set 1
+Set 2
+
+
+
+Chapter 14: Mathematical Reasoning
+As the name suggests, the chapter explains the concepts of mathematical reasoning (a critical skill to analyze any given hypothesis in the context of mathematics). The topics discussed are statements, inductive reasoning, and deductive reasoning. There are six exercises in the chapter, in which Exercise 14.1 is based on the simple statements, application of “implies” condition; Exercise 14.2 is based on the negation and true-false statement and application of “and/or” condition; Exercise 14.3 is based on the compound statement, application of “and” and “or” condition; Exercise 14.4 is based on the If-then statement, application of “if and only if” condition; Exercise 14.5 is based on the If-then statement, application of “implied by” condition and a miscellaneous exercise based on all the topics discussed in the chapter.
+
+
+Exercise 14.1
+
+Exercise 14.2
+
+Exercise 14.3
+
+Exercise 14.4
+
+Exercise 14.5
+
+Miscellaneous Exercise
+
+
+
+Chapter 15: Statistics
+This chapter explains the concepts of statistics (data collected for specific purposes), dispersion, and methods of calculation for ungrouped and grouped data. The topics discussed are range, mean deviation, variance and standard deviation, and analysis of frequency distributions. There are four exercises in the chapter, in which Exercise 15.1 is based on the range and mean deviation about mean and median for the data; Exercise 15.2 is based on the mean, variance, and standard deviation for the data and analysis of frequency distribution; Exercise 15.3 is based on the mean, variance and coefficient of variance for the data and a miscellaneous exercise based on all the topics discussed in the chapter.
+
+
+Exercise 15.1
+
+Exercise 15.2
+
+Exercise 15.3
+
+Miscellaneous Exercise
+
+
+
+Chapter 16: Probability
+The chapter discusses the concept of probability (a measure of uncertainty of various phenomena or a chance of occurrence of an event). The topics discussed are the random experiments., outcomes, sample spaces, event, and their type. There are four exercises in the chapter, in which Exercise 16.1 is based on the introduction of probability, possible outcomes, and sample spaces; Exercise 16.2 is based on the introduction of events, the occurrence of events, ‘not’, ‘and’ and ‘or’ events, exhaustive events, mutually exclusive events; Exercise 16.3 is based on the probability of an event and random experiments and a miscellaneous exercise based on the advanced probability problems and axiomatic probability.
+
+
+Exercise 16.1
+
+Exercise 16.2
+
+Exercise 16.3
+
+Miscellaneous Exercise
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+NCERT Solutions for Class 10 Maths
+
+
+Next
+
+
+NCERT Solutions for Class 12 Maths
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+NCERT Solutions for Class 8 Maths
+19, Apr 21
+
+
+
+NCERT Solutions for Class 9 Maths
+19, Apr 21
+
+
+
+NCERT Solutions for Class 10 Maths
+19, Apr 21
+
+
+
+NCERT Solutions for Class 12 Maths
+19, Apr 21
+
+
+
+
+
+Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation - Linear Inequalities | Class 11 Maths
+10, Nov 20
+
+
+
+RD Sharma Class 8 Solutions for Maths
+20, Apr 21
+
+
+
+RD Sharma Class 11 Solutions for Maths
+02, Jun 21
+
+
+
+RD Sharma Class 12 Solutions for Maths
+03, Jun 21
+
+
+
+
+
+Class 12 NCERT Solutions- Mathematics Part I - Chapter 3 Matrices - Exercise 3.2 | Set 1
+25, Feb 21
+
+
+
+Class 8 NCERT Solutions- Chapter 8 Comparing Quantities - Exercise 8.3
+25, Dec 20
+
+
+
+Class 9 NCERT Solutions- Chapter 1 Number System - Exercise 1.5
+17, Dec 20
+
+
+
+Class 9 NCERT Solutions- Chapter 11 Constructions - Exercise 11.1
+24, Dec 20
+
+
+
+
+
+Class 9 NCERT Solutions- Chapter 7 Triangles - Exercise 7.1
+25, Dec 20
+
+
+
+Class 9 NCERT Solutions- Chapter 7 Triangles - Exercise 7.2
+06, Jan 21
+
+
+
+Class 8 NCERT Solutions - Chapter 2 Linear Equations in One Variable - Exercise 2.6
+06, Nov 20
+
+
+
+Class 10 NCERT Solutions- Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.2
+26, Feb 21
+
+
+
+
+
+Class 12 NCERT Solutions- Mathematics Part I - Chapter 5 Continuity And Differentiability - Miscellaneous Exercise on Chapter 5
+17, Apr 21
+
+
+
+Class 11 NCERT Solutions - Chapter 5 Complex Numbers And Quadratic Equations - Miscellaneous Exercise on Chapter 5 | Set 2
+22, Mar 21
+
+
+
+Class 10 NCERT Solutions- Chapter 12 Areas Related to Circles - Exercise 12.3 | Set 2
+21, Jan 21
+
+
+
+Class 8 NCERT Solutions - Chapter 8 Comparing Quantities - Exercise 8.2
+17, Nov 20
+
+
+
+
+
+Class 10 NCERT Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.3
+01, Dec 20
+
+
+
+Class 9 NCERT Solutions- Chapter 5 Introduction to Euclid's Geometry - Exercise 5.2
+25, Dec 20
+
+
+
+Class 12 NCERT Solutions- Mathematics Part II - Chapter 9 Differential Equations-Exercise -9.2
+06, Mar 21
+
+
+
+Class 8 NCERT Solutions - Chapter 6 Squares and Square Roots - Exercise 6.1
+26, Oct 20
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+mayurigrover
+
+@mayurigrover
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+NCERT Solutions Class-11
+
+Class 11
+
+NCERT
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 11
+
+
+
+
+Effects of Child Pornography
+
+Factors affecting Acceleration due to Gravity
+
+RD Sharma Class 11 Solutions for Maths
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.2
+
+Cloud Deployment Models
+
+
+
+
+
+
+
+
+
+Most visited in NCERT
+
+
+
+
+Class 12 NCERT Solutions - Mathematics Part I - Chapter 2 Inverse Trigonometric Functions - Exercise 2.1
+
+Class 9 NCERT Solutions - Chapter 4 Linear Equations in two variables - Exercise 4.1
+
+Class 8 NCERT Solutions - Chapter 16 Playing with Numbers - Exercise 16.1
+
+Class 9 NCERT Solutions - Chapter 3 Coordinate Geometry - Exercise 3.3
+
+NCERT Solutions for Class 12 Maths
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

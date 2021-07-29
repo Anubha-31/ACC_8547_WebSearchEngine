@@ -1,0 +1,1233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to iterate over a TreeMap in Java? - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+
+How to iterate over a TreeMap in Java?
+
+TreeMap in Java
+
+Sort an array which contain 1 to n values
+
+Sort 1 to N by swapping adjacent elements
+
+Sort an array containing two types of elements
+
+Sort elements by frequency | Set 1
+
+Sort elements by frequency | Set 2
+
+Sort elements by frequency | Set 4 (Efficient approach using hash)
+
+Sorting Array Elements By Frequency | Set 3 (Using STL)
+
+Sort elements by frequency | Set 5 (using Java Map)
+
+Sorting a Hashmap according to values
+
+Sorting a HashMap according to keys in Java
+
+TreeSet in Java
+
+HashSet in Java
+
+HashMap in Java with Examples
+
+Internal Working of HashMap in Java
+
+Internal working of Set/HashSet in Java
+
+Merge two sets in Java
+
+Set in Java
+
+Map Interface in Java
+
+How to iterate any Map in Java
+
+Arrays in Java
+
+Split() String method in Java with examples
+
+Arrays.sort() in Java with examples
+
+For-each loop in Java
+
+Reverse a string in Java
+
+Initialize an ArrayList in Java
+
+Object Oriented Programming (OOPs) Concept in Java
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+How to iterate over a TreeMap in Java?
+
+
+
+
+Last Updated :
+28 Jun, 2021
+
+Given a , the task is to iterate this TreeMap in Java.
+TreeMap
+The in Java is used to implement and along with the . We cannot iterate a TreeMap directly using iterators, because TreeMap is not a Collection.
+TreeMap
+Map interface
+NavigableMap
+Abstract Class
+So we will have to use . This method returns a collection-view(Set<Map.Entry>) of the mappings contained in this treemap. So we can iterate over key-value pair using getKey() and getValue() methods of Map.Entry. This method is most common and should be used if you need both map keys and values in the loop.
+TreeMap.entrySet() method
+Below is the Java program to demonstrate it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Java program to iterate over a TreeMap
+
+
+
+import
+java.util.Map;
+
+import
+java.util.TreeMap;
+
+
+
+class
+IterationDemo {
+
+
+public
+static
+void
+main(String[] arg)
+
+
+{
+
+
+Map<String, String> gfg
+
+
+=
+new
+TreeMap<String, String>();
+
+
+
+
+// enter name/url pair
+
+
+gfg.put(
+"GFG"
+,
+"geeksforgeeks.org"
+);
+
+
+gfg.put(
+"Practice"
+,
+"practice.geeksforgeeks.org"
+);
+
+
+gfg.put(
+"Code"
+,
+"code.geeksforgeeks.org"
+);
+
+
+gfg.put(
+"Quiz"
+,
+"quiz.geeksforgeeks.org"
+);
+
+
+
+
+// using for-each loop for
+
+
+// iteration over TreeMap.entrySet()
+
+
+for
+(Map.Entry<String, String>
+
+
+entry : gfg.entrySet())
+
+
+System.out.println(
+
+
+"["
++ entry.getKey()
+
+
++
+", "
++ entry.getValue() +
+"]"
+);
+
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+Output:
+[Code, code.geeksforgeeks.org]
+[GFG, geeksforgeeks.org]
+[Practice, practice.geeksforgeeks.org]
+[Quiz, quiz.geeksforgeeks.org]
+Attention reader! Don’t stop learning now. Get hold of all the important and Collections concepts with the at a student-friendly price and become industry ready. To complete your preparation from learning a language to DS Algo and many more, please refer
+
+Java Foundation
+
+Fundamentals of Java and Java Collections Course
+
+Complete Interview Preparation Course
+.
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Next
+
+
+TreeMap in Java
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Iterate TreeMap in Reverse Order in Java
+28, Dec 20
+
+
+
+Iterate Over the Characters of a String in Java
+11, May 21
+
+
+
+Java Program to Iterate Over Characters in String
+03, Jun 21
+
+
+
+Program to Iterate over a Stream with Indices in Java 8
+30, Oct 18
+
+
+
+
+
+How to iterate over a 2D list (list of lists) in Java
+17, Mar 20
+
+
+
+Java Program to Iterate Over Arrays Using for and foreach Loop
+26, Oct 20
+
+
+
+Iterate Over Vector Elements in Java
+28, Dec 20
+
+
+
+Iterate Over Unmodifiable Collection in Java
+03, Jan 21
+
+
+
+
+
+Java.util.TreeMap.descendingMap() and descendingKeyset() in Java
+30, Oct 17
+
+
+
+Java.util.TreeMap.firstEntry() and firstKey() in Java
+30, Oct 17
+
+
+
+Java.util.TreeMap.containskey() and containsValue() in Java
+01, Nov 17
+
+
+
+Java.util.TreeMap.pollFirstEntry() and pollLastEntry() in Java
+20, Nov 17
+
+
+
+
+
+Java.util.TreeMap.put() and putAll() in Java
+24, Nov 17
+
+
+
+Java.util.TreeMap.floorEntry() and floorKey() in Java
+24, Nov 17
+
+
+
+How to fix java.lang.ClassCastException while using the TreeMap in Java?
+18, Jan 21
+
+
+
+How to iterate any Map in Java
+29, Jun 17
+
+
+
+
+
+How to Iterate LinkedList in Java?
+05, Jan 21
+
+
+
+Stream iterate(T,Predicate,UnaryOperator) method in Java with examples
+25, Apr 19
+
+
+
+How to iterate HashSet in Java?
+10, Dec 20
+
+
+
+How to Iterate LinkedHashMap in Reverse Order in Java?
+16, Dec 20
+
+
+
+
+
+Java Program to Iterate Vector using Enumeration
+14, Dec 20
+
+
+
+Java Program to Iterate LinkedHashSet Elements
+14, Dec 20
+
+
+
+Iterate List in Reverse Order in Java
+28, Dec 20
+
+
+
+Iterate through LinkedHashMap using an Iterator in Java
+03, Jan 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+Code_r
+
+@Code_r
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+java-TreeMap
+
+Java
+
+Practice Tags :
+
+
+Java
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Java
+
+
+
+
+Singleton Class in Java
+
+Interfaces in Java
+
+ArrayList in Java
+
+Overriding in Java
+
+Collections in Java
+
+
+
+
+
+
+
+
+
+More related articles in Java
+
+
+
+
+Multithreading in Java
+
+Collections.sort() in Java with Examples
+
+Queue Interface In Java
+
+Inheritance in Java
+
+Polymorphism in Java
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

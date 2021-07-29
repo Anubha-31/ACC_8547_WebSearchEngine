@@ -1,0 +1,1155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branch and Bound Algorithm - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Write an Article
+
+
+
+Write Articles
+
+Write Interview Experience
+
+Guidelines to Write
+
+Get Technical Writing Internship
+
+C
+
+C++
+
+Java
+
+Python
+
+Machine Learning
+
+Interview Preparation
+
+
+
+Interview Preparation For Software Developers
+
+Must Coding Questions - Company-wise
+
+Must Do Coding Questions - Topic-wise
+
+Company-wise Practice Problems
+
+Company Preparation
+
+Competitive Programming
+
+Software Design-Patterns
+
+Company-wise Interview Experience
+
+Experienced - Interview Experiences
+
+Intership - Interview Experiences
+
+Practice @Geeksforgeeks
+
+
+
+Leaderboard !!
+
+Topic-wise Practice
+
+Subjective Problems
+
+Difficulty Level - School
+
+Difficulty Level - Basic
+
+Difficulty Level - Easy
+
+Difficulty Level - Medium
+
+Difficulty Level - Hard
+
+Explore More...
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical Algorithms
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide & Conquer
+
+Backtracking
+
+Branch & Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advance Data Structures
+
+Matrix
+
+String
+
+All Data Structures
+
+Programming Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+Go Lang
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Kotlin
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+Bootstrap
+
+JavaScript
+
+Jquery
+
+ReactJS
+
+NodeJS
+
+AngularJS
+
+Django Framework
+
+Tutorial Library
+
+
+
+Python Tutorial
+
+Django Tutorial
+
+Pandas Tutorial
+
+Kivy Tutorial
+
+Tkinter Tutorial
+
+OpenCV Tutorial
+
+Selenium Tutorial
+
+Computer Science Subjects
+
+
+
+Engineering Mathematics
+
+Operating Systems
+
+DBMS
+
+Computer Network
+
+Computer Organization & Architecture
+
+TOC
+
+Compiler Design
+
+Digital Elec. & Logic Design
+
+Software Engineering
+
+GATE 2021
+
+
+
+GATE CS Notes
+
+Gate Corner
+
+Previous Year GATE Papers
+
+Last Minute Notes (LMNs)
+
+Important Topic - GATE 2021
+
+GATE 2021 Course
+
+UGC NET / ISRO
+
+
+
+UGC NET Notes - Paper II
+
+UGC NET Notes - Paper III
+
+UGC NET Solved Papers
+
+ISRO CS Solved Papers
+
+ISRO Official Keys
+
+ISRO CSE Syllabus
+
+QUIZ Section
+
+
+
+C Quiz
+
+C++ Quiz
+
+Java Quiz
+
+Python Quiz
+
+Data Structures Quiz
+
+Algorithms Quiz
+
+Aptitude Quiz
+
+Topic-wise MCQs
+
+Puzzles
+
+Geeksforgeeks Initiatives
+
+
+
+Campus Ambassador Program
+
+Geek Of The Month
+
+Geek On The TOP
+
+Campus Geek Of The Month
+
+Technical Scripter Event
+
+Computer Science Projects
+
+
+
+
+
+
+
+Branch and Bound Algorithm
+
+
+
+Last Updated :
+04 Dec, 2018
+
+is an algorithm design paradigm which is generally used for solving combinatorial optimization problems. These problems are typically exponential in terms of time complexity and may require exploring all possible permutations in worst case. The Branch and Bound Algorithm technique solves these problems relatively quickly.
+Branch and bound
+Let us consider the to understand Branch and Bound.
+
+0/1 Knapsack problem
+There are many algorithms by which the knapsack problem can be solved:
+
+
+Greedy Algorithm for Fractional Knapsack
+
+DP solution for 0/1 Knapsack
+.
+Backtracking Solution for 0/1 Knapsack
+Let’s see the Branch and Bound Approach to solve the : The Backtracking Solution can be optimized if we know a bound on best possible solution subtree rooted with every node. If the best in subtree is worse than current best, we can simply ignore this node and its subtrees. So we compute bound (best solution) for every node and compare the bound with current best solution before exploring the node.
+0/1 Knapsack problem
+Example bounds used in below diagram are, A down can give $315, B down can $275, C down can $225, D down can $125 and E down can $30.
+
+
+
+
+
+
+
+
+
+Recent Articles on Branch and Bound
+
+
+Branch and Bound | Set 1 (Introduction with 0/1 Knapsack)
+
+Branch and Bound | Set 2 (Implementation of 0/1 Knapsack)
+
+Branch and Bound | Set 3 (8 puzzle Problem)
+
+
+Branch And Bound | Set 4 (Job Assignment Problem)
+
+Branch and Bound | Set 5 (N Queen Problem)
+
+Branch And Bound | Set 6 (Traveling Salesman Problem)
+If you like GeeksforGeeks and would like to contribute, you can also write an article and mail your article to review-team@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+Organizing Tournament Problem
+
+Must Do Coding Questions for Product Based Companies
+
+Competitive Programming - A Complete Guide
+
+How to Encrypt and Decrypt Strings in Python?
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+30 Days of SQL - From Basic to Advanced Level!
+
+Need of Modulation in Communication Systems
+
+Wells Fargo Interview Experience for Internship (On-Campus)
+
+Java Programming Examples
+
+Change column name of a given DataFrame in R
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

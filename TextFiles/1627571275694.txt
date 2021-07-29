@@ -1,0 +1,1100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Binary Search Tree - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Binary Search Trees
+
+
+Binary Search Tree
+
+Array Data Structure
+
+Data Structures
+
+Algorithms
+
+Java Programming Language
+
+Web Development
+
+HTML Tutorials
+
+CSS Tutorials
+
+JavaScript Tutorial
+
+ReactJS Tutorials
+
+
+
+
+
+
+
+Binary Search Tree
+
+
+
+Last Updated :
+16 Jul, 2021
+
+
+
+
+
+Practice Problems on Binary Search Tree !
+
+
+
+Recent Articles on Binary Search Tree !
+is a node-based binary tree data structure which has the following properties:
+Binary Search Tree
+
+The left subtree of a node contains only nodes with keys lesser than the node’s key.
+The right subtree of a node contains only nodes with keys greater than the node’s key.
+The left and right subtree each must also be a binary search tree.
+
+
+
+Topic :
+
+
+
+
+Basic
+
+Construction and Conversion
+
+Check and Smallest/Largest Element
+
+
+
+Red Black Tree and Threaded Binary Tree
+
+Misc
+
+Quick Links
+
+Basic :
+
+
+
+Binary Search Tree | Set 1 (Search and Insertion)
+
+Binary Search Tree | Set 2 (Delete)
+
+Advantages of BST over Hash Table
+
+Construction and Conversion :
+
+
+
+Construct BST from given preorder traversal | Set 1
+
+Construct BST from given preorder traversal | Set 2
+
+Binary Tree to Binary Search Tree Conversion
+
+Sorted Linked List to Balanced BST
+
+Sorted Array to Balanced BST
+
+Transform a BST to greater sum tree
+
+Construct all possible BSTs for keys 1 to N
+
+Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
+
+BST to a Tree with sum of all smaller keys
+
+In-place Convert BST into a Min-Heap
+
+Convert BST to Min Heap
+
+Construct BST from its given level order traversal
+
+Reverse a path in BST using queue
+
+Binary Tree to Binary Search Tree Conversion using STL set
+
+Check given array of size n can represent BST of n levels or not
+
+Convert a normal BST to Balanced BST
+
+Merge Two Balanced Binary Search Trees
+
+Merge two BSTs with limited extra space
+
+
+
+
+
+Checking and Searching :
+
+
+
+Find the node with minimum value in a Binary Search Tree
+
+Check if the given array can represent Level Order Traversal of Binary Search Tree
+
+Check if a given array can represent Preorder Traversal of Binary Search Tree
+
+Lowest Common Ancestor in a Binary Search Tree
+
+A program to check if a binary tree is BST or not
+
+Find k-th smallest element in BST (Order Statistics in BST)
+
+Check if each internal node of a BST has exactly one child
+
+Check for Identical BSTs without building the trees
+
+K’th Largest Element in BST when modification to BST is not allowed
+
+K’th Largest element in BST using constant extra space
+
+Second largest element in BST
+
+K’th smallest element in BST using O(1) Extra Space
+
+Check if given sorted sub-sequence exists in binary search tree
+
+Simple Recursive solution to check whether BST contains dead end
+
+Check if an array represents Inorder of Binary Search tree or not
+
+Check if two BSTs contain same set of elements
+
+Largest number in BST which is less than or equal to N
+
+Maximum Unique Element in every subarray of size K
+
+Iterative searching in Binary Search Tree
+
+Find distance between two nodes of a Binary Search Tree
+
+Count pairs from two BSTs whose sum is equal to a given value x
+
+Find median of BST in O(n) time and O(1) space
+
+Largest BST in a Binary Tree | Set 2
+
+Remove BST keys outside the given range
+
+Print BST keys in the given range
+
+Print BST keys in given Range | O(1) Space
+
+Count BST nodes that lie in a given range
+
+Count BST subtrees that lie in given range
+
+Remove all leaf nodes from the binary search tree
+
+Sum of k smallest elements in BST
+
+Inorder Successor in Binary Search Tree
+
+Inorder predecessor and successor for a given key in BST
+
+Inorder predecessor and successor for a given key in BST | Iterative Approach
+
+Find if there is a triplet in a Balanced BST that adds to zero
+
+Find a pair with given sum in a Balanced BST
+
+Find a pair with given sum in BST
+
+Maximum element between two nodes of BST
+
+Find pairs with given sum such that pair elements lie in different BSTs
+
+Find the closest element in Binary Search Tree
+
+Find the largest BST subtree in a given Binary Tree
+
+Replace every element with the least greater element on its right
+
+Add all greater values to every node in a given BST
+
+Red Black Tree and Threaded Binary Tree :
+
+
+
+C Program for Red Black Tree Insertion
+
+Left Leaning Red Black Tree (Insertion)
+
+Threaded Binary Tree
+
+Threaded Binary Tree | Insertion
+
+Threaded Binary Search Tree | Deletion
+
+Convert a Binary Tree to Threaded binary tree | Set 1 (Using Queue)
+
+Convert a Binary Tree to Threaded binary tree | Set 2 (Efficient)
+
+Inorder Non-threaded Binary Tree Traversal without Recursion or Stack
+
+Misc :
+
+
+
+Sorted order printing of a given array that represents a BST
+
+Two nodes of a BST are swapped, correct the BST
+
+Floor and Ceil from a BST
+
+Given n appointments, find all conflicting appointments
+
+How to handle duplicates in Binary Search Tree?
+
+Data Structure for a single resource reservations
+
+How to implement decrease key or change key in Binary Search Tree?
+
+Print Common Nodes in Two Binary Search Trees
+
+Count inversions in an array | Set 2 (Using Self-Balancing BST)
+
+Leaf nodes from Preorder of a Binary Search Tree
+
+Leaf nodes from Preorder of a Binary Search Tree (Using Recursion)
+
+Binary Search Tree insert with Parent Pointer
+
+Minimum Possible value of |ai + aj – k| for given array and k.
+
+Rank of an element in a stream
+
+Special two digit numbers in a Binary Search Tree
+
+Quick Links :
+
+
+
+‘Practice Problems’ on Binary Search Tree
+
+‘Quizzes’ on Binary Search Tree
+
+‘Quizzes’ on Balanced Binary Search Trees
+
+Videos
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+Organizing Tournament Problem
+
+100 Days of Code - A Complete Guide For Beginners and Experienced
+
+Must Do Coding Questions for Product Based Companies
+
+How to pass data from child component to its parent in ReactJS ?
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+Wells Fargo Interview Experience for FTE | On-Campus 2021 (Virtual)
+
+Competitive Programming - A Complete Guide
+
+How to Encrypt and Decrypt Strings in Python?
+
+30 Days of SQL - From Basic to Advanced Level!
+
+Difference Between map() And flatMap() In Java Stream
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

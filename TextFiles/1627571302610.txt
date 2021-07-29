@@ -1,0 +1,1141 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mensuration - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+School Learning
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Mean, Median and Mode of Grouped Data
+
+Euclid's Division Algorithm - Real Numbers | Class 10 Maths
+
+CBSE Class 10 Maths Notes
+
+Step deviation Method for Finding the Mean with Examples
+
+Theorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+
+Algebra
+
+Concave and Convex Mirrors - Ray Diagrams, Image Formation, Applications
+
+Sign Convention for Spherical Mirrors
+
+NCERT Solutions for Class 10 Maths
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+
+Trigonometry
+
+Tangent to a circle - Circles | Class 10 Maths
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Calculus
+
+Roots of Quadratic Equations
+
+Statistics
+
+Introduction to Arithmetic Progressions | Class 10 Maths
+
+Probability in Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Refraction of Light through Glass Slab
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+
+Geometry
+
+Cumulative frequency curve
+
+Heights and Distances - Trigonometry | Class 10 Maths
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Mensuration
+
+
+
+
+Last Updated :
+03 Jun, 2021
+
+is a branch of mathematics concerned with the calculation of geometric figures and their parameters such as weight, volume, form, surface area, lateral surface area, and so on. In simple mathematics, you can learn about mensuration. The principles of mensuration are discussed here, as are all the essential mensuration formulas.
+Mensuration
+
+
+For a better understanding of these ideas, the properties of various geometric forms and the accompanying figures are also shown. Mensuration is a branch of mathematics that deals with the scale, volume, or area of various geometric forms. These forms are available in or .
+two
+three dimensions
+
+Table of Contents
+
+
+
+Mensuration of 2D shapes
+
+
+Mensuration of 3D shapes
+
+
+Mensuration of 2D shapes
+Mensuration is the measuring theory. It is the field of mathematics that is used to measure various figures such as the cube, cuboid, square, rectangle, cylinder, and so on. Mensuration of two-dimensional figures such as area, perimeter, and so on. The form or figure having two dimensions, such as length and breadth, is referred to as a 2-D form. A 2-D figure is something like a square, rectangle, triangle, parallelogram, trapezium, rhombus, and so on. We can measure 2-D forms using Area (A) and Perimeter (P) as discussed below:
+
+
+Introduction to Mensuration
+
+Area of Trapezium
+
+Area of Polygons
+
+Heron’s Formula
+
+Applications of Heron’s Formula
+
+Area of 2D Shapes
+
+Perimeter of circular figures,
+
+Areas of sector and segment of a circle
+
+Areas of combination of plane figures
+
+Circle
+
+
+Mensuration of 3D shapes
+Mensuration is concerned with the measuring of three-dimensional solids in terms of total surface area, lateral/curved surface area, and volume. 3D figures are those that have more than two dimensions, such as length, breadth, and height. Cube, Cuboid, Sphere, Cylinder, Cone, and other three-dimensional forms are examples. Total Surface Area, Lateral Surface Area, Curved Surface Area, and Volume are used to calculate the 3D figure are discussed in the articles below:
+
+
+Surface Area of Cube, Cuboid, and Cylinder
+
+Volume of Cube, Cuboid, and Cylinder
+
+Volume and Capacity
+
+Surface Area of 3D Shapes
+
+Volumes of Cubes and Cuboids
+
+Surface Areas and Volumes
+
+Volumes of a combination of solids
+
+Conversion of solids
+
+Frustum of a Cone
+
+Section of a Cone
+
+Parabola
+
+Ellipse
+
+Hyperbola
+
+Identifying Conic Sections from their Equation
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Angular 10 NgPlural Directive
+
+
+Next
+
+
+Algebra
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Mensuration - Volume of Cube, Cuboid, and Cylinder | Class 8 Maths
+23, Oct 20
+
+
+
+Introduction to Mensuration
+06, Oct 20
+
+
+
+Mensuration - Area of General Quadrilateral | Class 8 Maths
+23, Oct 20
+
+
+
+Area of Trapezium - Mensuration | Class 8 Maths
+10, Nov 20
+
+
+
+
+
+Volume and Capacity - Mensuration | Class 8 Maths
+28, Dec 20
+
+
+
+Class 8 NCERT Solutions - Chapter 11 Mensuration - Exercise 11.4
+17, Nov 20
+
+
+
+Class 8 NCERT Solutions - Chapter 11 Mensuration - Exercise 11.1
+19, Nov 20
+
+
+
+Class 8 NCERT Solutions - Chapter 11 Mensuration - Exercise 11.2
+19, Nov 20
+
+
+
+
+
+Class 8 NCERT Solutions - Chapter 11 Mensuration - Exercise 11.3
+21, Nov 20
+
+
+
+Class 8 RD Sharma Solutions - Chapter 21 Mensuration II (Volumes and Surface Areas of a Cuboid and a Cube) - Exercise 21.1 | Set 1
+21, Nov 20
+
+
+
+Class 8 RD Sharma Solutions - Chapter 21 Mensuration II (Volume and Surface Areas of a Cuboid and a Cube) - Exercise 21.1 | Set 2
+21, Nov 20
+
+
+
+Class 8 RD Sharma Solutions - Chapter 22 Mensuration III (Surface Area And Volume Of Right Circular Cylinder) - Exercise 22.1 | Set 1
+27, Nov 20
+
+
+
+
+
+Class 8 RD Sharma Solutions - Chapter 22 Mensuration III (Surface Area And Volume Of Right Circular Cylinder) - Exercise 22.1 | Set 2
+27, Nov 20
+
+
+
+Class 8 RD Sharma Solutions- Chapter 21 Mensuration II (Volumes and Surface Areas of a Cuboid and a Cube)- Exercise 21.2 | Set 1
+28, Nov 20
+
+
+
+Class 8 RD Sharma - Chapter 21 Mensuration II (Volumes and Surface Areas of a Cuboid and a Cube) - Exercise 21.3 | Set 1
+25, Dec 20
+
+
+
+Class 8 RD Sharma - Chapter 21 Mensuration II (Volumes and Surface Areas of a Cuboid and a Cube) - Exercise 21.3 | Set 2
+25, Dec 20
+
+
+
+
+
+Class 8 RD Sharma Solutions- Chapter 22 Mensuration III (Surface Area And Volume Of Right Circular Cylinder) - Exercise 22.2 | Set 1
+29, Jan 21
+
+
+
+Class 8 RD Sharma Solutions- Chapter 22 Mensuration III (Surface Area And Volume Of Right Circular Cylinder) - Exercise 22.2 | Set 2
+29, Dec 20
+
+
+
+Area of Polygons - Mensuration
+07, Feb 21
+
+
+
+Class 8 RD Sharma Solutions- Chapter 21 Mensuration II (Volumes and Surface Areas of a Cuboid and a Cube)- Exercise 21.4 | Set 2
+25, Dec 20
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 10
+
+Class 11
+
+Class 12
+
+Class 8
+
+Class 9
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 10
+
+
+
+
+Magnetic Field due to Current in Straight Wire
+
+Spherical Mirrors
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.9
+
+Class 10 RD Sharma Solutions - Chapter 3 Pair of Linear Equations in Two Variables - Exercise 3.2 | Set 3
+
+Magnetic Field due to Current carrying Conductor
+
+
+
+
+
+
+
+
+
+Most visited in Class 11
+
+
+
+
+Focus and Directrix of a Parabola
+
+Difference Between Mean, Median, and Mode with Examples
+
+Cartesian Product of Sets
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.1
+
+CBSE Class 11 Maths Notes
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

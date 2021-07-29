@@ -1,0 +1,1241 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+
+Geometry
+
+NCERT Solutions for Class 12 Maths
+
+Geometry
+
+School Learning
+
+Section formula – Internal and External Division | Coordinate Geometry
+
+Mean, Median and Mode of Grouped Data
+
+Euclid's Division Algorithm - Real Numbers | Class 10 Maths
+
+CBSE Class 10 Maths Notes
+
+Step deviation Method for Finding the Mean with Examples
+
+Theorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 2
+
+Theorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 Maths
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+
+Algebra
+
+Sign Convention for Spherical Mirrors
+
+Concave and Convex Mirrors - Ray Diagrams, Image Formation, Applications
+
+NCERT Solutions for Class 10 Maths
+
+Arithmetic Progression - Common difference and Nth term | Class 10 Maths
+
+Pythagoras Theorem and its Converse - Triangles | Class 10 Maths
+
+Calculus
+
+Trigonometry
+
+Introduction to Trigonometric Ratios of a Triangle
+
+Tangent to a circle - Circles | Class 10 Maths
+
+Roots of Quadratic Equations
+
+Statistics
+
+Introduction to Arithmetic Progressions | Class 10 Maths
+
+Probability in Maths
+
+Class 10 RD Sharma Solutions- Chapter 2 Polynomials - Exercise 2.1 | Set 1
+
+Refraction of Light through Glass Slab
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Geometry
+
+
+
+
+Last Updated :
+03 Jun, 2021
+
+is the branch of mathematics that deals with the forms, angles, measurements, and proportions of ordinary objects. There are two-dimensional forms and three-dimensional shapes in Euclidean geometry. Flat shapes are two shapes in plane geometry that include triangles, squares, rectangles, and circles. 3D forms such as a square, cuboid, cone, and so on are also known as solids in solid geometry. The fundamental geometry is based on points, lines, and planes, as described in coordinate geometry.
+Geometry
+
+
+The various forms of shapes in geometry help us understand the shapes we see in our daily lives. We can measure the field, circumference, and volume of shapes using geometric principles.
+
+Table of Content
+
+
+
+Plane Geometry
+
+
+Solid Geometry
+
+
+Plane Geometry
+Plane geometry is concerned with platforms that can be drawn on paper. Lines, circles, and triangles in two dimensions are examples. Plane geometry is another name for two-dimensional geometry. All two-dimensional figures have only two dimensions: length and width. It does not take into account the depth of the shapes. Plane figures have squares, triangles, rectangles, circles, and so on. Any of the most essential terms in plane geometry are described here in the below articles:
+
+
+Polygons and its types
+
+Measures of the Exterior Angles of a Polygon
+
+Rectangle, Square, Rhombus, Parallelogram
+
+Some Special Parallelograms
+
+Basic terms and definitions
+
+Pairs of Angles
+
+Parallel lines and a transversal
+
+Lines parallel to the same line and Angle Sum Property
+
+Properties of triangles
+
+Angle Sum Property of a Triangle
+
+Inequalities in a triangle
+
+Theorem – Angle opposite to equal sides of an isosceles triangle are equal
+
+Angle sum property of a quadrilateral
+
+Types of quadrilateral
+
+Properties of Parallelograms
+
+MidPoint Theorem
+
+Kite – Quadrilaterals
+
+Area of 2D Shapes
+
+Figures on the same base and between the same parallels
+
+Circles and its Related Terms
+
+Circle Theorems
+
+Theorem – There is one and only one circle passing through three given non-collinear points
+
+Theorem – The sum of opposite angles of a cyclic quadrilateral is 180°
+
+Basic Construction
+
+Construction of a Quadrilateral
+
+Euclid’s Definitions, Axioms, and Postulates
+
+Equivalent version of Euclid’s Fifth postulate
+
+Similar Triangles
+
+Pythagoras Theorem and it’s Converse
+
+Thales’s Theorem
+
+Criteria for Similarity of Triangles
+Solid Geometry
+
+Solid geometry is concerned with three-dimensional structures such as cubes, prisms, cylinders, and spheres. It is concerned with the figure’s three dimensions, which are length, width, and height. However, certain solids do not have faces (e.g. sphere). The analysis of three dimensions in Euclidean space is known as solid geometry. The structures of our environment are three-dimensional. Both three-dimensional shapes are created by rotating two-dimensional shapes. Faces, corners, and vertices are essential characteristics of 3D forms. Examine these words in depth for various geometric forms here in the following articles:
+
+
+Visualizing Solid Shapes
+
+Mapping Space Around Us
+
+Cartesian Coordinate System
+
+Cartesian Plane
+
+Coordinate Geometry
+
+Distance formula
+
+Section formula
+
+Mid-point Formula
+
+Area of a Triangle
+
+Tangent to a circle
+
+Tangent at any point of a circle is perpendicular to the radius through the point of contact
+
+Number of Tangents from a point on a circle
+
+Lengths of tangents drawn from an external point to a circle are equal
+
+Division of Line Segment in Given Ratio
+
+Construction of tangents to a circle
+
+Coordinate Axes and Coordinate Planes in 3D
+
+Distance Formula & Section Formula
+
+Slope of a Straight Line
+
+Introduction to Two-Variable Linear Equations in Straight Lines
+
+Forms of Two-Variable Linear Equations of a line
+
+Point-slope Form
+
+Slope-Intercept Form of Straight Lines
+
+Standard Form of a Straight Line
+
+x-intercepts and y-intercepts of a Line
+
+Graphing slope-intercept equations
+
+Direction Cosines and Direction Ratios of a Line
+
+Equation of a Line in 3D
+
+Angle between two lines
+
+Shortest Distance Between Two Lines in 3D Space
+
+Points, Lines, and Planes
+Attention reader! Don’t stop learning now. Participate in the .
+
+Scholorship Test for First-Step-to-DSA Course for Class 9 to 12 students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+NCERT Solutions for Class 12 Maths
+
+
+Next
+
+
+School Learning
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Class 9 NCERT Solutions- Chapter 5 Introduction to Euclid's Geometry - Exercise 5.2
+25, Dec 20
+
+
+
+Section formula – Internal and External Division | Coordinate Geometry
+25, Oct 20
+
+
+
+Class 10 RD Sharma Solutions - Chapter 14 Coordinate Geometry - Exercise 14.5 | Set 3
+02, May 21
+
+
+
+Mid-point Formula in Coordinate Geometry
+23, Oct 20
+
+
+
+
+
+Distance formula - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Area of a Triangle - Coordinate Geometry | Class 10 Maths
+25, Oct 20
+
+
+
+Class 8 NCERT Solutions - Chapter 4 Practical Geometry - Exercise 4.1
+02, Nov 20
+
+
+
+Class 8 NCERT Solutions - Chapter 4 Practical Geometry - Exercise 4.3
+02, Nov 20
+
+
+
+
+
+Class 9 NCERT Solutions - Chapter 3 Coordinate Geometry - Exercise 3.3
+08, Nov 20
+
+
+
+Class 9 NCERT Solutions - Chapter 3 Coordinate Geometry - Exercise 3.1
+08, Nov 20
+
+
+
+Class 9 NCERT Solutions - Chapter 3 Coordinate Geometry - Exercise 3.2
+10, Nov 20
+
+
+
+Class 8 NCERT Solutions - Chapter 4 Practical Geometry - Exercise 4.5
+17, Nov 20
+
+
+
+
+
+Class 8 NCERT Solutions - Chapter 4 Practical Geometry - Exercise 4.4
+10, Dec 20
+
+
+
+Class 8 NCERT Solutions - Chapter 4 Practical Geometry - Exercise 4.2
+10, Dec 20
+
+
+
+Class 9 RD Sharma Solutions - Chapter 7 Introduction to Euclid’s Geometry- Exercise 7.1
+09, Dec 20
+
+
+
+Class 11 NCERT Solutions- Chapter 12 Introduction to three dimensional Geometry - Exercise 12.1
+13, Dec 20
+
+
+
+
+
+Class 11 NCERT Solutions- Chapter 12 Introduction to three dimensional Geometry - Exercise 12.3
+18, Dec 20
+
+
+
+Class 11 NCERT Solutions- Chapter 12 Introduction to three dimensional Geometry - Exercise 12.2
+18, Dec 20
+
+
+
+Class 11 RD Sharma Solutions - Chapter 28 Introduction to 3D Coordinate Geometry - Exercise 28.1
+21, Dec 20
+
+
+
+Distance Formula & Section Formula - Three-dimensional Geometry
+18, Jan 21
+
+
+
+
+
+Class 9 NCERT Solutions- Chapter 5 Introduction to Euclid's Geometry - Exercise 5.1
+28, Dec 20
+
+
+
+Class 8 RD Sharma Solutions - Chapter 18 Practical Geometry - Exercise 18.5
+11, Jan 21
+
+
+
+Class 8 RD Sharma Solutions- Chapter 18 Practical Geometry - Exercise 18.1
+11, Jan 21
+
+
+
+Class 8 RD Sharma Solutions - Chapter 18 Practical Geometry - Exercise 18.2
+11, Jan 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Article Tags :
+
+
+Class 10
+
+Class 11
+
+Class 12
+
+Class 8
+
+Class 9
+
+School Learning
+
+School Mathematics
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Class 10
+
+
+
+
+Cumulative frequency curve
+
+Mensuration
+
+Magnetic Field due to Current in Straight Wire
+
+Spherical Mirrors
+
+Magnetic Field due to Current carrying Conductor
+
+
+
+
+
+
+
+
+
+Most visited in Class 11
+
+
+
+
+Focus and Directrix of a Parabola
+
+Difference Between Mean, Median, and Mode with Examples
+
+Class 11 NCERT Solutions - Chapter 3 Trigonometric Function - Exercise 3.1
+
+CBSE Class 11 Maths Notes
+
+Cartesian Product of Sets
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

@@ -1,0 +1,1114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous years GATE CSE and IT Papers Download Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+
+Previous years GATE CSE and IT Papers Download Link
+
+GATE CS Preperation
+
+GATE CS 2021 | Set 1
+
+LMNs-Last Minute Notes
+
+LMNs- Algorithms
+
+LMNs-Data Structure
+
+C++ Programming Language
+
+Array Data Structure
+
+Data Structures
+
+Algorithms
+
+Java Programming Language
+
+Web Development
+
+HTML Tutorials
+
+CSS Tutorials
+
+JavaScript Tutorial
+
+ReactJS Tutorials
+
+
+
+
+
+
+
+Previous years GATE CSE and IT Papers Download Link
+
+
+
+Last Updated :
+03 Jul, 2021
+
+
+
+
+
+
+GATE CS 2022 TS
+according to. You can find for these Papers.
+
+
+GATE CS Notes
+GATE 2019 syllabus
+GeeksforGeeks’s solutions
+
+
+
+
+
+
+
+
+Year
+Original Paper
+Official Keys
+
+
+2021
+
+2021 Set 1 Paper
+
+2021 Set 1 Keys
+
+
+2021 Set 2 Paper
+
+2021 Set 2 Keys
+
+2020
+
+2020 Paper
+
+2020 Keys
+
+
+2019
+
+2019 Paper
+
+2019 Keys
+
+
+2018
+
+2018 Paper
+
+2018 Keys
+
+
+2017
+
+2017 Set 1 Paper
+
+2017 Set 1 Keys
+
+
+2017 Set 2 Paper
+
+2017 Set 2 Keys
+
+2016
+
+2016 Set 1 Paper
+
+2016 Set 1 Keys
+
+
+2016 Set 2 Paper
+
+2016 Set 2 Keys
+
+2015
+
+2015 Set 1 Paper
+
+2015 Set 1 Keys
+
+
+2015 Set 2 Paper
+
+2015 Set 2 Keys
+
+
+2015 Set 3 Paper
+
+2015 Set 3 Keys
+
+2014
+
+2014 Set 1 Paper
+
+2014 Set 1 Keys
+
+
+2014 Set 2 Paper
+
+2014 Set 2 Keys
+
+
+2014 Set 3 Paper
+
+2014 Set 3 Keys
+
+2013
+
+2013 Paper
+
+2013 Keys
+
+2012
+
+2012 Paper
+
+2012 Keys
+
+2011
+
+2011 Paper
+
+2011 Keys
+
+2010
+
+2010 Paper
+
+
+2009
+
+2009 Paper
+
+
+2008
+
+2008 CS Paper
+
+
+
+2008 IT Paper
+
+
+2007
+
+2007 CS Paper
+
+
+
+2007 IT Paper
+
+
+2006
+
+2006 CS Paper
+
+
+
+2006 IT Paper
+
+
+2005
+
+2005 CS Paper
+
+
+
+2005 IT Paper
+
+
+2004
+
+2004 CS Paper
+
+
+
+2004 IT Paper
+
+
+2003
+
+2003 Paper
+
+
+2002
+
+2002 Paper
+
+
+2001
+
+2001 Paper
+
+
+2000
+
+2000 Paper
+
+
+1999
+
+1999 Paper
+
+
+1998
+
+1998 Paper
+
+
+1997
+
+1997 Paper
+
+
+1996
+
+1996 Paper
+
+
+1995
+
+1995 Paper
+
+
+1994
+
+1994 Paper
+
+
+1993
+
+1993 Paper
+
+
+1992
+
+1992 Paper
+
+
+1991
+
+1991 Paper
+
+
+
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+
+ProGeek Cup 2021 – A Project Competition By GeeksforGeeks
+
+Organizing Tournament Problem
+
+Must Do Coding Questions for Product Based Companies
+
+How to Move a Column to First Position in Pandas DataFrame?
+
+
+
+
+
+
+
+
+
+Most Visited Articles
+
+
+
+
+I2C Communication Protocol
+
+How to use an ES6 import in Node.js?
+
+Competitive Programming - A Complete Guide
+
+How to Encrypt and Decrypt Strings in Python?
+
+Different Ways To Declare And Initialize 2-D Array in Java
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

@@ -1,0 +1,1218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RD Sharma Class-12 Archives - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+Puzzles
+
+Project Ideas
+
+School Learning
+
+
+?
+
+
+
+
+
+Tag Archives:
+RD Sharma Class-12
+
+
+
+
+
+
+
+
+Class 12 RD Sharma Solutions – Chapter 6 Determinants Exercise Ex. 6.6 | Set 1
+
+Question 1. If A is a singular matrix, then find the value of |A|. Solution: Given that A is a singular matrix. So, as we…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 33 Binomial Distribution – Exercise 33.1 | Set 2
+
+Question 19. A bag contains 7 green, 4 white, and 5 red balls. If four balls are drawn one by one with replacement, what is…
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 33 Binomial Distribution – Exercise 33.1 | Set 1
+
+Question 1. There are 6% defective items in a large bulk of items. Find the probability that a sample of 8 items will include not…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 33 Binomial Distribution – Exercise 33.1 | Set 3
+
+Question 37. An experiment succeeds twice as often as it fails. Find the probability that in the next 6 trials there will be at least…
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 6 Determinants Exercise Ex. 6.6 | Set 3
+
+Question 38. Write the value of the determinant . Solution: We have, A = |A| = On taking 2x common from R3 we get, |A| = …
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+
+
+Class 12 RD Sharma Solutions – Chapter 6 Determinants Exercise Ex. 6.6 | Set 2
+
+Question 19. Let A = [aij] be a square matrix of order 3 × 3 and Cij denote the cofactor of aij in A. If…
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 29 The Plane – Exercise 29.11 | Set 2
+
+Question 14. Find the equation of the plane passing through the intersection of the planes x – 2y + z = 1 and 2x +…
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 28 The Straight Line in Space – Exercise 28.3
+
+Question 1. Show that the lines and intersect and find their point of intersection. Solution: Given that the coordinates of any point on the first line are …
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 29 The Plane – Exercise 29.11 | Set 1
+
+Question 1. Find the angle between the line and the plane . Solution: Given that, the line is and the plane is . So, As we know…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 31 Probability – Exercise 31.7 | Set 3
+
+Question 27. There are three coins. One is a two-headed coin, another is a biased coin that comes up heads 75% of the time and…
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 31 Probability – Exercise 31.7 | Set 2
+
+Question 14. An item is manufactured by three machines A, B, and C. Out of the total number of items manufactured during a specified period,…
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 31 Probability – Exercise 31.7 | Set 1
+
+Question 1. The contents of urns I, II, III are as follows: Urn I: 1 white, 2 black, and 3 red balls Urn II: 2…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 28 The Straight Line in Space – Exercise 28.2 | Set 1
+
+Question 1. Show that the three lines with direction cosines 12/13, -3/13, – 4/13; 4/13, 12/13, 3/13; 3/13, – 4/13, 12/13 are mutually perpendicular. Solution:…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 28 The Straight Line in Space – Exercise 28.2 | Set 2
+
+Question 13. Find the equations of the line passing through the point (?1, 2, 1) and parallel to the line . Solution: The equation of line can…
+
+Read More
+
+
+
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+School Mathematics
+
+
+
+Class 12 RD Sharma Solutions – Chapter 8 Solution of Simultaneous Linear Equations – Exercise 8.1 | Set 1
+
+Question 1. Solve the following system of equations by matrix method: (i) 5x + 7y + 2 = 0 4x + 6y + 3 =…
+
+Read More
+
+
+
+
+
+Picked
+
+
+RD Sharma Class-12
+
+
+Class 12
+
+
+RD Sharma Solutions
+
+
+School Learning
+
+
+
+Page 1 of 17
+1
+2
+3
+4
+5
+...
+10
+...
+»
+Last »
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in RD Sharma Class-12
+
+
+
+
+Class 12 RD Sharma Solutions - Chapter 1 Relations - Exercise 1.2 | Set 1
+
+Class 12 RD Sharma Solutions - Chapter 1 Relations - Exercise 1.1 | Set 2
+
+Class 12 RD Sharma Solutions - Chapter 30 Linear Programming - Exercise 30.3
+
+Class 12 RD Sharma Solutions - Chapter 18 Maxima and Minima - Exercise 18.5 | Set 1
+
+Class 12 RD Sharma Solutions - Chapter 18 Maxima and Minima - Exercise 18.5 | Set 2
+
+
+
+
+
+
+
+
+
+Most visited in RD Sharma Class-12
+
+
+
+
+Class 12 RD Sharma Solutions - Chapter 30 Linear Programming - Exercise 30.1 | Set 1
+
+Class 12 RD Sharma Solutions - Chapter 2 Functions - Exercise 2.2
+
+Class 12 RD Sharma Solutions - Chapter 18 Maxima and Minima - Exercise 18.2
+
+Class 12 RD Sharma Solutions - Chapter 1 Relations - Exercise 1.1 | Set 1
+
+Class 12 RD Sharma Solutions - Chapter 7 Adjoint and Inverse of a Matrix - Exercise 7.1 | Set 1
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

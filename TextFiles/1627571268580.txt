@@ -1,0 +1,1241 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analysis of Algorithm | Set 4 (Solving Recurrences) - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+Analysis of Algorithms | Set 2 (Worst, Average and Best Cases)
+
+Analysis of Algorithms | Set 3 (Asymptotic Notations)
+
+Analysis of Algorithms | Set 4 (Analysis of Loops)
+
+
+Analysis of Algorithm | Set 4 (Solving Recurrences)
+
+Analysis of Algorithm | Set 5 (Amortized Analysis Introduction)
+
+What does ‘Space Complexity’ mean?
+
+Pseudo-polynomial Algorithms
+
+NP-Completeness | Set 1 (Introduction)
+
+A Time Complexity Question
+
+Merge Sort
+
+QuickSort
+
+HeapSort
+
+Binary Heap
+
+Time Complexity of building a heap
+
+Applications of Heap Data Structure
+
+Binomial Heap
+
+Fibonacci Heap | Set 1 (Introduction)
+
+Fibonacci Heap – Insertion and Union
+
+Fibonacci Heap – Deletion, Extract min and Decrease key
+
+Leftist Tree / Leftist Heap
+
+K-ary Heap
+
+Iterative HeapSort
+
+Analysis of Algorithms | Set 1 (Asymptotic Analysis)
+
+Understanding Time Complexity with Simple Examples
+
+Complexity of different operations in Binary tree, Binary Search Tree and AVL tree
+
+Practice Questions on Time Complexity Analysis
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Analysis of Algorithm | Set 4 (Solving Recurrences)
+
+
+
+
+Difficulty Level :
+
+Medium
+
+Last Updated :
+14 Jun, 2021
+
+
+In the previous post, we discussed . Many algorithms are recursive in nature. When we analyze them, we get a recurrence relation for time complexity. We get running time on an input of size n as a function of n and the running time on inputs of smaller sizes. For example in , to sort a given array, we divide it in two halves and recursively repeat the process for the two halves. Finally we merge the results. Time complexity of Merge Sort can be written as T(n) = 2T(n/2) + cn. There are many other algorithms like Binary Search, Tower of Hanoi, etc.
+analysis of loops
+Merge Sort
+There are mainly three ways for solving recurrences.
+: We make a guess for the solution and then we use mathematical induction to prove the guess is correct or incorrect.
+1) Substitution Method
+For example consider the recurrence T(n) = 2T(n/2) + n
+
+We guess the solution as T(n) = O(nLogn). Now we use induction
+to prove our guess.
+
+We need to prove that T(n) <= cnLogn. We can assume that it is true
+for values smaller than n.
+
+T(n) = 2T(n/2) + n
+    <= 2cn/2Log(n/2) + n
+    =  cnLogn - cnLog2 + n
+    =  cnLogn - cn + n
+    <= cnLogn
+In this method, we draw a recurrence tree and calculate the time taken by every level of tree. Finally, we sum the work done at all levels. To draw the recurrence tree, we start from the given recurrence and keep drawing till we find a pattern among levels. The pattern is typically a arithmetic or geometric series.
+2) Recurrence Tree Method:
+
+For example consider the recurrence relation 
+T(n) = T(n/4) + T(n/2) + cn
+
+           cn
+         /      \
+     T(n/4)     T(n/2)
+
+If we further break down the expression T(n/4) and T(n/2), 
+we get following recursion tree.
+
+                cn
+           /           \      
+       c(n)/16      c(n)/4
+      /      \          /     \
+  T(n/16)     T(n/8)  T(n/8)    T(n/4) 
+Breaking down further gives us following
+                 cn
+            /            \      
+       c(n)/16          c(n)/4
+       /      \            /      \
+c(n)/256   c(n)/64  c(n)/64    c(n)/16
+ /    \      /    \    /    \       /    \  
+
+To know the value of T(n), we need to calculate sum of tree 
+nodes level by level. If we sum the above tree level by level, 
+we get the following series
+T(n)  = c(n^2 + 5(n^2)/16 + 25(n^2)/256) + ....
+The above series is geometrical progression with ratio 5/16.
+
+To get an upper bound, we can sum the infinite series. 
+We get the sum as (n)/(1 - 5/16) which is O(n)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Master Method is a direct way to get the solution. The master method works only for following type of recurrences or for recurrences that can be transformed to following type.
+3) Master Method:
+
+
+
+
+
+
+
+T(n) = aT(n/b) + f(n) where a >= 1 and b > 1
+There are following three cases: If f(n) = O(n) where c < Loga then T(n) = ?(n)
+
+1.
+c
+b
+Log
+
+b
+a
+If f(n) = ?(n) where c = Loga then T(n) = ?(nLog n)
+2.
+c
+b
+c
+If f(n) = ?(n) where c > Loga then T(n) = ?(f(n))
+3.
+c
+b
+Master method is mainly derived from recurrence tree method. If we draw recurrence tree of T(n) = aT(n/b) + f(n), we can see that the work done at root is f(n) and work done at all leaves is ?(n) where c is Loga. And the height of recurrence tree is Logn
+How does this work?
+
+c
+b
+b
+
+
+
+In recurrence tree method, we calculate total work done. If the work done at leaves is polynomially more, then leaves are the dominant part, and our result becomes the work done at leaves (Case 1). If work done at leaves and root is asymptotically same, then our result becomes height multiplied by work done at any level (Case 2). If work done at root is asymptotically more, then our result becomes work done at root (Case 3).
+: T(n) = 2T(n/2) + ?(n). It falls in case 2 as c is 1 and Loga] is also 1. So the solution is ?(n Logn)
+Examples of some standard algorithms whose time complexity can be evaluated using Master Method
+
+Merge Sort
+b
+: T(n) = T(n/2) + ?(1). It also falls in case 2 as c is 0 and Loga is also 0. So the solution is ?(Logn)
+Binary Search
+b
+
+
+
+
+It is not necessary that a recurrence of the form T(n) = aT(n/b) + f(n) can be solved using Master Theorem. The given three cases have some gaps between them. For example, the recurrence T(n) = 2T(n/2) + n/Logn cannot be solved using master method.
+Notes:
+
+1)
+Case 2 can be extended for f(n) = ?(nLogn) If f(n) = ?(nLogn) for some constant k >= 0 and c = Loga, then T(n) = ?(nLogn)
+2)
+c
+k
+
+c
+k
+b
+c
+k+1
+
+Practice Problems and Solutions on Master Theorem.
+Next –
+Analysis of Algorithm | Set 5 (Amortized Analysis Introduction)
+
+References:
+
+http://en.wikipedia.org/wiki/Master_theorem
+
+MIT Video Lecture on Asymptotic Notation | Recurrences | Substitution, Master Method
+
+Introduction to Algorithms 3rd Edition by Clifford Stein, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above
+
+Attention reader! Don’t stop learning now. Get hold of all the important DSA concepts with the at a student-friendly price and become industry ready. To complete your preparation from learning a language to DS Algo and many more, please refer
+
+DSA Self Paced Course
+
+Complete Interview Preparation Course
+.
+In case you wish to attend with experts, please refer and .
+live classes
+
+DSA Live Classes for Working Professionals
+
+Competitive Programming Live for Students
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Previous
+
+Analysis of Algorithms | Set 4 (Analysis of Loops)
+
+
+Next
+
+
+Analysis of Algorithm | Set 5 (Amortized Analysis Introduction)
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Analysis of Algorithm | Set 5 (Amortized Analysis Introduction)
+23, Sep 14
+
+
+
+Analysis of Algorithms | Set 1 (Asymptotic Analysis)
+03, Jan 12
+
+
+
+Analysis of Algorithms | Set 4 (Analysis of Loops)
+11, Feb 14
+
+
+
+Algorithms | Recurrences | Set 1
+27, Dec 18
+
+
+
+
+
+Algorithms Sample Questions | Recurrences | Set 2
+27, May 19
+
+
+
+Analysis of Algorithms | Big-O analysis
+28, Feb 18
+
+
+
+Master Theorem For Subtract and Conquer Recurrences
+12, Jul 17
+
+
+
+Advanced master theorem for divide and conquer recurrences
+17, Apr 18
+
+
+
+
+
+What is algorithm and why analysis of it is important?
+12, Jan 21
+
+
+
+Analysis of Algorithms | Set 2 (Worst, Average and Best Cases)
+19, Feb 12
+
+
+
+Analysis of Algorithms | Set 3 (Asymptotic Notations)
+26, Oct 13
+
+
+
+Analysis of Algorithms | Set 5 (Practice Problems)
+02, May 17
+
+
+
+
+
+Algorithms Sample Questions | Set 3 | Time Order Analysis
+27, May 19
+
+
+
+Asymptotic Analysis and comparison of sorting algorithms
+28, Dec 16
+
+
+
+Analysis of algorithms | little o and little omega notations
+14, Aug 17
+
+
+
+Practice Questions on Time Complexity Analysis
+12, Dec 17
+
+
+
+
+
+Time Complexity Analysis | Tower Of Hanoi (Recursion)
+27, Feb 18
+
+
+
+Amortized analysis for increment in counter
+23, Mar 18
+
+
+
+Complexity Analysis of Binary Search
+29, May 19
+
+
+
+Complexity analysis of various operations of Binary Min Heap
+26, Jun 20
+
+
+
+
+
+Examples of Big-O analysis
+23, Nov 20
+
+
+
+Analysis of different sorting techniques
+29, Jan 18
+
+
+
+Difference between Posteriori and Priori analysis
+07, Aug 19
+
+
+
+Guidelines for asymptotic analysis
+27, May 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+Current difficulty :
+Medium
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Improved By :
+
+
+Manish Dhanuka
+
+animagussirius7
+
+pragatpandya
+
+Article Tags :
+
+
+Analysis
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Analysis
+
+
+
+
+Analysis of different sorting techniques
+
+Cyclomatic Complexity
+
+Analysis of Algorithms | Big-O analysis
+
+Analysis of Algorithms | Set 5 (Practice Problems)
+
+Time complexities of different data structures
+
+
+
+
+
+
+
+
+
+More related articles in Analysis
+
+
+
+
+Complexity Analysis of Binary Search
+
+Tail Recursion
+
+Lower and Upper Bound Theory
+
+Difference between Recursion and Iteration
+
+Difference between Big Oh, Big Omega and Big Theta
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+

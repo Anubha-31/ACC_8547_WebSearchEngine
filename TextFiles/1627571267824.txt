@@ -1,0 +1,1603 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lower and Upper Bound Theory - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+ISRO CS
+
+
+
+ISRO CS Solved Papers
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+UGC NET CS
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+
+Home
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+
+Lower and Upper Bound Theory
+
+Analysis of Algorithms | Set 4 (Analysis of Loops)
+
+Analysis of Algorithms | Set 2 (Worst, Average and Best Cases)
+
+Analysis of Algorithms | Set 3 (Asymptotic Notations)
+
+Analysis of Algorithm | Set 4 (Solving Recurrences)
+
+Analysis of Algorithm | Set 5 (Amortized Analysis Introduction)
+
+What does ‘Space Complexity’ mean?
+
+Pseudo-polynomial Algorithms
+
+NP-Completeness | Set 1 (Introduction)
+
+A Time Complexity Question
+
+Merge Sort
+
+QuickSort
+
+HeapSort
+
+Binary Heap
+
+Time Complexity of building a heap
+
+Applications of Heap Data Structure
+
+Binomial Heap
+
+Fibonacci Heap | Set 1 (Introduction)
+
+Fibonacci Heap – Insertion and Union
+
+Fibonacci Heap – Deletion, Extract min and Decrease key
+
+Leftist Tree / Leftist Heap
+
+K-ary Heap
+
+Iterative HeapSort
+
+Top 50 Array Coding Problems for Interviews
+
+Recursion
+
+Difference between BFS and DFS
+
+A* Search Algorithm
+
+How to write a Pseudo Code?
+
+Recursive Practice Problems with Solutions
+
+Playfair Cipher with Examples
+
+
+
+
+
+
+
+
+Improve Article
+
+
+
+Lower and Upper Bound Theory
+
+
+
+
+Difficulty Level :
+
+Easy
+
+Last Updated :
+03 Feb, 2021
+
+The Lower and Upper Bound Theory provides a way to find the lowest complexity algorithm to solve a problem. Before understanding the theory, first lets have a brief look on what actually Lower and Upper bounds are.
+
+Let L(n) be the running time of an algorithm A(say), then g(n) is the of A if there exist two constants C and N such that L(n) >= C*g(n) for n > N. Lower bound of an algorithm is shown by the asymptotic notation called (or just Omega).
+Lower Bound –
+
+Lower Bound
+Big Omega
+
+Let U(n) be the running time of an algorithm A(say), then g(n) is the of A if there exist two constants C and N such that U(n) <= C*g(n) for n > N. Upper bound of an algorithm is shown by the asymptotic notation called (or just Oh).
+Upper Bound –
+
+Upper Bound
+Big Oh(O)
+According to the lower bound theory, for a lower bound L(n) of an algorithm, it is not possible to have any other algorithm (for a common problem) whose time complexity is less than L(n) for random input. Also every algorithm must take at least L(n) time in worst case. that L(n) here is the minimum of all the possible algorithm, of maximum complexity. The Lower Bound is a very important for any algorithm. Once we calculated it, then we can compare it with the actual complexity of the algorithm and if their order are same then we can declare our algorithm as optimal. So in this section we will be discussing about techniques for finding the lower bound of an algorithm.
+1. Lower Bound Theory:
+
+Note
+
+that our main motive is to get an optimal algorithm, which is the one having its Upper Bound Same as its Lower Bound (U(n)=L(n)). is a common example of an optimal algorithm.
+Note
+Merge Sort
+It is the easiest method to find the lower bound. The Lower bounds which can be easily observed on the basis of the number of input taken and the number of output produces are called Trivial Lower Bound.
+Trivial Lower Bound –
+
+Multiplication of n x n matrix, where,
+Example:
+
+
+
+
+
+: For 2 matrix we will have 2n inputs
+: 1 matrix of order n x n, i.e.,  n outputs
+Input
+2
+Output
+2
+In the above example its easily predictable that the lower bound is O(n).
+2
+The method is for all those algorithms that are comparison based. For example in sorting we have to compare the elements of the list among themselves and then sort them accordingly. Similar is the case with searching and thus we can implement the same in this case. Now we will look at some examples to understand its usage.
+Computational Model –
+
+It is a type of searching in which the list is already sorted. In linear search we compare the key with first element if it does not match we compare with second element and so on till we check against the nth element. Else we will end up with a failure.
+Ordered Searching –
+
+
+Example-1:
+Linear search
+
+Explanation –
+
+In binary search, we check the middle element against the key, if it is greater we search the first half else we check the second half and repeat the same process. The diagram below there is an illustration of binary search in an array consisting of 4 elements
+Example-2:
+Binary search
+
+Explanation –
+
+
+
+
+
+The max no of comparisons are n. Let there be k levels in the tree.
+Calculating the lower bound:
+
+No. of nodes will be 2-1
+k
+The upper bound of no of nodes in any comparison based search of an element in list of size n will be n as there are maximum of n comparisons in worst case scenario 2-1
+k
+Each level will take 1 comparison thus no. of comparisons k?|logn|
+2
+Thus the lower bound of any comparison based search from a list of n elements cannot be less than log(n). Therefore we can say that Binary Search is optimal as its complexity is ?(log n).
+The diagram below is an example of tree formed in sorting combinations with 3 elements.
+Sorting –
+
+
+
+
+
+
+
+For n elements, finding lower bound using computation model.
+Example –
+For n elements we have a total on n! combinations (leaf nodes). (Refer the diagram the total combinations are 3! or 6) also it is clear that the tree formed is a binary tree. Each level in the diagram indicates a comparison. Let there be k levels => 2 is the total number of leaf nodes in a full binary tree thus in this case we have n!?2.
+Explanation –
+
+k
+k
+As the k in the above example is the no of comparisons thus by computational model lower bond = k.
+Now we can say that,
+
+Thus, 
+T(n)>|log n!| 
+=> n!<=n
+Thus,
+log n!<=log n
+Taking ceiling function on both sides, we get
+|log n|>=|log n!|
+Thus complexity becomes ?(logn) or ?(nlogn)
+n!?2
+T(n)
+n
+n
+-
+n-
+-
+-
+n
+
+Using Lower bond theory to solve the algebraic problem:
+
+The type of programs build without any loops or control structures is called Straight Line Program. For example,
+Straight Line Program –
+
+
+
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//summing to nos
+
+Sum(a, b)
+
+{
+
+
+//no loops and no control structures
+
+
+c:= a+b;
+
+
+return
+c;
+
+}
+
+
+
+
+
+
+
+
+
+Problems related to algebra like solving equations inequalities etc., comes under algebraic problems. For example, solving equation ax+bx+c with simple programming.
+Algebraic Problem –
+
+2
+
+
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algo_Sol(a, b, c, x)
+
+{
+
+
+//1 assignment
+
+
+v:=a*x;
+
+
+
+//1 assignment
+
+
+v:=v+b;
+
+
+
+//1 assignment
+
+
+v:=v*x;
+
+
+
+//1 assignment
+
+
+ans:=v+c;
+
+
+return
+ans;
+
+}
+
+
+
+
+
+
+
+
+Complexity for solving here is 4 (excluding the returning). The above example shows us a simple way to solve an equation for 2 degree polynomial i.e., 4 thus for n degree polynomial we will have complexity of O(n).
+
+th
+2
+Let us demonstrate via an algorithm.
+ax+ax+ax+…+ax+a is a polynomial of degree n.
+Example:
+n
+n
+n-1
+n-1
+n-2
+n-2
+1
+0
+
+
+
+
+
+
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pow
+(x, n)
+
+
+{
+
+
+p := 1;
+
+
+
+
+//loop from 1 to n
+
+
+for
+i:=1 to n
+
+
+p := p*x;
+
+
+
+return
+p;
+
+
+}
+
+
+polynomial(A, x, n)
+
+
+{
+
+
+int
+p, v:=0;
+
+
+for
+i := 0 to n
+
+
+
+
+//loop within a loop from 0 to n
+
+
+v := v + A[i]*
+pow
+(x, i);
+
+
+return
+v;
+
+
+}
+
+
+
+
+
+
+
+
+Loop within a loop => complexity = O(n); Now to find an optimal algorithm we need to find the lower bound here (as per lower bound theory). As per Lower Bound Theory, The optimal algorithm to solve the above problem is the one having complexity O(n). Lets prove this theorem using lower bounds.
+2
+
+To prove that optimal algo of solving a n degree polynomial is O(n) The best solution for reducing the algo is to make this problem less complex by dividing the polynomial into several straight line problems.
+Theorem:
+
+Proof:
+=> ax+ax+ax+...+ax+a 
+can be written as, 
+((..(ax+a)x+..+a)x+a)x+a
+Now, algorithm will be as,
+v=0
+v=v+a
+v=v*x
+v=v+a
+v=v*x
+...
+v=v+a
+v=v*x
+v=v+a
+n
+n
+n-1
+n-1
+n-2
+n-2
+1
+0
+n
+n-1
+2
+1
+0
+n
+n-1
+1
+0
+
+
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+polynomial(A, x, n)
+
+
+{
+
+
+int
+p, v=0;
+
+
+
+// loop executed n times
+
+
+for
+i = n to 0
+
+
+v = (v + A[i])*x;
+
+
+
+return
+v;
+
+
+}
+
+
+
+
+
+
+
+
+Clearly, the complexity of this code is O(n). This way of solving such equations is called Horner’s method. Here is where lower bound theory works and give the optimum algorithm’s complexity as O(n).
+According to the upper bound theory, for an upper bound U(n) of an algorithm, we can always solve the problem in at most U(n) time.Time taken by a known algorithm to solve a problem with worse case input gives us the upper bound.
+2. Upper Bound Theory:
+
+
+Attention reader! Don’t stop learning now. Get hold of all the important DSA concepts with the at a student-friendly price and become industry ready. To complete your preparation from learning a language to DS Algo and many more, please refer
+
+DSA Self Paced Course
+
+Complete Interview Preparation Course
+.
+In case you wish to attend with experts, please refer and .
+live classes
+
+DSA Live Classes for Working Professionals
+
+Competitive Programming Live for Students
+
+
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Next
+
+
+Analysis of Algorithms | Set 4 (Analysis of Loops)
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Scala | Upper bound
+28, Feb 19
+
+
+
+Scala | Lower Bound
+12, Mar 19
+
+
+
+Python program to count upper and lower case characters without using inbuilt functions
+06, Apr 18
+
+
+
+Shell Script to Convert a File Content to Lower Case or Upper Case
+18, Apr 21
+
+
+
+
+
+Generate Binary Strings of length N using Branch and Bound
+20, Nov 19
+
+
+
+Bound, unbound, and static methods in Python
+27, Dec 19
+
+
+
+0/1 Knapsack using Least Cost Branch and Bound
+28, Jun 20
+
+
+
+Difference between Backtracking and Branch-N-Bound technique
+09, Jun 20
+
+
+
+
+
+How to specify which form element a label is bound to ?
+12, Apr 21
+
+
+
+Scala - View Bound
+27, Jun 20
+
+
+
+Convert given upper triangular Matrix to 1D Array
+07, Dec 20
+
+
+
+Node.js MySQL UPPER() Function
+16, Feb 21
+
+
+
+
+
+Java Program to Print Upper Star Triangle Pattern
+15, Mar 21
+
+
+
+Java Program to Print Mirror Upper Star Triangle Pattern
+21, Mar 21
+
+
+
+How to set the background image start from the upper left corner of the content using CSS?
+28, Apr 21
+
+
+
+Java Program to Display Upper Triangular Matrix
+27, Oct 20
+
+
+
+
+
+Convert given lower triangular Matrix to 1D array
+09, Feb 21
+
+
+
+Lower Insertion Point
+20, Dec 18
+
+
+
+Minimum number of operations to move all uppercase characters before all lower case characters
+01, Feb 19
+
+
+
+Java Program to Display Lower Triangular Matrix
+09, Nov 20
+
+
+
+
+
+Java Program to Check Whether a Given Matrix is Lower Triangular Matrix or Not
+05, Jan 21
+
+
+
+NodeJS MySQL LOWER() Function
+16, Feb 21
+
+
+
+Java Program to Print Mirror Lower Star Triangle Pattern
+15, Mar 21
+
+
+
+Efficient method to store a Lower Triangular Matrix using Column-major mapping
+15, Jun 21
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+piyush25pv
+
+@piyush25pv
+
+Vote for difficulty
+Current difficulty :
+Easy
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Improved By :
+
+
+soumya7
+
+sriharimalla001
+
+Article Tags :
+
+
+Picked
+
+Technical Scripter 2018
+
+Algorithms
+
+Analysis
+
+Technical Scripter
+
+Practice Tags :
+
+
+Algorithms
+
+
+
+Report Issue
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+Ad free experience with GeeksforGeeks Premium
+
+View Details
+
+
+
+
+
+
+
+
+DSA Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+DSA Live Classes for Working Professionals
+
+View Details
+
+
+
+
+
+
+
+
+
+Most popular in Algorithms
+
+
+
+
+Cyclomatic Complexity
+
+Find a triplet in an array whose sum is closest to a given number
+
+Converting Roman Numerals to Decimal lying between 1 to 3999
+
+Difference Between Symmetric and Asymmetric Key Encryption
+
+Quick Sort vs Merge Sort
+
+
+
+
+
+
+
+
+
+Most visited in Analysis
+
+
+
+
+Practice Questions on Time Complexity Analysis
+
+Analysis of Algorithms | Set 1 (Asymptotic Analysis)
+
+Understanding Time Complexity with Simple Examples
+
+Analysis of different sorting techniques
+
+Cyclomatic Complexity
+
+
+
+
+
+
+
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+Privacy Policy
+
+Contact Us
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+Languages
+
+CS Subjects
+
+Video Tutorials
+
+Practice
+
+Courses
+
+Company-wise
+
+Topic-wise
+
+How to begin?
+
+Contribute
+
+Write an Article
+
+Write Interview Experience
+
+Internships
+
+Videos
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+
