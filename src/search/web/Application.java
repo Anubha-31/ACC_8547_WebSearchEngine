@@ -3,13 +3,15 @@ package search.web;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.Set;
 import java.util.regex.Pattern;
-
-import spellcorrector.SpellCorrector;
 
 public class Application {
 
 	public static void main(String[] args) throws IOException {
+		SpellCorrector corrector = new SpellCorrector();
+		
+		corrector.loadSpellCorrector();
 
 		while (true) {
 			System.out.println("Please choose an option from the list below");
@@ -17,14 +19,15 @@ public class Application {
 			System.out.println("Choose 2 : Delete cache");
 			System.out.println("Choose 3 : Rank the web pages according to the occurance of a word");
 			System.out.println("Choose 4 : Words Suggestion");
-			System.out.println("Choose 5 : Exit from program");
+			System.out.println("Choose 5 : AutoComplete");
+			System.out.println("Choose 6 : Exit from program");
 
 //		String url = "https://www.shiksha.com/";
 			Scanner sc = new Scanner(System.in);
 			System.out.println("Please enter your choice");
 			int choice = sc.nextInt();
 			sc = new Scanner(System.in);
-			if (choice == 5) {
+			if (choice == 6) {
 				break;
 			}
 
@@ -62,16 +65,25 @@ public class Application {
 			case 4:
 				System.out.println("Please enter a word to search");
 				String sSearch = sc.nextLine();
-				SpellCorrector corrector = new SpellCorrector();
+				Set<String> suggestion = corrector.findSimilarWord(sSearch);
 				
-				corrector.loadSpellCorrector();
-				String suggestion = corrector.findSimilarWord(sSearch);
+//				if (!suggestion.isEmpty()) 
+//				    System.out.println("There are no similar words. Please enter the valid word to search");
+//				else
+//					System.out.println("Suggestion: " + suggestion);
 				
-				if (suggestion.length() == 0) 
-				    System.out.println("There are no similar words. Please enter the valid word to search");
-				else
-					System.out.println("Suggestion: " + suggestion);
+			case 5:
+				System.out.println("Please enter a word to Autocomplete");
+				String sSearch1 = sc.nextLine();
 				
+				ArrayList suggestion1 = corrector.autocomplete(sSearch1);
+				System.out.println(suggestion1.toString());
+				
+//				if (!suggestion.isEmpty()) 
+//				    System.out.println("There are no similar words. Please enter the valid word to search");
+//				else
+//					System.out.println("Suggestion: " + suggestion);
+//				
 			default:
 				System.out.println("Please select a valid number");
 				break;

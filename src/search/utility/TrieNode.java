@@ -1,4 +1,4 @@
-package spellcorrector;
+package search.utility;
 
 
 public class TrieNode 
