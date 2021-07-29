@@ -65,12 +65,11 @@ public class Application {
 			case 4:
 				System.out.println("Please enter a word to search");
 				String sSearch = sc.nextLine();
-				Set<String> suggestion = corrector.findSimilarWord(sSearch);
-				
-//				if (!suggestion.isEmpty()) 
-//				    System.out.println("There are no similar words. Please enter the valid word to search");
-//				else
-//					System.out.println("Suggestion: " + suggestion);
+				String suggestion = corrector.findSimilarWord(sSearch);
+				if (suggestion.length() == 0) 
+				    System.out.println("There are no similar words. Please enter the valid word to search");
+				else
+					System.out.println("Suggestion: " + suggestion);
 				
 			case 5:
 				System.out.println("Please enter a word to Autocomplete");

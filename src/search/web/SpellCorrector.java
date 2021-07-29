@@ -74,60 +74,38 @@ public class SpellCorrector {
 		}
 	}
 
-	public Set<String> findSimilarWord(String sInput) {
-		TreeSet<String> result = new TreeSet<String>();
-		if (sInput.length() == 0 || sInput == null)
-			return result;
-
+	public String findSimilarWord(String sInput) 
+	{
+		String result = "";
+		if(sInput.length()==0 || sInput==null )
+				return result;
+		
 		String sLowerInput = sInput.toLowerCase();
-		TreeMap<Integer, String> m3 = null;
-
-		TreeMap<Integer, TreeMap<Integer, TreeSet<String>>> map = new TreeMap<>();
-
+			
+		TreeMap<Integer, TreeMap<Integer, TreeSet<String>>> map = new TreeMap<>();	
+		
 		TrieNode node = trie.search(sLowerInput);
-
-		if (node == null) {
-			for (String word : dictWordCount.keySet()) {
-				int distance = search.utility.Sequences.editDistance(word, sLowerInput);
+		
+		if(node == null) 
+		{
+			for (String word: dictWordCount.keySet()) 
+			{
+				int distance = search.utility.Sequences.editDistance(word, sLowerInput);				
 				TreeMap<Integer, TreeSet<String>> similarWords = map.getOrDefault(distance, new TreeMap<>());
-
+				
 				int iFrequency = dictWordCount.get(word);
 				TreeSet<String> set = similarWords.getOrDefault(iFrequency, new TreeSet<>());
-
-				set.add(word);
+				set.add(word);			
 				similarWords.put(iFrequency, set);
-				map.put(distance, similarWords);
-			}
-
-			// Get a set of the entries
-			Set set = map.entrySet();
-
-			// Get an iterator
-
-			Iterator it = set.iterator();
-			int count = 0;
-			while (it.hasNext()) {
-				count++;
-				if (count == 3) {
-					break;
-				}
-				Map.Entry me = (Map.Entry) it.next();
-				System.out.print("Key is: " + me.getKey() + " & ");
-				System.out.println("Value is: " + me.getValue());
-				if (me != null && me.getKey() != null && me.getValue() != null) {
-					m3.put((Integer) me.getKey(), me.getValue().toString());
-				}
-				// m3= (TreeMap<Integer, TreeSet<String>>) me.getValue();
-			}
-
-//			result = map.firstEntry().getValue().lastEntry().getValue().first();
-		}
-
-		System.out.println(m3.toString());
-//		else if (node !=null) 
-//			result = sLowerInput;
-
-		return null;
+				map.put(distance, similarWords);		
+			}		
+			
+			result = map.firstEntry().getValue().lastEntry().getValue().first();
+		} 
+		else if (node !=null) 
+			result = sLowerInput;
+			 
+		return result;
 	}
 
 	public ArrayList autocomplete(String sInput) {
