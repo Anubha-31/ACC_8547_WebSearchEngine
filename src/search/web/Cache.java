@@ -30,7 +30,11 @@ public class Cache {
 		File fstream = new File("Cache.txt");
 		
 		if (fstream.exists()) {
-			fstream.delete();
+			//fstream.delete();
+			BufferedWriter out = new BufferedWriter(new FileWriter(fstream, false));
+			out.write("");
+			out.flush();
+			out.close();
 			System.out.println("Deleted the file: ");
 		} else {
 			System.out.println("Failed to delete the file.");

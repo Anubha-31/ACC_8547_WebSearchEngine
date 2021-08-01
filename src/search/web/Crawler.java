@@ -12,7 +12,7 @@ import org.jsoup.select.Elements;
 
 public class Crawler {
 
-	public static final int MAX_DEPTH = 2;
+	public static final int MAX_DEPTH = 1;
 	public static final String URL_PATTERN = "((http|https)://)(www.)?[a-zA-Z0-9@:%._\\+~#?&//=]{2,256}\\.[a-z]{2,6}([-a-zA-Z0-9@:%._\\+~#?&//=]*)";
 
 	public static void crawlWeb(int depth, String url, ArrayList<String> visitedURL) throws IOException {

@@ -3,7 +3,6 @@ package search.web;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.Set;
 import java.util.regex.Pattern;
 
 public class Application {
@@ -13,11 +12,11 @@ public class Application {
 
 		while (true) {
 			System.out.println("Please choose an option from the list below");
-			System.out.println("Choose 1 : Search a url");
+			System.out.println("Choose 1 : Search a url (Web Crawling)");
 			System.out.println("Choose 2 : Delete cache");
 			System.out.println("Choose 3 : Rank the web pages according to the occurance of a word");
-			System.out.println("Choose 4 : Words Suggestion");
-			System.out.println("Choose 5 : AutoComplete");
+			System.out.println("Choose 4 : Auto-Correct (Words Suggestion)");
+			System.out.println("Choose 5 : Auto-Complete");
 			System.out.println("Choose 6 : Exit from program");
 
 //		String url = "https://www.shiksha.com/";
@@ -61,7 +60,7 @@ public class Application {
 				break;
 
 			case 4:
-				System.out.println("Please enter a word to search");
+				System.out.println("Please enter a word");
 
 				String sSearch = sc.nextLine();
 				corrector = new SpellCorrector();

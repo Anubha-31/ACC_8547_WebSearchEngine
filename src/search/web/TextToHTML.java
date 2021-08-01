@@ -30,6 +30,7 @@ public class TextToHTML {
         if(!file3.exists())
 		file3.createNewFile();
 		Elements element = doc.select("*");
+		
 		Cache.addcache(url+" "+loc+".txt");
 
 		BufferedWriter filefinale = new BufferedWriter(new FileWriter(file3));
