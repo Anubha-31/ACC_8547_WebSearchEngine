@@ -1,3 +1,3 @@
 # ACC_8547_WebSearchEngine
 
-As part of the Advaced Comuting Concepts, we implemented this Project. The project features the fuctionalities like web crawler, HTML to Text, Ranking of the Webpages, caching, finding the occirence of the words in webpages and Auto correction and Autocompletion of words which are basically the main features in any of a modern web search Engine. 
+As part of the Advaced Comuting Concepts, we implemented this project. The project features the fuctionalities like web crawler, HTML to Text, Ranking of the Webpages, caching, finding the occurance of the words in webpages and Auto correction and Autocompletion of words which are basically the main features in any of a modern web search Engine. 
